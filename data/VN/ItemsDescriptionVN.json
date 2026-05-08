@@ -294,7 +294,7 @@
         ],
         "hard2k1ll": [
             "< hard2k1ll >",
-            "Nhận trang bị gian lận 'Đôi Cánh Pha Lê của Tiên Nữ'. <- nếu ông có tên hay hơn",
+            "Nhận trang bị gian lận 'Đôi Cánh Pha Lê Của Nữ Hoàng Tiên'.",
             "Miễn nhiễm sát thương rơi và giảm sát thương cực lớn."
         ],
         "get40rfree": [
@@ -303,7 +303,7 @@
         ],
         "6a1n60ld": [
             "< 6a1n60ld >",
-            "Nhận 100.000 Yên và trang bị gian lận 'Búa May Mắn'. Tiêu diệt quái sẽ nhận thêm vàng."
+            "Nhận 100.000 Yên và trang bị gian lận 'Búa May Mắn của Ruika'. Tiêu diệt quái sẽ nhận thêm vàng."
         ],
         "healmeplz": [
             "< healmeplz >",
@@ -311,11 +311,11 @@
         ],
         "unshatter": [
             "< unshatter >",
-            "Nhận trang bị gian lận 'Ngón Tay Vàng'. Khi trang bị, tấn công mục tiêu sẽ không tiêu hao độ bền vũ khí."
+            "Nhận trang bị gian lận 'Kim Thủ Chỉ của Shiroin'. Khi trang bị, tấn công mục tiêu sẽ không tiêu hao độ bền vũ khí."
         ],
         "60dpat": [
             "< 60dpat >",
-            "Nhận trang bị gian lận 'Chất Xúc Tác Amatoria'. Khi xoa đầu Imouto ở nhà sẽ tăng mạnh độ thân mật."
+            "Nhận trang bị gian lận 'Ái Thần Dâng Trào'. Khi xoa đầu em gái ở nhà sẽ tăng mạnh độ hảo cảm."
         ],
         "muestacz": [
             "< muestacz >",
@@ -323,7 +323,7 @@
         ],
         "1f0g0ty0u": [
             "< 1f0g0ty0u >",
-            "Đổi tên của Imouto."
+            "Đổi tên của em gái."
         ]
     },
     "23": {
@@ -389,6 +389,21 @@
     "27": {
         "name": [
             "Sữa Chuối"
+        ],
+        "subtitle": [
+            "\"Tài trợ bởi: NLCH\""		
+		],
+        "description": [
+            "Một loại đồ uống từ máy bán hàng kỳ lạ. Bỏ qua hương vị,",
+            "tại sao ở đây lại có một cái máy nước tự động nhỉ?"
+        ],
+        "ability": [
+            "HP+75, Tăng tốc độ di chuyển trong một khoảng thời gian"
+        ]
+    },
+       "28": {
+        "name": [
+            "Sữa Socola"
         ],
         "subtitle": [
             "\"Tài trợ bởi: NLCH\""		
