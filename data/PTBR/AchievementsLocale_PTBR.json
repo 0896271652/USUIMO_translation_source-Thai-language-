@@ -149,6 +149,11 @@
       "Description": "Continue correndo em altíssima velocidade",
       "Pop Up Desc": "Você Nunca Para!"
     },
+    "YouAreBeingSummoned": {
+      "Name": "Você Está Sendo Invocado, ◉▽◉!",
+      "Description": "Criatura antiga descoberta!",
+      "Pop Up Desc": "\\fs[18]Você Está Sendo Invocado, ◉▽◉!"
+    },
     "YouTooCanBecomeLight": {
       "Name": "Você Também Pode Virar Luz!",
       "Description": "A maldição da Aki se intensificou",

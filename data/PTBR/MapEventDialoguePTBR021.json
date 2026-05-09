@@ -90,7 +90,8 @@
     ],
     "11": [
       "Ver a \\str[120]",
-      "Sair Agora"
+      "Sair Agora",
+      "Descansar em Casa"
     ],
     "12": [
       "Certo, vamos dar uma olhada na \\str[120]!"
@@ -98,6 +99,19 @@
     "13": [
       "Certo, hora de botar tudo em ordem ",
       "e partir para uma aventura!"
+    ],
+    "14": [
+      "Hmm... de qualquer forma, o tempo não parece muito bom hoje.",
+      "Em momentos assim, ficar em casa e passar um tempo com a \\str[120]",
+      "é definitivamente mais interessante..."
+    ],
+    "15": [
+      "Aaah... estou me sentindo tão preguiçoso hoje,",
+      "não consigo encontrar nem um pingo de motivação.",
+      "Não deve ser grande coisa relaxar sem peso na consciência",
+      "de vez em quando, certo?",
+      "Comparado às trivialidades lá fora,",
+      "ficar em casa com a \\str[120] é muito mais divertido."
     ]
   },
   "3": {
