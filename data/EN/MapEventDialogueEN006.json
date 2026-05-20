@@ -529,7 +529,7 @@
       "and gently pulled her into my arms."
     ],
     "4": [
-      "\\str[120] leaned in gently, pressing its small body against me.",
+      "\\str[120] leaned in gently, pressing her small body against me.",
       "Even in the cramped bathtub, her frame nestled into my arms",
       "without the slightest trouble."
     ],
@@ -1737,6 +1737,11 @@
       "\\nl< >\"Honestly, \\str[121], ",
       "you really can't control yourself at times like this...\""
     ],
+    "35.1": [
+      "Guh... I guess that really is the case...",
+      "I wonder why... Every time this happens, ",
+      "I just can't seem to control myself."
+    ],  
     "36": [
       "\\nl< >\"—It must be painful to hold it in, right?",
       "Even with me watching you like this, it's still so energetic...",

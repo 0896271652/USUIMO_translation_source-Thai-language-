@@ -646,6 +646,15 @@
       ""
     ]
   },
+  "83": {
+    "name": [],
+    "subtitle": [
+      "\"That look in his eyes just got sharp all of a sudden...!\""
+    ],
+    "description": [
+      "Physical attacks gain Penetration, ignoring a portion of the target's defense"
+    ]
+  },  
   "85": {
     "name": [],
     "subtitle": [
@@ -797,6 +806,15 @@
     ],
     "description": [
       "Permanently restores HP automatically"
+    ]
+  },
+  "123": {
+    "name": [],
+    "subtitle": [
+      "\"One who pursues prey must be prepared to become prey themselves.\""
+    ],
+    "description": [
+      "All Hunter series equipment has been enhanced!"
     ]
   }
 }

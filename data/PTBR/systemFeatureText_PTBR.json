@@ -48,6 +48,9 @@
   "LockedFPS": [
     "Travar a 60 FPS"
   ],
+  "ZakoMode": [
+    "Modo ZAKO"
+  ],
   "Language": [
     "Idioma do Jogo"
   ],
@@ -59,6 +62,10 @@
     "Um erro ocorreu. Pedimos que relate o bug no servidor do Discord do NLCH.",
     "(Clique em \"OK\" para abrir o link de convite)",
     "(Anexe uma captura de tela do erro)"
+  ],
+  "AnnouncementMenu": [
+    "Announcements",
+    "Changelogs"
   ],
   "UpdateComplete1": [
     "Atualização do jogo concluída!",

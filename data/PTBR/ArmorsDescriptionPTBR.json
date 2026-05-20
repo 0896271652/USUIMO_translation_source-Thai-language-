@@ -959,6 +959,21 @@
       "Aumenta o dano de estilhaçamento causado ao quebrar o estado de Congelamento de um inimigo"
     ]
   },
+  "72": {
+    "name": [
+      "Asas de Cristal Fantasma"
+    ],
+    "subtitle": " ",
+    "description": [
+      "Asas espirituais condensadas a partir de mana pura.",
+      "Conhecidas por desencadear espontaneamente fenômenos físicos,",
+      "são altamente valorizadas como catalisadores alquímicos de alto nível"
+    ],
+    "ability": [
+      "Reduz o dano de queda em 40%",
+      "Equipar aumenta a velocidade de conjuração e o poder mágico"
+    ]
+  },
   "73": {
     "name": [
       "Anel de Lava"
@@ -1248,6 +1263,22 @@
       "  "
     ],
     "ability": []
+  },
+  "295": {
+    "name": [
+      "Asas de Cristal da Rainha das Fadas"
+    ],
+    "subtitle": [
+      "\"Nas profundezas, a exploradora Kyurame contemplou a ascensão iridescente da Rainha—\""
+    ],
+    "description": [
+      "Asas de cristal prismáticas transbordando com um brilho iridescente.",
+      "Um catalisador raro que apenas a \"Rainha\", no ápice dos espíritos, pode possuir"
+    ],
+    "ability": [
+      "Imune à dano de queda",
+      "O dano final levado é reduzido em 60%"
+    ]
   },
   "296": {
     "name": [
