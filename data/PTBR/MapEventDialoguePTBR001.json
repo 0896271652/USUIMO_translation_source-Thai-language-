@@ -714,6 +714,22 @@
       "você tem cheiro de cenouras, usa…"
     ]
   },
+  "25": {
+    "objectName": [
+      "\\c[115]Dragão das Fadas"
+    ],
+    "sentouryoku": [
+      "20"
+    ],
+    "description": [
+      "Uma criatura mágica muito rara que",
+      "se assemelha a um filhote de dragão.",
+      "É um espírito que ganhou forma física ao absorver",
+      "o resíduo de mana liberado pelos dragões.",
+      "Extremamente tímida,",
+      "fugirá no instante em que perceber perigo..."
+    ]
+  },
   "28": {
     "objectName": [
       "Sacabambaspis Gigante"
@@ -1719,18 +1735,18 @@
   },
   "121": {
     "objectName": [
-      "\\c[10]Pillar of Seals"
+      "\\c[10]Pilar de Selos"
     ],
     "sentouryoku": [
       "6666"
     ],
     "description": [
-      "This is a \"trial\".",
-      "A trial rising from the Abyss.",
-      "The growth of a monster... ",
-      "is to defeat the frailty of its own past...",
-      "Right? You are the same, are you not?",
-      "O adventurer, you who seek the truth—"
+      "Isto é um \"teste\".",
+      "Um teste que se ergue do Abismo.",
+      "O crescimento de um monstro...",
+      "é superar a fraqueza do seu próprio passado...",
+      "Certo? Você não é igual, não é?",
+      "Ó aventureiro, você que busca a verdade—"
     ]
   }
 }

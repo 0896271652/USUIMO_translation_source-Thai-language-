@@ -5,7 +5,7 @@
     ],
     "subtitle": "",
     "description": [
-      "A heavy anvil from a blacksmith’s workshop, somehow carried ",
+      "A heavy anvil from a blacksmith's workshop, somehow carried ",
       "around as equipment. Its hardness and weight make it perfect for",
       "sharpening weapons, though it may be tough for the inexperienced..."
     ],
@@ -42,6 +42,21 @@
       ""
     ]
   },
+  "4": {
+    "name": [
+      "Hunter's Shoes"
+    ],
+    "subtitle": "",
+    "description": [
+        "Boots crafted from thick hide and wooden soles, ",
+        "lined with a soft fur layer to muffle every footstep",
+        "Silent movement is the hunter's first step"
+    ],
+    "ability": [
+      "Increases movement speed while drawing the bow",
+      "Grants \\ss[10] skill effect while equipped"
+    ]
+  },  
   "5": {
     "name": [
       "Safety Gloves"
@@ -96,7 +111,7 @@
     ],
     "ability": [
       "Equipping it boosts casting speed and magic power",
-      "Magical weapons’ attacks deal an extra 5% magic damage"
+      "Magical weapons' attacks deal an extra 5% magic damage"
     ]
   },
   "9": {
@@ -110,7 +125,7 @@
     ],
     "ability": [
       "Equipping it boosts casting speed and magic power",
-      "Magical weapons’ attacks deal an extra 10% magic damage"
+      "Magical weapons' attacks deal an extra 10% magic damage"
     ]
   },
   "10": {
@@ -139,7 +154,7 @@
     ],
     "ability": [
       "When equipped, the held weapon transforms into a magical weapon",
-      "Magical weapons’ attacks deal an extra 30% magic damage"
+      "Magical weapons' attacks deal an extra 30% magic damage"
     ]
   },
   "12": {
@@ -151,7 +166,7 @@
     ],
     "description": [
       "Neko claws hidden inside a Neko Slime, seemingly infused",
-      "with a cat’s spirit. Equipping them boosts your agility!"
+      "with a cat's spirit. Equipping them boosts your agility!"
     ],
     "ability": [
       "Increases attack power and attack speed",
@@ -167,7 +182,7 @@
     ],
     "description": [
       "Neko paws hidden inside a Neko Slime, seemingly infused",
-      "with a cat’s spirit. Equipping them boosts your agility!"
+      "with a cat's spirit. Equipping them boosts your agility!"
     ],
     "ability": [
       "Increases attack and movement speed, reduces Senpo cooldown",
@@ -308,12 +323,12 @@
   },
   "24": {
     "name": [
-      "Hunter’s Garb"
+      "Hunter's Garb"
     ],
     "subtitle": "",
     "description": [
       "Stitched from thick hide and tough linen, it was once the everyday ",
-      "gear of forest hunters. Though defense is limited, it’s light and ",
+      "gear of forest hunters. Though defense is limited, it's light and ",
       "flexible, letting the wearer move quickly through the woods"
     ],
     "ability": [
@@ -322,7 +337,7 @@
   },
   "25": {
     "name": [
-      "Hunter’s Belt"
+      "Hunter's Belt"
     ],
     "subtitle": "",
     "description": [
@@ -407,7 +422,7 @@
     ],
     "description": [
       "A small, sharp dagger that fits easily in a boot",
-      "To a hunter, it always draws out the prey’s final offering"
+      "To a hunter, it always draws out the prey's final offering"
     ],
     "ability": [
       "Increases chances of meat drops"
@@ -435,7 +450,7 @@
     ],
     "subtitle": "",
     "description": [
-      "\"Hyaa—!! Don’t mess with me nya!\"",
+      "\"Hyaa—!! Don't mess with me nya!\"",
       "Soft-padded cat paw gloves, the prized weapon of a certain catgirl",
       "Wearing them grants feline agility—and a craving for fish…"
     ],
@@ -454,7 +469,7 @@
       "really expect any defense. But the apples are so delicious"
     ],
     "ability": [
-      "There’s a chance to activate healing when injured"
+      "There's a chance to activate healing when injured"
     ]
   },
   "34": {
@@ -464,8 +479,8 @@
     "subtitle": "",
     "description": [
       "Legend says an adventurer, too afraid of fighting barehanded, ",
-      "embedded a sword into a ring. It’s far too small to use, ",
-      "but it sure boosts one’s presence"
+      "embedded a sword into a ring. It's far too small to use, ",
+      "but it sure boosts one's presence"
     ],
     "ability": [
       "Physical attack power +15%"
@@ -479,7 +494,7 @@
     "description": [
       "A finely crafted short blade, often carried by foreign samurai ",
       "as a sidearm. Though short, its edge can tear flesh wide open,",
-      "leaving wounds that won’t easily stop bleeding"
+      "leaving wounds that won't easily stop bleeding"
     ],
     "ability": [
       "Normal attack count with melee weapons +1",
@@ -524,7 +539,7 @@
       "Yet, even with a belly full of gold, its greed knows no bounds"
     ],
     "ability": [
-      "Emits Mamon’s Demand aura. Current savings: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
+      "Emits Mamon's Demand aura. Current savings: \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0]yen!",
       "Collects money endlessly, spitting out interest every 10 seconds"
     ]
   },
@@ -562,7 +577,7 @@
     "subtitle": "",
     "description": [
       "A detachable bunny ear accessory",
-      "No matter who wears it, they’ll look absolutely adorable!"
+      "No matter who wears it, they'll look absolutely adorable!"
     ],
     "ability": [
       "Blessed with luck! Items are more likely to drop!"
@@ -577,7 +592,7 @@
     ],
     "description": [
       "A will that sacrificed everything for explosions",
-      "Now that you bear it, won’t you strive for even bigger blasts?"
+      "Now that you bear it, won't you strive for even bigger blasts?"
     ],
     "ability": [
       "Small chance to trigger an explosion when attacking or hit",
@@ -586,7 +601,7 @@
   },
   "43": {
     "name": [
-      "Bladekeepers’ Badge"
+      "Bladekeepers' Badge"
     ],
     "subtitle": [
       "\"You adventurers make me sick!",
@@ -608,12 +623,12 @@
       "\"The Sacabambaspis has seen it all before.\""
     ],
     "description": [
-      "A legendary ancient Servant—though it’s a fish, it can’t swim",
+      "A legendary ancient Servant—though it's a fish, it can't swim",
       "It has tough skin, and its special move is a Cyclone Jet Cannon!"
     ],
     "ability": [
       "Can lift up the Saccabankame turtle and throw it as an attack",
-      "Once it falls into the water, it can’t get back out..."
+      "Once it falls into the water, it can't get back out..."
     ]
   },
   "45": {
@@ -649,7 +664,7 @@
   },
   "47": {
     "name": [
-      "Xerise’s Cursed Hand"
+      "Xerise's Cursed Hand"
     ],
     "subtitle": "",
     "description": [
@@ -685,7 +700,7 @@
       "\"Don't you ever stop！\""
     ],
     "description": [
-      "A crimson horn filled with the Jackalope’s magic",
+      "A crimson horn filled with the Jackalope's magic",
       "If magic could be supplied endlessly, it might keep accelerating ",
       "until it became a comet streaking across the sky!"
     ],
@@ -705,6 +720,21 @@
     ],
     "ability": [
       "Attracts seagulls that steal your chips"
+    ]
+  },
+  "51": {
+    "name": [
+      "Hunter's Gloves"
+    ],
+    "subtitle": "",
+    "description": [
+      "Gloves crafted from tanned hide, ",
+      "with reinforced fingertips designed for extended use of the bow",
+      "Old hunters believe that a good pair of gloves gives arrows eyes of their own"
+    ],
+    "ability": [
+      "Arrows fired gain 2 additional Penetration hits",
+      "Shots have a small chance to fire multiple arrows simultaneously"
     ]
   },
   "52": {
@@ -743,7 +773,7 @@
     ],
     "subtitle": "",
     "description": [
-      "A saint’s relic yet to be filled, it blesses the holder with",
+      "A saint's relic yet to be filled, it blesses the holder with",
       "immense luck. The source of this blessing remains unknown,",
       "as it quietly awaits the day it will be complete"
     ],
@@ -753,7 +783,7 @@
   },
   "55": {
     "name": [
-      "Arsonist’s Gloves"
+      "Arsonist's Gloves"
     ],
     "subtitle": [
       "\"Hah, Such filthy fireworks.\""
@@ -768,7 +798,7 @@
   },
   "56": {
     "name": [
-      "Saint Maiden’s Mercy"
+      "Saint Maiden's Mercy"
     ],
     "subtitle": [
       "\"Good child, good child...\""
@@ -779,7 +809,7 @@
     ],
     "ability": [
       "Forcibly enters Sage Mode",
-      "Gain more affinity when patting \\str[120]’s head"
+      "Gain more affinity when patting \\str[120]'s head"
     ]
   },
   "57": {
@@ -791,9 +821,9 @@
     ],
     "description": [
       "ASABA, consumed by grief over the lost strawberry, ",
-      "unleashes his ultimate art. Once targeted, you’re swallowed",
+      "unleashes his ultimate art. Once targeted, you're swallowed",
       "by an unavoidable storm of combos… But sorrow lingers—",
-      "burned by fate’s emotions, you too inherit this forbidden technique! "
+      "burned by fate's emotions, you too inherit this forbidden technique! "
     ],
     "ability": [
       "Unlock and allow the use of Skill \\c[27]Musou Burst Stream"
@@ -807,7 +837,7 @@
       ""
     ],
     "description": [
-      "The Fallen Magician’s Precious Relic. ",
+      "The Fallen Magician's Precious Relic. ",
       "A pendant crafted from a small amount of Philosopher's Fragment ",
       "imbued with a faint yet everlasting alchemical power"
     ],
@@ -1011,7 +1041,7 @@
     ],
     "subtitle": "",
     "description": [
-      "An eyeball taken from a demon. It’s still watching.  ",
+      "An eyeball taken from a demon. It's still watching.  ",
       "Demons skilled at manipulating minds often possess the ability ",
       "to see through things. Perhaps it allows you to notice details ",
       "that would otherwise be overlooked..."
@@ -1062,7 +1092,7 @@
     ],
     "ability": [
       "Grants area detection when equipped",
-      "Detected object types increase as the core’s level rises"
+      "Detected object types increase as the core's level rises"
     ]
   },
   "125": {
@@ -1158,7 +1188,7 @@
       "Bunny Plush"
     ],
     "subtitle": [
-      "\"Waaah—! Don’t break it~~!\""
+      "\"Waaah—! Don't break it~~!\""
     ],
     "description": [
       "A stuffed bunny plush that \\str[120] always carries in ",
@@ -1187,13 +1217,13 @@
     "description": [
       "A custom-made outfit from the knight,",
       "supposedly for promoting the game",
-      "But I don’t really want to wear it"
+      "But I don't really want to wear it"
     ],
     "ability": []
   },
   "152": {
     "name": [
-      "\\str[120]’s Pajamas"
+      "\\str[120]'s Pajamas"
     ],
     "subtitle": "",
     "description": [
@@ -1205,7 +1235,7 @@
   },
   "153": {
     "name": [
-      "\\str[120]’s Shorts"
+      "\\str[120]'s Shorts"
     ],
     "subtitle": "",
     "description": [
@@ -1283,14 +1313,14 @@
   },    
   "296": {
     "name": [
-      "Ruika’s Lucky Mallet"
+      "Ruika's Lucky Mallet"
     ],
     "subtitle": [
       "\"Head Maid Ruika always uses it to bonk the disobedient bunnies.\""
     ],
     "description": [
       "A hidden treasure of Maid Bunnies, said to be why they took over the ",
-      "market so fast. With a light swing, it grants the wielder’s wishes—",
+      "market so fast. With a light swing, it grants the wielder's wishes—",
       "Adventurers often see it fixing machines broken by troublemakers"
     ],
     "ability": [
@@ -1299,14 +1329,14 @@
   },
   "297": {
     "name": [
-      "Mio’s First Aid Kit"
+      "Mio's First Aid Kit"
     ],
     "subtitle": [
       "\"Oh my god! I fell into the hole again!?\""
     ],
     "description": [
       "Originally a tool the admin used to test the healing system",
-      "but he forgot to delete it later. Still, it’s useless ",
+      "but he forgot to delete it later. Still, it's useless ",
       "against instant-death mechanics"
     ],
     "ability": [
@@ -1315,7 +1345,7 @@
   },
   "298": {
     "name": [
-      "Shiroin’s Golden Finger"
+      "Shiroin's Golden Finger"
     ],
     "subtitle": [
       "\"You know this thing will ruin the game, right?\"",
@@ -1324,7 +1354,7 @@
       "\"Of course.\""
     ],
     "description": [
-      "A relic that turns touch to gold — the Bladekeepers’ ultimate dream"
+      "A relic that turns touch to gold — the Bladekeepers' ultimate dream"
     ],
     "ability": [
       "Weapons no longer break from attacks"
@@ -1352,7 +1382,7 @@
       "Catalyst Amatoria"
     ],
     "subtitle": [
-      "\"Give me your love—! Otherwise, let’s just die together~~~!\""
+      "\"Give me your love—! Otherwise, let's just die together~~~!\""
     ],
     "description": [
       "A forbidden artifact forged by a certain yandere archdemon",

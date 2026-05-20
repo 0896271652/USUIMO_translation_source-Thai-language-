@@ -47,6 +47,7 @@
       "10 Yen"
     ],
     "subtitle": "",
+    "beIndependent": true,
     "description": [
       "Just a coin worth 10 Yen",
       "But… it can’t buy anything at all!"
@@ -58,6 +59,7 @@
       "50 Yen"
     ],
     "subtitle": "",
+    "beIndependent": true,
     "description": [
       "Just a coin worth 50 Yen",
       "Still seems like it buys nothing… but losing it would still hurt"
@@ -69,6 +71,7 @@
       "100 Yen"
     ],
     "subtitle": "",
+    "beIndependent": true,
     "description": [
       "Just a coin worth 100 Yen",
       "With a bit of luck, it might be enough to buy ",
@@ -81,6 +84,7 @@
       "500 Yen"
     ],
     "subtitle": "",
+    "beIndependent": true,
     "description": [
       "Just a coin worth 500 Yen",
       "If it goes into the gacha… maybe—just maybe—",
@@ -93,6 +97,7 @@
       "1000 Yen"
     ],
     "subtitle": "",
+    "beIndependent": true,
     "description": [
       "Just a 1000 Yen banknote",
       "No one knows why even monsters have started ",
@@ -102,9 +107,10 @@
   },
   "9": {
     "name": [
-      "5000Yen"
+      "5000 Yen"
     ],
     "subtitle": "",
+    "beIndependent": true,
     "description": [
       "Just a 5000 Yen banknote",
       "Anyone who sees it can’t help but feel moved—",
@@ -117,6 +123,7 @@
       "10000 Yen"
     ],
     "subtitle": "",
+    "beIndependent": true,
     "description": [
       "Just a 10000 Yen banknote",
       "Even a gacha machine would smile at such value—"
@@ -128,6 +135,7 @@
       "50000 Yen"
     ],
     "subtitle": "",
+    "beIndependent": true,
     "description": [
       "A thick stack of 5000 Yen banknotes",
       "As the maid Bunnys rapidly expand trade",
@@ -141,6 +149,7 @@
       "100000 Yen"
     ],
     "subtitle": "",
+    "beIndependent": true,
     "description": [
       "A thick stack of 10000 Yen banknotes",
       "Its scent of wealth can even make ",
@@ -339,7 +348,7 @@
       "Never mind the taste, why is there a vending machine?"
     ],
     "ability": [
-      "HP+120、gained the Delicious!! status"
+      "HP+120. Temporarily grants Regeneration"
     ]
   },
   "24": {
@@ -354,7 +363,7 @@
       "Never mind the taste, why is there a vending machine?"
     ],
     "ability": [
-      "HP+75、randomly remove 1 status ailment"
+      "HP+75. Randomly removes one status ailment"
     ]
   },
   "25": {
@@ -369,7 +378,7 @@
       "Never mind the taste, why is there a vending machine?"
     ],
     "ability": [
-      "HP+75、Attack+50% for a while"
+      "HP+75. Temporarily increases Physical Attack by 50%"
     ]
   },
   "26": {
@@ -384,7 +393,7 @@
       "Never mind the taste, why is there a vending machine?"
     ],
     "ability": [
-      "HP+75、Magic Attack+50% for a while"
+      "HP+75. Temporarily increases Magic Attack by 50%"
     ]
   },
   "27": {
@@ -399,7 +408,7 @@
       "Never mind the taste, why is there a vending machine?"
     ],
     "ability": [
-      "HP+75、Speed up for a while"
+      "HP+75. Temporarily increases Attack Speed and Movement Speed"
     ]
   },
   "30": {
@@ -459,6 +468,7 @@
       "Hits like a shock the moment it touches your tongue!"
     ],
     "ability": [
+      "Grants Sensitive status when fed to \\str[120]",
       "If eaten after being thrown, the target gains a temporary Sensitivity Up status"
     ]
   },
@@ -474,7 +484,7 @@
       "Never mind the taste, why is there a vending machine?"
     ],
     "ability": [
-      "Violent shaking may trigger a powerful explosion"
+      "Shake vigorously and throw to trigger a massive explosion"
     ]
   },
   "41": {
@@ -563,8 +573,8 @@
       "\"The endless curiosity of a foolish adventurer\""
     ],
     "description": [
-      "A magic card imbued with spells. Designed so",
-      "even novices can easily activate its effects"
+      "A magic card imbued with spells",
+      "Designed so even novices can easily activate its effects"
     ],
     "ability": [
       "used forcibly teleports you to a random map"
@@ -578,8 +588,8 @@
       "\"May you receive her favor...\""
     ],
     "description": [
-      "A magic card imbued with spells. Designed so",
-      "even novices can easily activate its effects"
+      "A magic card imbued with spells",
+      "Designed so even novices can easily activate its effects"
     ],
     "ability": [
       "When used, summons a gate leading to the Fallen Church"
@@ -593,13 +603,28 @@
       "\"The dragon's majesty, inviolable\""
     ],
     "description": [
-      "A magic card imbued with spells. Designed so",
-      "even novices can easily activate its effects"
+      "A magic card imbued with spells",
+      "Designed so even novices can easily activate its effects"
     ],
     "ability": [
       "Used Dragon's Roar to stuns all enemies on screen"
     ]
   },
+  "51": {
+    "name": [
+      "The Hierophant"
+    ],
+    "subtitle": [
+      "\"The Time of Awakening is Nigh\""
+    ],
+    "description": [
+      "A magic card imbued with spells",
+      "Designed so even novices can easily activate its effects"
+    ],
+    "ability": [
+      "When used, grants Mind's Eye and Sage Mode statuses"
+    ]
+  },  
   "52": {
     "name": [
       "The Lovers"
@@ -608,8 +633,8 @@
       "\"The Witch’s Lingering Scent\""
     ],
     "description": [
-      "A magic card imbued with spells. Designed so",
-      "even novices can easily activate its effects"
+      "A magic card imbued with spells",
+      "Designed so even novices can easily activate its effects"
     ],
     "ability": [
       "When used, summons monsters and drives them berserk briefly"
@@ -623,8 +648,8 @@
       "\"At your service! Hell Express!\""
     ],
     "description": [
-      "A magic card imbued with spells. Designed so",
-      "even novices can easily activate its effects"
+      "A magic card imbued with spells",
+      "Designed so even novices can easily activate its effects"
     ],
     "ability": [
       "When used, a NLCH truck slams into the player"
@@ -638,8 +663,8 @@
       "\"Unleash the power of the Giant God Soldier\""
     ],
     "description": [
-      "A magic card imbued with spells. Designed so",
-      "even novices can easily activate its effects"
+      "A magic card imbued with spells",
+      "Designed so even novices can easily activate its effects"
     ],
     "ability": [
       "Melee weapons temporarily enlarge&Attack up"
@@ -653,8 +678,8 @@
       "\"Soul-Gambling Roulette\""
     ],
     "description": [
-      "A magic card imbued with spells. Designed so",
-      "even novices can easily activate its effects"
+      "A magic card imbued with spells",
+      "Designed so even novices can easily activate its effects"
     ],
     "ability": [
       "When used, Grants a random buff or debuff"
@@ -668,8 +693,8 @@
       "\"Ashes to ashes, dust to dust\""
     ],
     "description": [
-      "A magic card imbued with spells. Designed so",
-      "even novices can easily activate its effects"
+      "A magic card imbued with spells",
+      "Designed so even novices can easily activate its effects"
     ],
     "ability": [
       "When used, removes all statuses from the player"
@@ -683,8 +708,8 @@
       "\"The goal of all life is death\""
     ],
     "description": [
-      "A magic card imbued with spells. Designed so",
-      "even novices can easily activate its effects"
+      "A magic card imbued with spells",
+      "Designed so even novices can easily activate its effects"
     ],
     "ability": [
       "When used, the Death Devil’s power manifests here"
@@ -698,8 +723,8 @@
       "\"Pandora's Box of the Abyss\""
     ],
     "description": [
-      "A magic card imbued with spells. Designed so",
-      "even novices can easily activate its effects"
+      "A magic card imbued with spells",
+      "Designed so even novices can easily activate its effects"
     ],
     "ability": [
       "When used, summons a gacha machine"
@@ -713,8 +738,8 @@
       "\"Invitation to the Abyssal Feast\""
     ],
     "description": [
-      "A magic card imbued with spells. Designed so",
-      "even novices can easily activate its effects"
+      "A magic card imbued with spells",
+      "Designed so even novices can easily activate its effects"
     ],
     "ability": [
       "When used, summons the Sealed Pillar"
@@ -728,8 +753,8 @@
       "\"The star is the guiding beacon home\""
     ],
     "description": [
-      "A magic card imbued with spells. Designed so",
-      "even novices can easily activate its effects"
+      "A magic card imbued with spells",
+      "Designed so even novices can easily activate its effects"
     ],
     "ability": [
       "Summons a Star Door near the player to return to start"
@@ -743,8 +768,8 @@
       "\"Rebirth from the ashes\""
     ],
     "description": [
-      "A magic card imbued with spells. Designed so",
-      "even novices can easily activate its effects"
+      "A magic card imbued with spells",
+      "Designed so even novices can easily activate its effects"
     ],
     "ability": [
       "Grants the Blessing of the Firebird upon use"
@@ -758,8 +783,8 @@
       " \"Invites you to the mysterious miniature garden world...\""
     ],
     "description": [
-      "A magic card imbued with spells. Designed so",
-      "even novices can easily activate its effects"
+      "A magic card imbued with spells",
+      "Designed so even novices can easily activate its effects"
     ],
     "ability": [
       "Resets the countdown for drop-related events upon use"
