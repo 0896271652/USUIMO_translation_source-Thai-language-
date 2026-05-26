@@ -70,8 +70,16 @@ This repository is for translation collaboration.
 
 It does not contain the full game project or executable files.
 
+## Notes 2
+
+This is a Thai translation by a fan only.
+
+It is not an official translation.
+
 ## License / usage
 
 Please do not reuse these files for unrelated redistribution or repackaging of the game.
 
 All final merge decisions are made by the maintainer.
+
+
