@@ -1,196 +1,187 @@
 {
-  "categories": {
-    "SLG": {
-      "Category Name": "Memories with \\str[120]",
-      "New Scene Name": "",
-      "Trophy Description": "\\str[120] will always be the most important person"
+    "categories": {
+        "SLG": {
+            "Category Name": "ความทรงจำร่วมกับน้องสาว",
+            "New Scene Name": "",
+            "Trophy Description": "น้องสาวคือคนสำคัญที่สุดตลอดกาล"
+        },
+        "RPG": {
+            "Category Name": "ความทรงจำการต่อสู้ในอเวจี",
+            "New Scene Name": "",
+            "Trophy Description": "สู้เขา... สู้ต่อไป!"
+        },
+        "Gacha": {
+            "Category Name": "ความทรงจำของสะสมต่างๆ",
+            "New Scene Name": "",
+            "Trophy Description": "เห็นว่าถ้าสะสมครบทั้งหมดจะอัญเชิญ—"
+        },
+        "Ryouri": {
+            "Category Name": "ความทรงจำการทำอาหาร",
+            "New Scene Name": "",
+            "Trophy Description": "อาหารคือสิ่งที่มอบความสุขให้ผู้คน"
+        },
+        "Hentai": {
+            "Category Name": "ความทรงจำลามก",
+            "New Scene Name": "",
+            "Trophy Description": "เด็กผู้หญิงทำมาจากน้ำตาล เครื่องเทศ และสิ่งเย้ายวนใจ"
+        }
     },
-    "RPG": {
-      "Category Name": "Memories of Fighting in the Abyss",
-      "New Scene Name": "",
-      "Trophy Description": "Fight... keep fighting!"
-    },
-    "Gacha": {
-      "Category Name": "Memories of Various Collections",
-      "New Scene Name": "",
-      "Trophy Description": "It is said that if you collect everything, you can summon—"
-    },
-    "Ryouri": {
-      "Category Name": "Memories of Cooking",
-      "New Scene Name": "",
-      "Trophy Description": "Cooking is something that brings happiness to people"
-    },
-    "Hentai": {
-      "Category Name": "Memories of Hentai",
-      "New Scene Name": "",
-      "Trophy Description": "Sugar and spice~And everything nice~"
-    }     
-  },
-  "achievements": {
-    "WhereIsImouto": {
-      "Name": "Where Is Imouto",
-      "Description": "Must find the beloved girl—",
-      "Pop Up Desc": "\\fs[20]Where is my dear Imouto…?"     
-    },
-    "ItsMyImouto": {
-      "Name": "It's my dear Imouto!",
-      "Description": "The beloved girl is right in front of me",
-      "Pop Up Desc": "It's my dear Imouto!"
-    },     
-    "JoyStation V": {
-      "Name": "Got a Game Console!",
-      "Description": "Now you can play games with \\str[120]!",
-      "Pop Up Desc": [
-        "\\fs[18]This may be a game, ",
-        "but it's not something you play"
-      ]
-    },
-    "MyImoutoIsJustThatCute": {
-      "Name": "My Little Sister Is Just That Cute!",
-      "Description": "Imouto's affection has reached its peak!",
-      "Pop Up Desc": [
-        "\\fs[22]My Little Sister ",
-        "Is Just That Cute!"
-      ]
-    },        
-    "ImoutoBodyPillow": {
-      "Name": "Imouto Body Pillow",
-      "Description": "can now have Imouto sit on lap while gaming!",
-      "Pop Up Desc": "\\fs[20]Isn't having Imouto enough?"
-    },
-    "GachaIsBadCivilization": {
-      "Name": "Gacha Is a Bad Civilization!",
-      "Description": "Spent too much money on gacha and got scolded by Imouto...",
-      "Pop Up Desc": "\\fs[21]Gacha Is a Bad Civilization!"
-    }, 
-    "CanYouSendMe50K": {
-      "Name": "Can You Send Me 50K~?",
-      "Description": "Gave Imouto over 50,000 in allowance at once!",
-      "Pop Up Desc": "Can You Send Me 50K~?"
-    },           
-    "PeopleDieIfTheyAreKilled": {
-      "Name": "People Die If They Are Killed?",
-      "Description": "Your HP drops to zero in the Abyss...",
-      "Pop Up Desc": [
-        "\\fs[22]People Die If They",
-        "Are Killed?"
-      ]      
-    },
-    "HoardingHabit": {
-      "Name": "Hoarding Habit",
-      "Description": "Placed a large number of items into the Star Door",
-      "Pop Up Desc": [
-        "\\fs[22]I've got a disease where ",
-        "I'll die if I don't hoard"
-      ]
-    },
-    "TransportedToIsekai": {
-      "Name": "Transported To Isekai?",
-      "Description": "Mercilessly Run Over by a Shop Truck...",
-      "Pop Up Desc": "\\fs[20]Isekai Reincarnation Magic!?"  
-    },
-    "YouAreAlreadyDead": {
-      "Name": "Requiem",
-      "Description": "Declared dead by Death",
-      "Pop Up Desc": "You Are Already Dead"      
-    },                          
-    "AirKing": {
-      "Name": "Air King",
-      "Description": "You’ve already fallen so many times…",
-      "Pop Up Desc": [
-        "\\fs[22]\"Don't you want to be ",
-        "friends with the sky!\""
-      ]
-    },
-    "Shichosei": {
-      "Name": "The Death Omen Star",
-      "Description": "Defeated by ASABA with a special move",
-      "Pop Up Desc": [
-        "\\fs[22]\"You Can See It…",
-        "the Death Omen Star!!\""
-      ]
-    },      
-    "ServantAndMaster": {
-      "Name": "Servants and Master",
-      "Description": "Command five Servants at the same time",
-      "Pop Up Desc": [
-        "\\fs[22]\"I ask of you.",
-        "Are you our Master?\""
-      ]
-    },
-    "BossFirstAppearance": {
-      "Name": "Rejoice at the birth of the king!",
-      "Description": "Battle a boss for the first time",
-      "Pop Up Desc": "\\fs[18]Rejoice at the birth of the king!"
-    },           
-    "UnlimitedBladeWaste": {
-      "Name": "Unlimited Blade Waste",
-      "Description": "Broke over 100 weapons",
-      "Pop Up Desc": [
-        "\\fs[22]\"Do you have enough ",
-        "weapons in stock?\""
-      ]
-    },
-     "TheSwordSaintOfTheSticks": {
-      "Name": "The Sword Saint of the Sticks",
-      "Description": "The results of persistent daily sword training",
-      "Pop Up Desc": "\\fs[18]The Sword Saint of the Sticks"
-    },
-    "ItWasToMeasureMyCapacity": {
-      "Name": "It Was to Measure My Capacity",
-      "Description": "Acquired the skills of the ninja",
-      "Pop Up Desc": [
-        "\\fs[22]\"IT WAS TO MEASURE MY ",
-        "CAPACITY.\""
-      ]
-    },     
-    "DonotYouEverStop": {
-      "Name": "Don't you ever stop!",
-      "Description": "Keep running at super high speed",
-      "Pop Up Desc": "Don't you ever stop!"
-    },   
-    "YouAreBeingSummoned": {
-      "Name": "You're Being Summoned, ◉▽◉!",
-      "Description": "Ancient creature discovered!",
-      "Pop Up Desc": "\\fs[18]You're Being Summoned, ◉▽◉!"
-    },     
-    "YouTooCanBecomeLight": {
-      "Name": "You too can become light!",
-      "Description": "Aki's curse flared up",
-      "Pop Up Desc": "\\fs[20]You too can become light!"
-    },
-    "ObtainWornPanties": {
-      "Name": "Unworn Panties Have No Value!",
-      "Description": "received panties from Imouto~!",
-      "Pop Up Desc": "\\fs[18]Unworn Panties Have No Value!"
-    },
-    "ErogameWithImouto": {
-      "Name": "Hopeless Siscon",
-      "Description": "In Imouto room, using Imouto's computer to doing indecent things to Imouto",
-      "Pop Up Desc": "Play games with Imouto?"
-    },             
-    "Milkeddry": {
-      "Name": "Milked Dry...",
-      "Description": "There's... not a single drop left...",
-      "Pop Up Desc": [
-        "\\fs[22]\"There's... ",
-        "not a single drop left...\""
-      ]
-    },
-    "StairwayToAdulthoodI": {
-      "Name": "Stairway To Adulthood♥",
-      "Description": "Make Imouto read lewd doujinshi",
-      "Pop Up Desc": "Stairway To Adulthood♥"
-    },
-    "StairwayToAdulthoodII": {
-      "Name": "Stairway To Adulthood♥♥",
-      "Description": "Get Imouto to use sexy toys",
-      "Pop Up Desc": "\\fs[22]Stairway To Adulthood♥♥"
-    },
-    "StairwayToAdulthoodIII": {
-      "Name": "Stairway To Adulthood♥♥♥",
-      "Description": "Teach Imouto the joys of sex",
-      "Pop Up Desc": "\\fs[20]Stairway To Adulthood♥♥♥"
-    }        
-  }
+    "achievements": {
+        "WhereIsImouto": {
+            "Name": "น้องสาวอยู่ที่ไหน?",
+            "Description": "ต้องตามหาเด็กสาวสุดที่รักให้เจอ—",
+            "Pop Up Desc": "น้องสาวอยู่ที่ไหนกันนะ...?"
+        },
+        "ItsMyImouto": {
+            "Name": "นั่นน้องสาวฉันนะ!",
+            "Description": "เด็กสาวสุดที่รักอยู่ตรงหน้าแล้ว",
+            "Pop Up Desc": "น้องสาวนี่นา!"
+        },
+        "JoyStation V": {
+            "Name": "ได้รับเครื่องเกม!",
+            "Description": "จะได้เล่นเกมกับน้องสาวแล้ว!",
+            "Pop Up Desc": [
+                "\\fs[24] ถึงจะเป็นแค่เกม",
+                "แต่ไม่ได้มาเล่นๆ นะ"
+            ]
+        },
+        "ImoutoBodyPillow": {
+            "Name": "หมอนอิงของน้องสาว",
+            "Description": "ได้อุ้มน้องสาวมานั่งบนตักแล้ว!",
+            "Pop Up Desc": "แค่มีน้องสาวก็พอแล้วไม่ใช่เหรอ?"
+        },
+        "MyImoutoIsJustThatCute": {
+            "Name": "น้องสาวของฉันน่ารักที่สุดเลย!",
+            "Description": "ความสนิทกับน้องสาวทะลุจุดยอดแล้ว!",
+            "Pop Up Desc": "น้องสาวของฉันน่ารักที่สุดเลย!"
+        },
+        "GachaIsBadCivilization": {
+            "Name": "กาชาคืออารยธรรมที่ชั่วร้าย!",
+            "Description": "ผลาญเงินกับกาชาเยอะไปหน่อย เลยโดนน้องสาวสวดเทศนาซะยับเลย...",
+            "Pop Up Desc": "กาชาคืออารยธรรมที่ชั่วร้าย!"
+        },
+        "CanYouSendMe50K": {
+            "Name": "ขอเงินสัก 50,000 เยนหน่อยสิคะ~!",
+            "Description": "เปย์ซองแดงให้น้องสาวไปตั้งห้าหมื่นกว่าแน่ะ!",
+            "Pop Up Desc": "ขอเงินสัก 50,000 เยนหน่อยสิคะ~!"
+        },
+        "PeopleDieIfTheyAreKilled": {
+            "Name": "คนเราพอถูกฆ่าก็ต้องตายไม่ใช่เหรอ?",
+            "Description": "พลังชีวิตหมดหลอดในห้วงอเวจี...",
+            "Pop Up Desc": "คนเราพอถูกฆ่าก็ต้องตายไม่ใช่เหรอ?"
+        },
+        "HoardingHabit": {
+            "Name": "แก๊งหนูแฮมสเตอร์นักตุน",
+            "Description": "ยัดไอเทมจำนวนมากลงไปในประตูแห่งดวงดาว",
+            "Pop Up Desc": [
+                "\\fs[24]เป็นโรคถ้าไม่ได้สะสมของแล้วจะลงแดงตาย",
+                "โรคที่จะคร่าชีวิต"
+            ]
+        },
+        "TransportedToIsekai": {
+            "Name": "เกิดใหม่ต่างโลกงั้นเหรอ?",
+            "Description": "โดนรถส่งของชนปลิวแบบไร้ความปรานี...",
+            "Pop Up Desc": "เวทมนตร์ส่งไปเกิดใหม่ที่ต่างโลก!?"
+        },
+        "YouAreAlreadyDead": {
+            "Name": "เรควีเอ็มบทเพลงส่งวิญญาณ",
+            "Description": "ถูกยมทูตพิพากษาความตาย",
+            "Pop Up Desc": "แกน่ะ... ตายไปแล้ว"
+        },
+        "AirKing": {
+            "Name": "ราชาแห่งการร่วงหล่น",
+            "Description": "ตกลงมาจากที่สูงจนเลิกนับครั้งไปแล้ว...",
+            "Pop Up Desc": [
+                "\\fs[24]「นี่เธอไม่อยากเป็นเพื่อน",
+                "กับท้องฟ้าบ้างรึไงกัน!」"
+            ]
+        },
+        "Shichosei": {
+            "Name": "ดาวมรณะที่ส่องประกาย",
+            "Description": "โดน ASABA สยบด้วยท่าพิเศษ",
+            "Pop Up Desc": [
+                "\\fs[24]「ดูนั่นสิ ดาวมรณะของแก",
+                "กำลังเปล่งแสงอยู่บนฟ้าน่ะ!」"
+            ]
+        },
+        "ServantAndMaster": {
+            "Name": "ข้ารับใช้กับนายเหนือหัว",
+            "Description": "ควบคุมข้ารับใช้พร้อมกันห้าตน",
+            "Pop Up Desc": [
+                "\\fs[24]「ขอกล่าวถาม",
+                "เจ้าคือมาสเตอร์ของพวกเราอย่างนั้นรึ？」"
+            ]
+        },
+        "BossFirstAppearance": {
+            "Name": "จงสรรเสริญให้กับกำเนิดแห่งราชา!",
+            "Description": "เข้าปะทะกับบอสเป็นครั้งแรก",
+            "Pop Up Desc": "จงสรรเสริญให้กับกำเนิดแห่งราชา!"
+        },
+        "UnlimitedBladeWaste": {
+            "Name": "สุสานดาบอนันต์",
+            "Description": "ทำอาวุธพังไปมากกว่า 100 ชิ้น",
+            "Pop Up Desc": "——คลังอาวุธที่มีน่ะ พอรึยังล่ะ?"
+        },
+        "TheSwordSaintOfTheSticks": {
+            "Name": "เทพดาบแห่งเนินสิบลี้",
+            "Description": "ผลลัพธ์จากการเพียรฝึกฟาดดาบทุกๆ วัน",
+            "Pop Up Desc": "เทพดาบแห่งเนินสิบลี้"
+        },
+        "ItWasToMeasureMyCapacity": {
+            "Name": "เพื่อทดสอบขีดความสามารถของฉัน",
+            "Description": "สำเร็จวิชาลับของนินจา",
+            "Pop Up Desc": "「เพื่อทดสอบขีดความสามารถของฉัน」"
+        },
+        "DonotYouEverStop": {
+            "Name": "อย่าหยุดเดินเชียวนะ!",
+            "Description": "วิ่งสปีดเต็มพิกัดอย่างต่อเนื่อง",
+            "Pop Up Desc": "อย่าหยุดเดินเชียวนะ!"
+        },
+        "YouAreBeingSummoned": {
+            "Name": "◉▽◉ กำลังอัญเชิญคุณอยู่",
+            "Description": "ค้นพบสิ่งมีชีวิตโบราณเข้าแล้ว!",
+            "Pop Up Desc": "◉▽◉ กำลังอัญเชิญคุณอยู่"
+        },
+        "YouTooCanBecomeLight": {
+            "Name": "เธอก็กลายเป็นแสงสว่างได้เหมือนกันนะ!",
+            "Description": "คำสาปของอากิกำเริบซะแล้ว",
+            "Pop Up Desc": "เธอก็กลายเป็นแสงสว่างได้เหมือนกันนะ!"
+        },
+        "ObtainWornPanties": {
+            "Name": "กางเกงในที่ไม่เคยถูกใส่ มันไม่มีค่าหรอกนะ!",
+            "Description": "ได้รับกางเกงในตัวน้อยจากน้องสาวล่ะ~！(ง่า... แอบเขินแฮะ)",
+            "Pop Up Desc": [
+                "\\fs[24]กางเกงในที่ไม่เคยถูกใส่ มันไม่มี",
+                "ค่าหรอกนะ!"
+            ]
+        },
+        "ErogameWithImouto": {
+            "Name": "โอนีจังซิสค่อนกู่ไม่กลับ",
+            "Description": "ใช้คอมน้องสาวในห้องเธอ แอบเล่นเกมลามกมีเซ็กส์กับน้องสาว",
+            "Pop Up Desc": "เล่นเกมน้องสาวงั้นเหรอ?"
+        },
+        "Milkeddry": {
+            "Name": "โดนรีดจนแห้งเหือดเลย...",
+            "Description": "ไม่เหลือเลยสักหยดเดียวแล้ว...",
+            "Pop Up Desc": [
+                "\\fs[24]「ไม่เหลือเลย",
+                "สักหยดเดียวแล้ว......」"
+            ]
+        },
+        "StairwayToAdulthoodI": {
+            "Name": "บันไดสู่ความเป็นผู้ใหญ่♥",
+            "Description": "ชวนน้องสาวดูโดจินลามก",
+            "Pop Up Desc": "บันไดสู่ความเป็นผู้ใหญ่♥"
+        },
+        "StairwayToAdulthoodII": {
+            "Name": "บันไดสู่ความเป็นผู้ใหญ่♥♥",
+            "Description": "ให้น้องสาวลองใช้เซ็กส์ทอย",
+            "Pop Up Desc": "บันไดสู่ความเป็นผู้ใหญ่♥♥"
+        },
+        "StairwayToAdulthoodIII": {
+            "Name": "บันไดสู่ความเป็นผู้ใหญ่♥♥♥",
+            "Description": "ให้น้องสาวได้สัมผัสความสุขเรื่องเซ็กส์",
+            "Pop Up Desc": "บันไดสู่ความเป็นผู้ใหญ่♥♥♥"
+        }
+    }
 }

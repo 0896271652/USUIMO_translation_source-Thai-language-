@@ -1,3000 +1,3088 @@
 {
-  "1": {
-    "name": [
-      "Tea Gift Voucher"
-    ],
-    "subtitle": "",
-    "description": [
-      "Voucher issued by NLCH, used to redeem delicious tea snacks",
-      "But… where’s NLCH’s shop anyway?"
-    ],
-    "ability": [
-      "Can be fed to gacha machine without damage to trigger a pull",
-      "Always gives an 11-pull with at least one gold ball"
-    ]
-  },
-  "2": {
-    "name": [
-      "Adventurer’s Handbook"
-    ],
-    "beIndependent": true,
-    "subtitle": [
-      "\"Written by RORO, begun on 2024/10/1\""
-    ],
-    "description": [
-      "It began as a casual journal by an adventurer named RORO ",
-      "Over time, more people who found it fun joined and added notes",
-      "and thus this curious guidebook—covering everything from",
-      "‘How to Enter the Dungeon’ to ‘What to Eat for Dinner’—was born"
-    ],
-    "ability": [
-      "Lets you browse the in-game guide"
-    ]
-  },
-  "3": {
-    "name": [
-      "Junk"
-    ],
-    "subtitle": "",
-    "description": [
-      "Various scraps, useless",
-      "Why did I even pick this up?"
-    ],
-    "ability": ""
-  },
-  "4": {
-    "name": [
-      "10 Yen"
-    ],
-    "subtitle": "",
-    "beIndependent": true,
-    "description": [
-      "Just a coin worth 10 Yen",
-      "But… it can’t buy anything at all!"
-    ],
-    "ability": ""
-  },
-  "5": {
-    "name": [
-      "50 Yen"
-    ],
-    "subtitle": "",
-    "beIndependent": true,
-    "description": [
-      "Just a coin worth 50 Yen",
-      "Still seems like it buys nothing… but losing it would still hurt"
-    ],
-    "ability": ""
-  },
-  "6": {
-    "name": [
-      "100 Yen"
-    ],
-    "subtitle": "",
-    "beIndependent": true,
-    "description": [
-      "Just a coin worth 100 Yen",
-      "With a bit of luck, it might be enough to buy ",
-      "\\str[120]’s favorite strawberry milk"
-    ],
-    "ability": ""
-  },
-  "7": {
-    "name": [
-      "500 Yen"
-    ],
-    "subtitle": "",
-    "beIndependent": true,
-    "description": [
-      "Just a coin worth 500 Yen",
-      "If it goes into the gacha… maybe—just maybe—",
-      "it’ll hit a legendary Item pull…!"
-    ],
-    "ability": ""
-  },
-  "8": {
-    "name": [
-      "1000 Yen"
-    ],
-    "subtitle": "",
-    "beIndependent": true,
-    "description": [
-      "Just a 1000 Yen banknote",
-      "No one knows why even monsters have started ",
-      "collecting human money…"
-    ],
-    "ability": ""
-  },
-  "9": {
-    "name": [
-      "5000 Yen"
-    ],
-    "subtitle": "",
-    "beIndependent": true,
-    "description": [
-      "Just a 5000 Yen banknote",
-      "Anyone who sees it can’t help but feel moved—",
-      "is this the power of money…?"
-    ],
-    "ability": ""
-  },
-  "10": {
-    "name": [
-      "10000 Yen"
-    ],
-    "subtitle": "",
-    "beIndependent": true,
-    "description": [
-      "Just a 10000 Yen banknote",
-      "Even a gacha machine would smile at such value—"
-    ],
-    "ability": ""
-  },
-  "11": {
-    "name": [
-      "50000 Yen"
-    ],
-    "subtitle": "",
-    "beIndependent": true,
-    "description": [
-      "A thick stack of 5000 Yen banknotes",
-      "As the maid Bunnys rapidly expand trade",
-      "monsters have also begun snatching adventurers’ wallets",
-      "just to experience this thing called 'shopping' "
-    ],
-    "ability": ""
-  },
-  "12": {
-    "name": [
-      "100000 Yen"
-    ],
-    "subtitle": "",
-    "beIndependent": true,
-    "description": [
-      "A thick stack of 10000 Yen banknotes",
-      "Its scent of wealth can even make ",
-      "greedy demons smile seductively—"
-    ],
-    "ability": ""
-  },
-  "13": {
-    "name": [
-      "Bunny Map"
-    ],
-    "beIndependent": true,
-    "subtitle": "",
-    "description": [
-      "A map used by maid bunnies, still covered in carrot crumbs",
-      "They dig Rabbit Holes and zip around—almost like a delivery crew",
-      "Since that devilish, sharp-minded leader appeared ten years ago",
-      "the bunnies took over the Abyss and started trading with monsters"
-    ],
-    "ability": [
-      "Allows you to view the Abyss map and all interactive objects"
-    ]
-  },
-  "14": {
-    "name": [
-      "Magic Camera"
-    ],
-    "beIndependent": true,
-    "subtitle": "",
-    "description": [
-      "Said to be an Eastern artifact, exquisitely crafted yet lost",
-      "in the Abyss... It freezes scenes into images, but it’s",
-      "easily affected by magic, sometimes capturing strange things"
-    ],
-    "ability": [
-      "Press F7 to take a photo"
-    ]
-  },
-  "15": {
-    "name": [
-      "JoyStation V"
-    ],
-    "beIndependent": true,
-    "subtitle": [
-      "\"Even at the fifth generation, soul-materialization limits still prevent",
-      " players from directly diving their consciousness.\""
-    ],
-    "description": [
-      "A strange entertainment device recreated by alchemists from ",
-      "ancient text fragments. It’s well known among adventurers.",
-      "but its complex manufacturing process keeps it extremely rare."
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "16": {
-    "name": [
-      "Shadow Souls DLC"
-    ],
-    "beIndependent": true,
-    "subtitle": "",
-    "description": [
-      "An expansion pack for Shadow Souls.",
-      "A work confidently released by the knight after interviewing ",
-      "a large number of adventurers and their experiences.",
-      "Packed with brutally difficult monsters and stages,",
-      "yet players flock to it nonetheless…"
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "17": {
-    "name": [
-      "\\str[120]’s Ahoge"
-    ],
-    "subtitle": "",
-    "description": [
-      "An ahoge quietly plucked from \\str[120]’s head,",
-      "seemingly without her noticing… Even separated from its owner,",
-      "it stubbornly stands upright thanks to its inexplicable elasticity."
-    ],
-    "ability": ""
-  },
-  "18": {
-    "name": [
-      "Rubber Ducky"
-    ],
-    "beIndependent": true,
-    "subtitle": "",
-    "description": [
-      "A rubber duck toy inexplicably left all alone in the river channel.",
-      "Perhaps out of a sudden surge of sympathy, it was picked up.",
-      "\\str[120] will probably like it, though…"
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "19": {
-    "name": [
-      "Electric Fan"
-    ],
-    "beIndependent": true,
-    "subtitle": "",
-    "description": [
-      "A small electric fan with an outdated model and rather weak airflow.",
-      "But compared to it, using cooling magic is far more costly…"
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "20": {
-    "name": [
-      "Philosopher's Fragment"
-    ],
-    "subtitle": [
-      "\"Haec est totius fortitudinis fortitudo fortis,  ",
-      "quia vincet omnem rem subtilem, omnemque solidam penetrabit.\""
-    ],
-    "description": [
-      "Even just a fragment contains immense power—"
-    ],
-    "ability": ""
-  },
-  "21": {
-    "name": [
-      "Mysterious Code"
-    ],
-    "beIndependent": true,
-    "subtitle": "",
-    "description": [
-      "\"Long-press the avatar frame to activate the input field—\""
-    ],
-    "ability": "",
-    "howToUse": [
-      "<<Cheat Codes Guide>>",
-      "",
-      "Long-press the character avatar frame (HP bar area) to call up the input box. ",
-      "Type the code and press Enter to activate.",
-      "After using a cheat code, you will receive the title 'ZAKO'. ",
-      "You can toggle the title's easter egg effects in the Settings menu.",
-      "This will not have any negative impact on your stats, story progression, or ending.",
-      "", 
-      "<<Cheat Code List>>",   
-      ""      
-    ],
-    "notUnlocked": [
-      "You haven't unlocked any cheat codes yet—maybe that weird knight can give you some clues!"  
-    ],        
-    "hard2k1ll": [
-      "< hard2k1ll >",
-      "Obtain the cheat equipment 'Fairy Queen's Crystal Wings'. ",
-      "Grants immunity to fall damage and a massive damage reduction effect."  
-    ],
-    "get40rfree": [
-      "< get40rfree >",
-      "Obtain all consumables, ingredients, and materials. One-time use only."  
-    ],
-    "6a1n60ld": [
-      "< 6a1n60ld >",
-      "Obtain 100,000 Yen and the cheat gear 'Lucky Mallet'. Defeating monsters will grant extra gold drops."  
-    ],
-    "healmeplz": [
-      "< healmeplz >",
-      "Obtain the cheat gear 'Mio's First Aid Kit'. Grants a permanent, powerful auto-regeneration effect while equipped."  
-    ],
-    "unshatter": [
-      "< unshatter >",
-      "Obtain the cheat gear 'Golden Finger'. Attacks will no longer consume weapon durability while equipped."  
-    ],
-    "60dpat": [
-      "< 60dpat >",
-      "Obtain the cheat gear 'Catalyst Amatoria'. Grants a massive boost to Favorability when patting Imouto's head at home."  
-    ],
-    "muestacz": [
-      "< muestacz >",
-      "Obtain the cheat gear 'Absolute Territory'. Grants a massive amount of extra inventory space when equipped."  
-    ],
-    "1f0g0ty0u": [
-      "< 1f0g0ty0u >",
-      "Change Imouto's name."  
-    ]      
-  },
-  "23": {
-    "name": [
-      "Delicious Milk"
-    ],
-    "subtitle": [
-      "\"Sponsored by:NLCH\""
-    ],
-    "description": [
-      "A drink from a strange vending machine",
-      "Never mind the taste, why is there a vending machine?"
-    ],
-    "ability": [
-      "HP+120. Temporarily grants Regeneration"
-    ]
-  },
-  "24": {
-    "name": [
-      "Carrot Milk"
-    ],
-    "subtitle": [
-      "\"Sponsored by:NLCH\""
-    ],
-    "description": [
-      "A drink from a strange vending machine",
-      "Never mind the taste, why is there a vending machine?"
-    ],
-    "ability": [
-      "HP+75. Randomly removes one status ailment"
-    ]
-  },
-  "25": {
-    "name": [
-      "Strawberry Milk"
-    ],
-    "subtitle": [
-      "\"Sponsored by:NLCH\""
-    ],
-    "description": [
-      "A drink from a strange vending machine",
-      "Never mind the taste, why is there a vending machine?"
-    ],
-    "ability": [
-      "HP+75. Temporarily increases Physical Attack by 50%"
-    ]
-  },
-  "26": {
-    "name": [
-      "Melon Milk"
-    ],
-    "subtitle": [
-      "\"Sponsored by:NLCH\""
-    ],
-    "description": [
-      "A drink from a strange vending machine",
-      "Never mind the taste, why is there a vending machine?"
-    ],
-    "ability": [
-      "HP+75. Temporarily increases Magic Attack by 50%"
-    ]
-  },
-  "27": {
-    "name": [
-      "Banana Milk"
-    ],
-    "subtitle": [
-      "\"Sponsored by:NLCH\""
-    ],
-    "description": [
-      "A drink from a strange vending machine",
-      "Never mind the taste, why is there a vending machine?"
-    ],
-    "ability": [
-      "HP+75. Temporarily increases Attack Speed and Movement Speed"
-    ]
-  },
-  "30": {
-    "name": [
-      "Pink Konpeito"
-    ],
-    "subtitle": [
-      "\"Fufufu... Better not to know the ingredients~♥\""
-    ],
-    "description": [
-      "Delicately crafted konpeitō handmade by the Archdemon",
-      "Gives off a peach-like aroma that makes you dizzy just smelling it…"
-    ],
-    "ability": [
-      "Grants Heat status when fed to \\str[120]"
-    ]
-  },
-  "31": {
-    "name": [
-      "Blue Konpeito"
-    ],
-    "subtitle": [
-      "\"Fufufu... Better not to know the ingredients~♥\""
-    ],
-    "description": [
-      "Delicately crafted konpeitō handmade by the Archdemon",
-      "Gives off a blueberry-like aroma that brings calm just smelling it…"
-    ],
-    "ability": [
-      "Grants Drowsy status when fed to \\str[120]"
-    ]
-  },
-  "32": {
-    "name": [
-      "Green Konpeito"
-    ],
-    "subtitle": [
-      "\"Fufufu... Better not to know the ingredients~♥\""
-    ],
-    "description": [
-      "Delicately crafted konpeitō handmade by the Archdemon",
-      "Gives off a melon-like aroma that lifts you up just smelling it…"
-    ],
-    "ability": [
-      "Grants Joyful status when fed to \\str[120]"
-    ]
-  },
-  "33": {
-    "name": [
-      "Springy Mizumanju"
-    ],
-    "subtitle": [
-      "\"Fufufu... Better not to know the ingredients~♥\""
-    ],
-    "description": [
-      "Handcrafted by an Archdemon, bouncy, refreshing Mizumanju",
-      "Hits like a shock the moment it touches your tongue!"
-    ],
-    "ability": [
-      "Grants Sensitive status when fed to \\str[120]",
-      "If eaten after being thrown, the target gains a temporary Sensitivity Up status"
-    ]
-  },
-  "35": {
-    "name": [
-      "NLCH's Cola(L)"
-    ],
-    "subtitle": [
-      "\"Sponsored by:NLCH\""
-    ],
-    "description": [
-      "A drink from a strange vending machine",
-      "Never mind the taste, why is there a vending machine?"
-    ],
-    "ability": [
-      "Shake vigorously and throw to trigger a massive explosion"
-    ]
-  },
-  "41": {
-    "name": [
-      "Fehu"
-    ],
-    "subtitle": [
-      "\"Power of Midas\""
-    ],
-    "description": [
-      "A stone engraved with magic runes, designed so even novices with ",
-      "no knowledge of magic can easily activate its effect"
-    ],
-    "ability": [
-      "When thrown, Temporarily turns any target it touches into gold",
-      "Shattering a target in this gold state will generate a vast amount of currency"
-    ]
-  },
-  "42": {
-    "name": [
-      "Kenaz"
-    ],
-    "subtitle": [
-      "\"Power of Explosion\""
-    ],
-    "description": [
-      "A stone engraved with magic runes, designed so even novices with ",
-      "no knowledge of magic can easily activate its effect"
-    ],
-    "ability": [
-      "When thrown, turns any target it touches into a bomb",
-      "Detonates in 5s, with larger targets causing a wider blast"
-    ]
-  },
-  "43": {
-    "name": [
-      "Ansuz"
-    ],
-    "subtitle": [
-      "\"Power of Revelation\""
-    ],
-    "description": [
-      "A stone engraved with magic runes, designed so even novices with ",
-      "no knowledge of magic can easily activate its effect"
-    ],
-    "ability": [
-      "Leaves a text-marked sign at the location when used",
-      "After updating, the sign becomes visible to other players"
-    ]
-  },
-  "44": {
-    "name": [
-      "Raido"
-    ],
-    "subtitle": [
-      "\"Power of Riding\""
-    ],
-    "description": [
-      "A stone engraved with magic runes, designed so even novices with ",
-      "no knowledge of magic can easily activate its effect"
-    ],
-    "ability": [
-      "Throws a marker that allows position swapping"
-    ]
-  },
-  "45": {
-    "name": [
-      "Ehwaz"
-    ],
-    "subtitle": [
-      "\"Power of Change\""
-    ],
-    "description": [
-      "A stone engraved with magic runes, designed so even novices with ",
-      "no knowledge of magic can easily activate its effect"
-    ],
-    "ability": [
-      "Throws and swaps positions with the target it touches"
-    ]
-  },
-  "46": {
-    "name": [
-      "The Fool"
-    ],
-    "subtitle": [
-      "\"The endless curiosity of a foolish adventurer\""
-    ],
-    "description": [
-      "A magic card imbued with spells",
-      "Designed so even novices can easily activate its effects"
-    ],
-    "ability": [
-      "used forcibly teleports you to a random map"
-    ]
-  },
-  "48": {
-    "name": [
-      "The High Priestess"
-    ],
-    "subtitle": [
-      "\"May you receive her favor...\""
-    ],
-    "description": [
-      "A magic card imbued with spells",
-      "Designed so even novices can easily activate its effects"
-    ],
-    "ability": [
-      "When used, summons a gate leading to the Fallen Church"
-    ]
-  },
-  "50": {
-    "name": [
-      "The Emperor"
-    ],
-    "subtitle": [
-      "\"The dragon's majesty, inviolable\""
-    ],
-    "description": [
-      "A magic card imbued with spells",
-      "Designed so even novices can easily activate its effects"
-    ],
-    "ability": [
-      "Used Dragon's Roar to stuns all enemies on screen"
-    ]
-  },
-  "51": {
-    "name": [
-      "The Hierophant"
-    ],
-    "subtitle": [
-      "\"The Time of Awakening is Nigh\""
-    ],
-    "description": [
-      "A magic card imbued with spells",
-      "Designed so even novices can easily activate its effects"
-    ],
-    "ability": [
-      "When used, grants Mind's Eye and Sage Mode statuses"
-    ]
-  },  
-  "52": {
-    "name": [
-      "The Lovers"
-    ],
-    "subtitle": [
-      "\"The Witch’s Lingering Scent\""
-    ],
-    "description": [
-      "A magic card imbued with spells",
-      "Designed so even novices can easily activate its effects"
-    ],
-    "ability": [
-      "When used, summons monsters and drives them berserk briefly"
-    ]
-  },
-  "53": {
-    "name": [
-      "Chariot"
-    ],
-    "subtitle": [
-      "\"At your service! Hell Express!\""
-    ],
-    "description": [
-      "A magic card imbued with spells",
-      "Designed so even novices can easily activate its effects"
-    ],
-    "ability": [
-      "When used, a NLCH truck slams into the player"
-    ]
-  },
-  "54": {
-    "name": [
-      "Strength"
-    ],
-    "subtitle": [
-      "\"Unleash the power of the Giant God Soldier\""
-    ],
-    "description": [
-      "A magic card imbued with spells",
-      "Designed so even novices can easily activate its effects"
-    ],
-    "ability": [
-      "Melee weapons temporarily enlarge&Attack up"
-    ]
-  },
-  "56": {
-    "name": [
-      "The Wheel of Fortune"
-    ],
-    "subtitle": [
-      "\"Soul-Gambling Roulette\""
-    ],
-    "description": [
-      "A magic card imbued with spells",
-      "Designed so even novices can easily activate its effects"
-    ],
-    "ability": [
-      "When used, Grants a random buff or debuff"
-    ]
-  },
-  "57": {
-    "name": [
-      "Justice"
-    ],
-    "subtitle": [
-      "\"Ashes to ashes, dust to dust\""
-    ],
-    "description": [
-      "A magic card imbued with spells",
-      "Designed so even novices can easily activate its effects"
-    ],
-    "ability": [
-      "When used, removes all statuses from the player"
-    ]
-  },
-  "59": {
-    "name": [
-      "Death"
-    ],
-    "subtitle": [
-      "\"The goal of all life is death\""
-    ],
-    "description": [
-      "A magic card imbued with spells",
-      "Designed so even novices can easily activate its effects"
-    ],
-    "ability": [
-      "When used, the Death Devil’s power manifests here"
-    ]
-  },
-  "60": {
-    "name": [
-      "Temperance"
-    ],
-    "subtitle": [
-      "\"Pandora's Box of the Abyss\""
-    ],
-    "description": [
-      "A magic card imbued with spells",
-      "Designed so even novices can easily activate its effects"
-    ],
-    "ability": [
-      "When used, summons a gacha machine"
-    ]
-  },
-  "62": {
-    "name": [
-      "The Tower"
-    ],
-    "subtitle": [
-      "\"Invitation to the Abyssal Feast\""
-    ],
-    "description": [
-      "A magic card imbued with spells",
-      "Designed so even novices can easily activate its effects"
-    ],
-    "ability": [
-      "When used, summons the Sealed Pillar"
-    ]
-  },
-  "63": {
-    "name": [
-      "The Star"
-    ],
-    "subtitle": [
-      "\"The star is the guiding beacon home\""
-    ],
-    "description": [
-      "A magic card imbued with spells",
-      "Designed so even novices can easily activate its effects"
-    ],
-    "ability": [
-      "Summons a Star Door near the player to return to start"
-    ]
-  },
-  "65": {
-    "name": [
-      "The Sun"
-    ],
-    "subtitle": [
-      "\"Rebirth from the ashes\""
-    ],
-    "description": [
-      "A magic card imbued with spells",
-      "Designed so even novices can easily activate its effects"
-    ],
-    "ability": [
-      "Grants the Blessing of the Firebird upon use"
-    ]
-  },
-  "67": {
-    "name": [
-      "The World"
-    ],
-    "subtitle": [
-      " \"Invites you to the mysterious miniature garden world...\""
-    ],
-    "description": [
-      "A magic card imbued with spells",
-      "Designed so even novices can easily activate its effects"
-    ],
-    "ability": [
-      "Resets the countdown for drop-related events upon use"
-    ]
-  },
-  "70": {
-    "name": [
-      "Jack Bomb"
-    ],
-    "subtitle": [
-      "\"Look over here...!\""
-    ],
-    "description": [
-      "An alchemical bomb infused with frenzied fire elements",
-      "Due to its highly unstable nature, it will detonate immediately",
-      "just by holding it",
-      "It’ll explode instantly in hot environments!"
-    ],
-    "ability": ""
-  },
-  "71": {
-    "name": [
-      "Frost Jack Bomb"
-    ],
-    "subtitle": [
-      "\"Look over here...!\""
-    ],
-    "description": [
-      "An alchemical bomb infused with frigid ice elements",
-      "Due to its highly unstable nature, it will detonate immediately",
-      "just by holding it"
-    ],
-    "ability": ""
-  },
-  "72": {
-    "name": [
-      "Venom Jack Bomb"
-    ],
-    "subtitle": [
-      "\"Look over here...!\""
-    ],
-    "description": [
-      "An alchemical bomb infused with lethal poison",
-      "Due to its highly unstable nature, it will detonate immediately",
-      "just by holding it"
-    ],
-    "ability": ""
-  },
-  "75": {
-    "name": [
-      "Sealed Timepiece"
-    ],
-    "subtitle": "",
-    "description": [
-      "A special magical artifact inscribed with a sealing spell",
-      "When shattered, it activates its effect, causing everything",
-      "within a certain range—including time itself—to come to a halt"
-    ],
-    "ability": ""
-  },
-  "76": {
-    "name": [
-      "Ginkela"
-    ],
-    "subtitle": "",
-    "description": [
-      "A strange feed of unknown origin, said to taste surprisingly good",
-      "Its aroma lures not only animals but even monsters!",
-      "Handle with care—the scent fades quickly if not stored well"
-    ],
-    "ability": [
-      "When thrown, it creates a scent cloud that draws in monsters"
-    ]
-  },
-  "77": {
-    "name": [
-      "Sushi Pudding"
-    ],
-    "beIndependent": true,
-    "subtitle": "",
-    "description": [
-      "A familiar belonging to a certain Archdemon",
-      "Releasing it will reveal the demon's location",
-      "Is it a cat, a piece of sushi, or a pudding?",
-      "Regardless of its true form, it looks tasty!"
-    ],
-    "ability": ""
-  },
-  "80": {
-    "name": [
-      "Sealing Scroll"
-    ],
-    "beIndependent": true,
-    "subtitle": "",
-    "description": [
-      "A secret tool passed down solely among ninja",
-      "Activating the Curse Marks opens a spatial rift, sealing items within",
-      "Those items can be summoned again whenever the need arises"
-    ],
-    "ability": [
-      "Seal or summon all currently equipped item",
-      "\\str[110]"
-    ]
-  },
-  "88": {
-    "name": [
-      "Bird Leg Meat"
-    ],
-    "subtitle": "",
-    "description": [
-      "Thigh meat harvested from various birds",
-      "The meat is tender and plump,",
-      "making it perfect for meat dishes"
-    ],
-    "ability": ""
-  },
-  "89": {
-    "name": [
-      "Large Beast Meat"
-    ],
-    "subtitle": "",
-    "description": [
-      "Fresh meat carved from a monster. Delicious meat dishes can",
-      "be made from it. Monsters eat people, and people eat monsters",
-      "This is the natural order"
-    ],
-    "ability": ""
-  },
-  "90": {
-    "name": [
-      "Small Beast Meat"
-    ],
-    "subtitle": "",
-    "description": [
-      "Fresh meat carved from a monster. Delicious meat dishes can",
-      "be made from it. Monsters eat people, and people eat monsters",
-      "This is the natural order"
-    ],
-    "ability": ""
-  },
-  "97": {
-    "name": [
-      "WaterWeird Mucus"
-    ],
-    "subtitle": "",
-    "description": [
-      "Mucus secreted by a WaterWeird, commonly used as a general",
-      "ingredient in alchemy",
-      "It is sometimes also used as a lubricant"
-    ],
-    "ability": ""
-  },
-  "98": {
-    "name": [
-      "Walking Mushrooms"
-    ],
-    "subtitle": "",
-    "description": [
-      "A mushroom from Walking Mushroom, now immobile",
-      "When sliced, it looks just like a regular mushroom"
-    ],
-    "ability": ""
-  },
-  "100": {
-    "name": [
-      "Slime Mucus"
-    ],
-    "subtitle": "",
-    "description": [
-      "Mucus secreted by a slime, commonly used as a general",
-      "ingredient in alchemy",
-      "It is sometimes also used as a lubricant"
-    ],
-    "ability": ""
-  },
-  "101": {
-    "name": [
-      "Apple"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly picked fruit, full of refreshing flavor",
-      "Eating it directly slightly restores health"
-    ],
-    "ability": ""
-  },
-  "102": {
-    "name": [
-      "Curry Block"
-    ],
-    "subtitle": "",
-    "description": [
-      "A spicy curry block made from exotic spices",
-      "Pairs well with rice and can be added to various ingredients"
-    ],
-    "ability": ""
-  },
-  "103": {
-    "name": [
-      "White Rice"
-    ],
-    "subtitle": "",
-    "description": [
-      "Simple yet comforting white rice",
-      "Can be eaten plain or combined with various ingredients"
-    ],
-    "ability": ""
-  },
-  "104": {
-    "name": [
-      "Carrot"
-    ],
-    "subtitle": "",
-    "description": [
-      "A common vegetable, but it's strange to find it in the abyss",
-      "Needs proper preparation before eating"
-    ],
-    "ability": ""
-  },
-  "105": {
-    "name": [
-      "Potato"
-    ],
-    "subtitle": "",
-    "description": [
-      "A common vegetable, but it's strange to find it in the abyss",
-      "Needs proper preparation before eating"
-    ],
-    "ability": ""
-  },
-  "106": {
-    "name": [
-      "Red Chili Pepper"
-    ],
-    "subtitle": "",
-    "description": [
-      "A common vegetable, but it's strange to find it in the abyss",
-      "Needs proper preparation before eating"
-    ],
-    "ability": ""
-  },
-  "107": {
-    "name": [
-      "Tomato"
-    ],
-    "subtitle": "",
-    "description": [
-      "A common vegetable, but it's strange to find it in the abyss",
-      "Needs proper preparation before eating"
-    ],
-    "ability": ""
-  },
-  "108": {
-    "name": [
-      "Banana"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly picked fruit, full of refreshing flavor",
-      "Eating it directly slightly restores health"
-    ],
-    "ability": ""
-  },
-  "109": {
-    "name": [
-      "Strawberry"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly picked fruit, full of refreshing flavor",
-      "Eating it directly slightly restores health"
-    ],
-    "ability": ""
-  },
-  "110": {
-    "name": [
-      "Grape"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly picked fruit, full of refreshing flavor",
-      "Eating it directly slightly restores health"
-    ],
-    "ability": ""
-  },
-  "111": {
-    "name": [
-      "Pineapple"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly picked fruit, full of refreshing flavor",
-      "Eating it directly slightly restores health"
-    ],
-    "ability": ""
-  },
-  "112": {
-    "name": [
-      "Watermelon"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly picked fruit, full of refreshing flavor",
-      "Eating it directly slightly restores health"
-    ],
-    "ability": ""
-  },
-  "113": {
-    "name": [
-      "Spaghetti"
-    ],
-    "subtitle": "",
-    "description": [
-      "Springy, elastic noodles that go well with any dish",
-      "Delicious with just a bit of sauce"
-    ],
-    "ability": ""
-  },
-  "114": {
-    "name": [
-      "Tomato Sauce"
-    ],
-    "subtitle": "",
-    "description": [
-      "Made from tomatoes, with a tangy and sweet flavor",
-      "It's best not to think about why monster would drop this"
-    ],
-    "ability": ""
-  },
-  "115": {
-    "name": [
-      "Wheat Flour"
-    ],
-    "subtitle": "",
-    "description": [
-      "Flour made from ground wheat, useful for various dishes"
-    ],
-    "ability": ""
-  },
-  "116": {
-    "name": [
-      "Oyster Mushroom"
-    ],
-    "subtitle": "",
-    "description": [
-      "A common mushroom often seen outside",
-      "However, finding it in the abyss is quite unusual"
-    ],
-    "ability": ""
-  },
-  "117": {
-    "name": [
-      "Shiitake"
-    ],
-    "subtitle": "",
-    "description": [
-      "A common mushroom often seen outside",
-      "However, finding it in the abyss is quite unusual"
-    ],
-    "ability": ""
-  },
-  "118": {
-    "name": [
-      "Beech Mushroom"
-    ],
-    "subtitle": "",
-    "description": [
-      "A common mushroom often seen outside",
-      "However, finding it in the abyss is quite unusual"
-    ],
-    "ability": ""
-  },
-  "119": {
-    "name": [
-      "Lilac Mushroom"
-    ],
-    "subtitle": "",
-    "description": [
-      "A common mushroom often seen outside",
-      "However, finding it in the abyss is quite unusual"
-    ],
-    "ability": ""
-  },
-  "120": {
-    "name": [
-      "Moonlight Mushroom"
-    ],
-    "subtitle": "",
-    "description": [
-      "A common mushroom often seen outside",
-      "However, finding it in the abyss is quite unusual"
-    ],
-    "ability": ""
-  },
-  "121": {
-    "name": [
-      "Bamboo Mushroom"
-    ],
-    "subtitle": "",
-    "description": [
-      "A common mushroom often seen outside",
-      "However, finding it in the abyss is quite unusual"
-    ],
-    "ability": ""
-  },
-  "122": {
-    "name": [
-      "ASABA's Strawberry"
-    ],
-    "subtitle": [
-      "\"Mmm… strawberries… my strawberries…\""
-    ],
-    "description": [
-      "ASABA’s most treasured, high-quality strawberry that it can’t bear",
-      "to eat. But even after desperately guarding it until the very end",
-      "it still ends up as nothing more than a trophy—"
-    ],
-    "ability": ""
-  },
-  "127": {
-    "name": [
-      "Octopus tentacles"
-    ],
-    "subtitle": "",
-    "description": [
-      "Broken octopus tentacles fished from the sea, they smell great when grilled",
-      "It can also be cooked with other ingredients"
-    ],
-    "ability": ""
-  },
-  "130": {
-    "name": [
-      "Sea Bream"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly caught from the sea, perfect for sashimi",
-      "It can also be cooked with other ingredients"
-    ],
-    "ability": ""
-  },
-  "131": {
-    "name": [
-      "Tuna"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly caught from the sea, perfect for sashimi",
-      "It can also be cooked with other ingredients"
-    ],
-    "ability": ""
-  },
-  "132": {
-    "name": [
-      "Striped Beakfish"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly caught from the sea, perfect for sashimi",
-      "It can also be cooked with other ingredients"
-    ],
-    "ability": ""
-  },
-  "133": {
-    "name": [
-      "Grouper"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly caught from the sea, perfect for sashimi",
-      "It can also be cooked with other ingredients"
-    ],
-    "ability": ""
-  },
-  "134": {
-    "name": [
-      "Pacific Saury"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly caught from the sea, perfect for sashimi",
-      "It can also be cooked with other ingredients"
-    ],
-    "ability": ""
-  },
-  "135": {
-    "name": [
-      "Sweet shrimp"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly caught shrimp from the sea, perfect for sashimi",
-      "It can also be cooked with other ingredients"
-    ],
-    "ability": ""
-  },
-  "136": {
-    "name": [
-      "Spiny lobster"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly caught lobster from the sea, be careful not to get pinched",
-      "It can also be cooked with other ingredients"
-    ],
-    "ability": ""
-  },
-  "137": {
-    "name": [
-      "Hairy crab"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly caught crab from the sea, be careful not to get pinched",
-      "It can also be cooked with other ingredients"
-    ],
-    "ability": ""
-  },
-  "139": {
-    "name": [
-      "X△X"
-    ],
-    "subtitle": "",
-    "description": [
-      "A Sacabambaspis that lost its vitality after being caught in an explosion",
-      "It probably never imagined that its wish to 'see land' would be ",
-      "fulfilled in this way..."
-    ],
-    "ability": ""
-  },
-  "142": {
-    "name": [
-      "Salmon"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly caught from the sea, perfect for sashimi",
-      "It can also be cooked with other ingredients"
-    ],
-    "ability": ""
-  },
-  "143": {
-    "name": [
-      "King Salmon"
-    ],
-    "subtitle": "",
-    "description": [
-      "Freshly caught from the sea, perfect for sashimi",
-      "It can also be cooked with other ingredients"
-    ],
-    "ability": ""
-  },
-  "151": {
-    "name": [
-      "Beast Meat"
-    ],
-    "subtitle": "",
-    "description": [
-      "Meat taken from a monster. It can be used to make delicious dishes",
-      "Monsters eat humans, and humans eat monsters—it's only natural"
-    ],
-    "ability": ""
-  },
-  "153": {
-    "name": [
-      "A Large Egg"
-    ],
-    "subtitle": "",
-    "description": [
-      "A huge egg from the abyss. What creature is it from?",
-      "I didn't think too much—an egg is an egg"
-    ],
-    "ability": ""
-  },
-  "173": {
-    "name": [
-      "Banana fairy"
-    ],
-    "subtitle": "",
-    "description": [
-      "What on earth is this?"
-    ],
-    "ability": ""
-  },
-  "175": {
-    "name": [
-      "Apple fairy"
-    ],
-    "subtitle": "",
-    "description": [
-      "What on earth is this?"
-    ],
-    "ability": ""
-  },
-  "185": {
-    "name": [
-      "Personal Jesus"
-    ],
-    "beIndependent": true,
-    "subtitle": [
-      "\"Dirty Deeds Done Dirt Cheap...\""
-    ],
-    "description": [
-      "A wicked curiosity crafted by an Archdemon after observing",
-      "human civilization Every sin of the bearer is faithfully",
-      "recorded and converted into points These points can then",
-      "be offered to the demon in exchange for unholy favors—"
-    ],
-    "ability": [
-      "Records sins as points. enables Demonic Trading"
-    ]
-  },
-  "187": {
-    "name": [
-      "Old Videotape"
-    ],
-    "beIndependent": true,
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      "A special medium that stores footage from a bygone era, playable",
-      "only with specific equipment. Some propose it was an alchemical",
-      "product of an ancient civilization, though no proof exists",
-      "Its scarcity also makes collectors highly eager to obtain it"
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "188": {
-    "name": [
-      "Horror Videotape"
-    ],
-    "beIndependent": true,
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      "A special medium that stores footage from a bygone era, playable",
-      "only with specific equipment. Some propose it was an alchemical",
-      "product of an ancient civilization, though no proof exists",
-      "It also seems cursed—the footage is always unnervingly chilling"
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "189": {
-    "name": [
-      "Adult Videotape"
-    ],
-    "beIndependent": true,
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      "A special medium that stores footage from a bygone era, playable",
-      "only with specific equipment. Some propose it was an alchemical",
-      "product of an ancient civilization, though no proof exists",
-      "It seems to be restricted content, filled with arousing scenes"
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "190": {
-    "name": [
-      "Yuri Doujinshi"
-    ],
-    "beIndependent": true,
-    "subtitle": [
-      "\"Onee-chan... I feel like... I can’t live without you anymore...\""
-    ],
-    "description": [
-      "A doujinshi with beautiful art.",
-      "But it depicts a forbidden love between two beautiful girls...",
-      "Story’s so steamy, even the pages give off a faint pink scent."
-    ],
-    "ability": [
-      "Increases desire after reading!"
-    ]
-  },
-  "191": {
-    "name": [
-      "Moe Doujinshi"
-    ],
-    "beIndependent": true,
-    "subtitle": [
-      "\"Moe moe kyun~♡\""
-    ],
-    "description": [
-      "A doujinshi filled with pink bubbles and heart-shaped effects.",
-      "Characters blush and get flustered over the tiniest things...",
-      "They say you might end up sighing \"so moe~\" after reading it."
-    ],
-    "ability": [
-      "Increases desire after reading!"
-    ]
-  },
-  "192": {
-    "name": [
-      "Catgirl Doujinshi"
-    ],
-    "beIndependent": true,
-    "subtitle": [
-      "\"Master... nya~ Can I get some headpats?\""
-    ],
-    "description": [
-      "A doujinshi that smells faintly of catnip.",
-      "Shows catgirls purring, rolling, and wagging their tails.",
-      "May make you consider getting a talking nyan-wife..."
-    ],
-    "ability": [
-      "Increases desire after reading!"
-    ]
-  },
-  "197": {
-    "name": [
-      "Elixir Rubrum"
-    ],
-    "beIndependent": true,
-    "subtitle": [
-      "\"Haec est totius fortitudinis fortitudo fortis,  ",
-      "quia vincet omnem rem subtilem, omnemque solidam penetrabit.\""
-    ],
-    "description": [
-      "The reddened Philosopher's Fragment flows like blood",
-      "Its proper use is still unknown, but for now, ",
-      "just try drinking it like a beverage…"
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "198": {
-    "name": [
-      "\\str[120]'s T-shirt"
-    ],
-    "beIndependent": true,
-    "subtitle": [
-      "\"Knight-sama...! It even has an autograph on it...!\""
-    ],
-    "description": [
-      "A bonus T-shirt obtained from the Knight, ",
-      "now used as pajamas by \\str[120].",
-      "The loose fit gives her an air of defenseless temptation.",
-      "To avoid washing it, she only wears it when in high spirits."
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "199": {
-    "name": [
-      "\\str[120]'s Free Pass"
-    ],
-    "subtitle": [
-      "\"There are lots of doodles and scribbles all over the pass...\""
-    ],
-    "description": [
-      "A handmade Free Pass drawn by \\str[120]. \\str[121] may seek ",
-      "\\str[120]'s affection — no matter how selfish the request, it’s granted",
-      "Even so, \\str[120] has always wanted to do something nice for ",
-      "\\str[121], with or without the pass—"
-    ],
-    "ability": ""
-  },
-  "200": {
-    "name": [
-      "Polaroid#1"
-    ],
-    "subtitle": [
-      "\"What are you doing, staring over here like that…!\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "201": {
-    "name": [
-      "Polaroid#2"
-    ],
-    "subtitle": [
-      "\"this is just how rabbits show affection~\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "202": {
-    "name": [
-      "Polaroid#3"
-    ],
-    "subtitle": [
-      "\"…It's clean enough already, right?\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "203": {
-    "name": [
-      "Polaroid#4"
-    ],
-    "subtitle": [
-      "\"N-No, this is bad... the medicine's too strong!\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "204": {
-    "name": [
-      "Polaroid#5"
-    ],
-    "subtitle": [
-      "\"Oh, Lord, forgive me for being tempted by money...\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "205": {
-    "name": [
-      "Polaroid#6"
-    ],
-    "subtitle": [
-      "\"Woof... Isn't that enough already...?\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "206": {
-    "name": [
-      "Polaroid#7"
-    ],
-    "subtitle": [
-      "\"Hehe~♥ You didn't see anything, right?\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "207": {
-    "name": [
-      "Polaroid#8"
-    ],
-    "subtitle": [
-      "\"Come on, this pose should be fine, right?\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "208": {
-    "name": [
-      "Polaroid#9"
-    ],
-    "subtitle": [
-      "\"What’s with that amused look on your face...?\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "209": {
-    "name": [
-      "Polaroid#10"
-    ],
-    "subtitle": [
-      "\"I can't... keep singing anymore...!\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "210": {
-    "name": [
-      "Polaroid#11"
-    ],
-    "subtitle": [
-      "\"So, this is your New Year's wish?\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "211": {
-    "name": [
-      "Polaroid#12"
-    ],
-    "subtitle": [
-      "\"Ah, even the tea is starting to taste sweeter!\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "212": {
-    "name": [
-      "Polaroid#13"
-    ],
-    "subtitle": [
-      "\"Well, it’s a part-time job, so I can't help it...\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "213": {
-    "name": [
-      "Polaroid#14"
-    ],
-    "subtitle": [
-      "\"Oh my, you came in without knocking~\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "214": {
-    "name": [
-      "Polaroid#15"
-    ],
-    "subtitle": [
-      "\"Is that so...? A confession style I've never heard of...\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "215": {
-    "name": [
-      "Polaroid#16"
-    ],
-    "subtitle": [
-      "\"Haa... Haa... My body can't take it anymore...!\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "216": {
-    "name": [
-      "Polaroid#17"
-    ],
-    "subtitle": [
-      "\"Oh, Lord... please forgive me...\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "217": {
-    "name": [
-      "Polaroid#18"
-    ],
-    "subtitle": [
-      "\"Woof... Isn't that enough already...?\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "218": {
-    "name": [
-      "Polaroid#19"
-    ],
-    "subtitle": [
-      "\"...Meow?\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "219": {
-    "name": [
-      "Polaroid#20"
-    ],
-    "subtitle": [
-      "\"...Huh? Still not cleaned up?\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "220": {
-    "name": [
-      "Polaroid#21"
-    ],
-    "subtitle": [
-      "\"Haa... This is the 11th song... Isn't that enough?\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "221": {
-    "name": [
-      "Polaroid#22"
-    ],
-    "subtitle": [
-      "\"Why does the gaze feel hotter...?\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "222": {
-    "name": [
-      "Polaroid#23"
-    ],
-    "subtitle": [
-      "\"Your New Year's wish came true right away, happy?\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "223": {
-    "name": [
-      "Polaroid#24"
-    ],
-    "subtitle": [
-      "\"Did you feel the bunny's love~♥\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "224": {
-    "name": [
-      "Polaroid#25"
-    ],
-    "subtitle": [
-      "\"A strange bunny has been abandoned...\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "225": {
-    "name": [
-      "Polaroid#26"
-    ],
-    "subtitle": [
-      "\"Almost got caught...\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "226": {
-    "name": [
-      "Polaroid#27"
-    ],
-    "subtitle": [
-      "\"Coming in without knocking... what are you up to~♥\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "227": {
-    "name": [
-      "Polaroid#28"
-    ],
-    "subtitle": [
-      "\"That's strange... I can't seem to fasten it...\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "228": {
-    "name": [
-      "Polaroid#29"
-    ],
-    "subtitle": [
-      "\"...No one's watching over here, right?\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "229": {
-    "name": [
-      "Polaroid#30"
-    ],
-    "subtitle": [
-      "\"Hehe~♥ Nothing happened, okay?\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "230": {
-    "name": [
-      "Polaroid#31"
-    ],
-    "subtitle": [
-      "\"Mmm... The tea tastes even sweeter now...!\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "231": {
-    "name": [
-      "Polaroid#32"
-    ],
-    "subtitle": [
-      "\"I know it's part of the job, but just this once, okay?\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "232": {
-    "name": [
-      "Polaroid#33"
-    ],
-    "subtitle": [
-      "\"P-Please don't touch the merchandise carelessly!\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "233": {
-    "name": [
-      "Polaroid#34"
-    ],
-    "subtitle": [
-      "\"Chew, chew... It's so-so, I guess...\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "234": {
-    "name": [
-      "Polaroid#35"
-    ],
-    "subtitle": [
-      "\"Master? Please don't tease me at a time like this...\""
-    ],
-    "description": [
-      "Photos capturing the daily lives of the Tea Party girls…",
-      "but who took these pictures?"
-    ],
-    "ability": ""
-  },
-  "235": {
-    "name": [
-      "Polaroid Album"
-    ],
-    "beIndependent": true,
-    "subtitle": [
-      "\"Soft and adorable girls♥ I wanna take every one of them home—!\""
-    ],
-    "description": [
-      "A photo album specially made for collecting cute girl snapshots.",
-      "Opening it releases a faint scent of black tea..."
-    ],
-    "ability": [
-      "Polaroids Collected: \\c[6]${QJ.MPMZ.tl.checkPolaroidCount()}\\c[0]/35"
-    ]
-  },
-  "236": {
-    "name": [
-      "Polaroid Album"
-    ],
-    "beIndependent": true,
-    "subtitle": [
-      "\"Soft and adorable girls♥ I wanna take every one of them home—!\""
-    ],
-    "description": [
-      "A photo album specially made for collecting cute girl snapshots.",
-      "Opening it releases a faint scent of black tea..."
-    ],
-    "ability": [
-      "Complete collection! Luck permanently increased!"
-    ]
-  },
-  "240": {
-    "name": [
-      "Curry Rice"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "241": {
-    "name": [
-      "Apple Pie"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "242": {
-    "name": [
-      "Baked Apple"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "243": {
-    "name": [
-      "Stir Fried Shellfish"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "244": {
-    "name": [
-      "Grilled Fish"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "245": {
-    "name": [
-      "Sautéed Mushrooms"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "246": {
-    "name": [
-      "Grilled Meat Skewers"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "247": {
-    "name": [
-      "Onigiri"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "248": {
-    "name": [
-      "Pork Cutlet Curry"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "249": {
-    "name": [
-      "Braised Pork Belly"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "250": {
-    "name": [
-      "Sliced Meat Soup"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "251": {
-    "name": [
-      "Roast Beef"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "252": {
-    "name": [
-      "Pork Cutlet Onigiri"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "253": {
-    "name": [
-      "Slime Jelly"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "254": {
-    "name": [
-      "Dark Jelly"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "255": {
-    "name": [
-      "Blaze Jelly"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "256": {
-    "name": [
-      "Rainbow Jelly?"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "257": {
-    "name": [
-      "Grilled Banana"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "258": {
-    "name": [
-      "Borscht"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "259": {
-    "name": [
-      "Grilled Octopus Skewers"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "260": {
-    "name": [
-      "Vegetable Salad"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "261": {
-    "name": [
-      "Mashed Potatoes"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "262": {
-    "name": [
-      "Radish and Mushroom Soup"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "263": {
-    "name": [
-      "Pasta"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "264": {
-    "name": [
-      "Tomato Pasta"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "265": {
-    "name": [
-      "Seafood Pasta"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "266": {
-    "name": [
-      "Egg Curry Rice"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "267": {
-    "name": [
-      "Omurice"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "268": {
-    "name": [
-      "Tomato Omurice"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "269": {
-    "name": [
-      "Seafood Risotto"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "270": {
-    "name": [
-      "Pineapple Drink"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "271": {
-    "name": [
-      "Okinawa Stir-Fry"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "272": {
-    "name": [
-      "Fried Chicken Bucket"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "273": {
-    "name": [
-      "Fried Chicken Leg"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "274": {
-    "name": [
-      "Tempura Onigiri"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "275": {
-    "name": [
-      "Baked Lobster"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "276": {
-    "name": [
-      "Stewed Crab"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "277": {
-    "name": [
-      "Tuna Head"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "278": {
-    "name": [
-      "Takoyaki"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "279": {
-    "name": [
-      "Hamburg Steak"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "280": {
-    "name": [
-      "Spicy Mashed Potatoes"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "281": {
-    "name": [
-      "Chili Soup"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "282": {
-    "name": [
-      "Sea Monster Gummies"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "283": {
-    "name": [
-      "Sea Monster Shaved Ice"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "284": {
-    "name": [
-      "Red Sea Monster Gummies"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "285": {
-    "name": [
-      "Pancake"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "286": {
-    "name": [
-      "Strawberry Pancake"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "287": {
-    "name": [
-      "Tomato Soup"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "288": {
-    "name": [
-      "Washed Strawberries"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "289": {
-    "name": [
-      "Smoked Chicken Onigiri"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "290": {
-    "name": [
-      "Chicken Curry Rice"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "291": {
-    "name": [
-      "Grilled Carrot Skewers"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "292": {
-    "name": [
-      "Sacabambaspis Sushi"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "293": {
-    "name": [
-      "Sacabambaspis Shrimp Sushi"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "294": {
-    "name": [
-      "Sacabambaspis Meat Sushi"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "295": {
-    "name": [
-      "Lava Roast Duck"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "296": {
-    "name": [
-      "Shark Onigiri"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "298": {
-    "name": [
-      "Hell Ramen"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "300": {
-    "name": [
-      "Hot Cup Noodles"
-    ],
-    "subtitle": [
-      ""
-    ],
-    "description": [
-      ""
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "311": {
-    "name": [
-      "Blue Radiant Stone"
-    ],
-    "subtitle": "",
-    "description": [
-      "A blue gemstone with a captivating glow",
-      "While lacking practical value, someone might pay a high price for it…",
-      "or have other intentions?"
-    ],
-    "ability": ""
-  },
-  "312": {
-    "name": [
-      "Small Mana Gel"
-    ],
-    "subtitle": "",
-    "description": [
-      "A jelly-like substance formed purely from condensed mana",
-      "It’s edible, but its taste varies greatly with one’s magical aptitude",
-      "Its main use is as a consumable material for magic"
-    ],
-    "ability": ""
-  },
-  "314": {
-    "name": [
-      "Red Rhomboid Stone"
-    ],
-    "subtitle": "",
-    "description": [
-      "A red gemstone with a captivating glow",
-      "While lacking practical value, someone might pay a high price for it…",
-      "or have other intentions?"
-    ],
-    "ability": ""
-  },
-  "315": {
-    "name": [
-      "Neko's Fine Slip"
-    ],
-    "subtitle": "",
-    "description": [
-      "A fine slip received after being beaten on the spot for taking goods ",
-      "without permission. Sure, I was the one who acted first, but after ",
-      "getting roughed up, some of the money on me was forcibly taken as well.",
-      "This way of handling things feels pretty brutal…"
-    ],
-    "ability": ""
-  },
-  "320": {
-    "name": [
-      "Hellstone"
-    ],
-    "subtitle": [
-      "\"The first adventurer to mine it and bring it out was named Kyurame.",
-      "He refused to have it named after himself because it sounded too chuuni—\""
-    ],
-    "description": [
-      "A special ore found only in the deeper layers of the Abyss.",
-      "It contains searing mana, yet is exceptionally hard, ",
-      "and can only be mined and processed by specific means."
-    ],
-    "ability": ""
-  },
-  "410": {
-    "name": [
-      "The Knight's Suggestion"
-    ],
-    "beIndependent": true,
-    "subtitle": [
-      "\"I see... The game is too difficult, you say?",
-      "If Your Excellency does not mind, I can provide a special method for you...\""
-    ],
-    "description": [
-      "A mysterious code provided in secret by the Knight.",
-      "It can instantly improve the game experience—but at what cost?"
-    ],
-    "ability": ""
-  },
-  "411": {
-    "name": [
-      "Gathering Tales"
-    ],
-    "beIndependent":true,
-    "subtitle": [
-      "\"Guess I'll look for hidden paths...\""
-    ],
-    "description": [
-      "Promised a strange knight to collect interesting stories from the adventure.",
-      "But then again, what even qualifies as 'interesting'...?",
-      "Oh well, maybe some inspiration will strike if I just wander around a bit more—"
-    ],
-    "ability": [
-      "Tales Reported: \\c[6]${$gameNumberArray.value(37).length}"
-    ]
-  },
-  "412": {
-    "name": [
-      "For \\str[120]"
-    ],
-    "beIndependent":true,
-    "subtitle": [
-      "\"Keep exploring into the deeper layers of the Abyss—\""
-    ],
-    "description": [
-      "To cure the constitution of \\str[120], ",
-      "I must search the Abyss for the Philosopher's stone, ",
-      "an ingredient for the legendary medicine."
-    ],
-    "ability": [
-      ""
-    ]
-  },
-  "500": {
-    "name": [
-      "Hidden Quest Guide"
-    ],
-    "beIndependent":true,
-    "subtitle": [
-      "\"Just read through the entire guide and beating the game will be a breeze——",
-      " But that's... HOW ZAKOS THINK.",
-      " In this save file, I'm going to permadeath-run the whole thing!\""
-    ],
-    "description": [
-      "In a certain worldline, a player left behind this bold proclamation...",
-      "and charged headfirst into the Tower without a single regret."
-    ],
-    "ability": [
-      "Hidden Quest Guidance Text"
-    ]
-  }  
+    "1": {
+        "name": [
+            "คูปองขนมน้ำชา"
+        ],
+        "subtitle": "",
+        "description": [
+            "คูปองแลกเปลี่ยนจากงานน้ำชา ใช้สำหรับแลกขนมน้ำชาแสนอร่อย",
+            "ว่าแต่…… ร้านมันอยู่ไหนล่ะเนี่ย?"
+        ],
+        "ability": [
+            "เมื่อใส่ในตู้กาชา จะสามารถสุ่มแบบ 11 ครั้งได้ 1 รอบ โดยไม่ทำให้ตู้เสียหาย",
+            "ในการสุ่ม 11 ครั้งรอบนี้ จะได้รับกาชาสีทองแน่นอน 1 ลูก"
+        ]
+    },
+    "2": {
+        "name": [
+            "เคล็ดลับสำหรับนักผจญภัย"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "「หน้าแรกเขียนไว้ว่า RORO เริ่มเขียนเมื่อ 2024/10/1」"
+        ],
+        "description": [
+            "ตอนแรกเป็นเพียงบันทึกการสำรวจที่นักผจญภัยชื่อ RORO เขียนไว้ลวกๆ",
+            "แต่ไม่รู้เริ่มตั้งแต่ตอนไหน ที่มีคนเห็นว่าน่าสนุกแล้วมาร่วมเขียนต่อกันเรื่อยๆ จนกระทั่ง……",
+            "เขียนไว้ครอบคลุมทุกอย่างตั้งแต่ 「วิธีเข้าเขาวงกต」 ไปจนถึง 「เย็นนี้กินอะไรดี」 เล่มนี้ก็ได้ถือกำเนิดขึ้น"
+        ],
+        "ability": [
+            "คู่มือแนะนำวิธีเล่นที่สามารถเปิดดูเนื้อหาของเกมได้"
+        ]
+    },
+    "3": {
+        "name": [
+            "ขยะ"
+        ],
+        "subtitle": "",
+        "description": [
+            "เศษซากสารพัดสิ่ง ไม่มีมูลค่าเท่าไหร่",
+            "ทำไมฉันต้องเก็บของพรรค์นี้มาด้วยนะ?"
+        ],
+        "ability": ""
+    },
+    "4": {
+        "name": [
+            "10 เยน"
+        ],
+        "subtitle": "",
+        "beIndependent": true,
+        "description": [
+            "เป็นแค่เหรียญมูลค่า 10 เหรียญหนึ่งเหรียญ",
+            "แต่ซื้ออะไรไม่ได้เลยสักอย่าง……"
+        ],
+        "ability": ""
+    },
+    "5": {
+        "name": [
+            "50 เยน"
+        ],
+        "subtitle": "",
+        "beIndependent": true,
+        "description": [
+            "เป็นแค่เหรียญมูลค่า 50 เหรียญหนึ่งเหรียญ",
+            "ดูเหมือนจะยังซื้ออะไรไม่ได้อยู่ดี…… แต่ถ้าทำหายก็คงปวดใจเหมือนกัน"
+        ],
+        "ability": ""
+    },
+    "6": {
+        "name": [
+            "100 เยน"
+        ],
+        "subtitle": "",
+        "beIndependent": true,
+        "description": [
+            "เป็นแค่เหรียญมูลค่า 100 เยนหนึ่งเหรียญ",
+            "ถ้าโชคดีก็เอาไปซื้อนมสตรอว์เบอร์รี่ของโปรดของ \\str[120] ได้"
+        ],
+        "ability": ""
+    },
+    "7": {
+        "name": [
+            "500 เยน"
+        ],
+        "subtitle": "",
+        "beIndependent": true,
+        "description": [
+            "เป็นแค่เหรียญมูลค่า 500 เยนหนึ่งเหรียญ",
+            "ถ้าเอาไปหยอดกาชา อาจจะได้ \"หมุนเทพประทาน\" ในตำนานก็ได้.....!"
+        ],
+        "ability": ""
+    },
+    "8": {
+        "name": [
+            "1,000 เยน"
+        ],
+        "subtitle": "",
+        "description": [
+            "เป็นแค่ธนบัตรใบละ 1,000 เยนหนึ่งใบ",
+            "ไม่มีใครรู้ว่าทำไมแม้แต่มอนสเตอร์ก็เริ่มเก็บสะสมเงินที่มนุษย์ใช้....."
+        ],
+        "ability": ""
+    },
+    "9": {
+        "name": [
+            "5,000 เยน"
+        ],
+        "subtitle": "",
+        "beIndependent": true,
+        "description": [
+            "เป็นแค่ธนบัตรใบละ 5,000 เยนหนึ่งใบ",
+            "ไม่ว่าใครเห็นก็ต้องหวั่นไหว นี่คือพลังแห่งเงินตรางั้นเหรอ.....?"
+        ],
+        "ability": ""
+    },
+    "10": {
+        "name": [
+            "10,000 เยน"
+        ],
+        "subtitle": "",
+        "beIndependent": true,
+        "description": [
+            "เป็นแค่ธนบัตรใบละ 10,000 เยนหนึ่งใบ",
+            "มูลค่าของมันทำเอาแม้แต่ตู้กาชาปองยังต้องยิ้มให้—"
+        ],
+        "ability": ""
+    },
+    "11": {
+        "name": [
+            "50,000 เยน"
+        ],
+        "subtitle": "",
+        "beIndependent": true,
+        "description": [
+            "ธนบัตรใบละ 5,000 เยนปึกหนา",
+            "เพราะพวกกระต่ายเมดกำลังเร่งการค้า มอนสเตอร์เลยหันมาฮิตแย่งกระเป๋าเงินนักผจญภัย",
+            "เพียงเพื่อจะลองสัมผัสสิ่งที่เรียกว่า 「การซื้อของ」"
+        ],
+        "ability": ""
+    },
+    "12": {
+        "name": [
+            "100,000 เยน"
+        ],
+        "subtitle": "",
+        "beIndependent": true,
+        "description": [
+            "ธนบัตรใบละ 10,000 เยนปึกหนา",
+            "กลิ่นหอมของเงินตราทำเอาแม้แต่มารแห่งความโลภยังยิ้มยั่ว—"
+        ],
+        "ability": ""
+    },
+    "13": {
+        "name": [
+            "แผนที่กระต่าย"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "แผนที่ลับที่หมุนเวียนในหมู่เมดกระต่าย มีเศษแครอทติดอยู่ด้วย",
+            "พวกเธอขุด \"รูกระต่าย\" เพื่อเดินทางไปทั่วได้อย่างอิสระเหมือนส่งพัสดุด่วน",
+            "ตั้งแต่ผู้นำผู้ยิ่งใหญ่ที่มีหัวการค้าดั่งปีศาจปรากฏตัวเมื่อสิบปีก่อน",
+            "พวกกระต่ายก็ยึดครองทั่วทั้งส่วนลึกอย่างรวดเร็ว และเริ่มทำการค้ามอนสเตอร์ทันที"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "14": {
+        "name": [
+            "เครื่องบันทึกภาพเวทมนตร์"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "ว่ากันว่าเป็นอุปกรณ์เวทมนตร์จากตะวันออก งานประณีตมาก แต่ไม่รู้ทำไมถึงตกมาอยู่ที่ส่วนลึกได้.....",
+            "เพียงแค่ใช้งาน ก็สามารถบันทึกภาพที่เห็นให้คงอยู่ได้ แต่เพราะขาดการบำรุงรักษามานาน",
+            "จึงถูกพลังเวทแทรกแซงได้ง่าย บางครั้งอาจถ่ายติดสิ่งแปลกๆ....."
+        ],
+        "ability": [
+            "กดปุ่มลัด F7 เพื่อถ่ายภาพ"
+        ]
+    },
+    "15": {
+        "name": [
+            "JoyStation V"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "ด้วยข้อจำกัดของเทคโนโลยีการแปลงวิญญาณเป็นวัตถุ แม้จะพัฒนามาถึงยุคที่ 5 แล้ว",
+            "ผู้เล่นก็ยังไม่สามารถส่งสติเข้าไปในเกมโดยตรงเพื่อเพิ่มอรรถรสได้.....\""
+        ],
+        "description": [
+            "อุปกรณ์ความบันเทิงสุดแปลกที่นักเล่นแร่แปรธาตุสร้างขึ้นใหม่ตามบันทึกโบราณ",
+            "เป็นที่นิยมอย่างมากในหมู่นักผจญภัยที่ชอบความแปลกใหม่และความตื่นเต้น",
+            "แต่เนื่องจากกรรมวิธีการผลิตซับซ้อนมาก จำนวนที่มีในตลาดจึงจำกัดสุดๆ"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "16": {
+        "name": [
+            "DLC ดวงวิญญาณทมิฬ"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "แพ็กเนื้อหาเสริมของเกม 《ดวงวิญญาณทมิฬ》",
+            "ผลงานที่อัศวินสร้างสรรค์ขึ้นด้วยความมั่นใจหลังจากสะสมประสบการณ์มาอย่างยาวนาน",
+            "มีการรวมมอนสเตอร์และด่านที่ยากจนทำให้ผู้เล่นต้องทบทวนชีวิตตัวเองใหม่",
+            "แต่แปลกที่เหล่าผู้เล่นกลับยิ่งพากันหลงใหลและแย่งชิงมัน....."
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "17": {
+        "name": [
+            "ผมชี้ของ \\str[120]"
+        ],
+        "subtitle": "",
+        "description": [
+            "เส้นผมชี้ที่แอบดึงมาจากหัวของ \\str[120] เจ้าตัวดูเหมือนจะไม่รู้ตัวเลยสักนิด.....",
+            "แม้จะหลุดออกจากร่างหลักแล้ว มันก็ยังคงตั้งตรงอย่างดื้อรั้นด้วยความยืดหยุ่นอันน่าทึ่ง"
+        ],
+        "ability": ""
+    },
+    "18": {
+        "name": [
+            "เป็ดยาง"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "ของเล่นเป็ดยางที่ถูกทิ้งไว้อย่างโดดเดี่ยวในลำธารโดยไม่ทราบสาเหตุ",
+            "บางทีอาจเพราะความสงสารที่ผุดขึ้นมาในใจ เลยเก็บมันขึ้นมา",
+            "แต่อิมูโตะก็น่าจะชอบมันล่ะนะ....."
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "19": {
+        "name": [
+            "พัดลม"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "พัดลมขนาดเล็กตัวเก่าที่ลมไม่ได้แรงอะไรมากมาย",
+            "แต่ถ้าเทียบกันแล้ว เวทมนตร์ความเย็นนั้นสิ้นเปลืองพลังเวทมากกว่าเยอะ....."
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "20": {
+        "name": [
+            "เศษเสี้ยวศิลาแห่งสรวงสวรรค์"
+        ],
+        "subtitle": [
+            "「นี่คือความทรหดอันเป็นที่สุด สอดแทรกผ่านทุกสิ่งอันแข็งแกร่ง เหนือกว่าสิ่งประณีตใดๆ」"
+        ],
+        "description": [
+            "แม้จะเป็นเพียงเศษเสี้ยว แต่ก็มีพลังอันมหาศาลซ่อนอยู่—"
+        ],
+        "ability": ""
+    },
+    "21": {
+        "name": [
+            "รหัสลับ"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "「กดค้างที่กรอบรูปตัวละครเพื่อเปิดช่องกรอกรหัส—」"
+        ],
+        "ability": "",
+        "howToUse": [
+            "<<คู่มือการใช้งานสูตรโกง>>",
+            "",
+            "กดค้างที่กรอบรูปตัวละคร (แถบ HP) ในหน้าต่างเกมเพื่อเรียกช่องกรอกคำสั่ง ใส่คำสั่งที่ถูกต้องแล้วกด Enter เพื่อใช้งาน",
+            "หลังจากใช้สูตรโกง จะได้รับฉายา \"เอ็งมันกาก\" สามารถเลือกเปิด/ปิดเอฟเฟกต์ฉายานี้ได้ในเมนูตั้งค่า",
+            "สิ่งนี้จะไม่มีผลกระทบเชิงลบใดๆ ต่อค่าพลัง, การดำเนินเนื้อเรื่อง หรือฉากจบของคุณ",
+            "",
+            "<<รายชื่อคำสั่งที่ใช้งานได้ในปัจจุบัน>>",
+            ""
+        ],
+        "notUnlocked": [
+            "ยังไม่ได้ปลดล็อกสูตรโกงใดๆ บางทีอัศวินท่าทางประหลาดคนนั้นอาจจะให้คำใบ้คุณได้!"
+        ],
+        "hard2k1ll": [
+            "< hard2k1ll >",
+            "ได้รับอุปกรณ์โกง 「ปีกผลึกราชินีแฟรี่」 ตกจากที่สูงจะม่เจ็บ และช่วยลดความเสียหายที่ได้รับลงอย่างมาก"
+        ],
+        "get40rfree": [
+            "< get40rfree >",
+            "ได้รับไอเทมสิ้นเปลือง วัตถุดิบ และวัสดุทั้งหมด (ใช้ได้ครั้งเดียวเท่านั้น)"
+        ],
+        "6a1n60ld": [
+            "< 6a1n60ld >",
+            "ได้รับ 100,000 เยนและอุปกรณ์โกง「ค้อนสารพัดนึก」เมื่อกำจัดมอนสเตอร์จะดรอปเงินเพิ่มขึ้น"
+        ],
+        "healmeplz": [
+            "< healmeplz >",
+            "ได้รับอุปกรณ์โกง「กล่องปฐมพยาบาลของมิโอะ」เมื่อติดตั้งจะฟื้นฟูพลังกายอัตโนมัติอย่างมาก"
+        ],
+        "unshatter": [
+            "< unshatter >",
+            "ได้รับอุปกรณ์โกง「นิ้วทองคำ」เมื่อติดตั้ง การโจมตีจะไม่ลดความทนทานของอาวุธ"
+        ],
+        "60dpat": [
+            "< 60dpat >",
+            "ได้รับอุปกรณ์โกง「กามเทพหวั่นไหว」เมื่อติดตั้งแล้วลูบหัวอิมูโตะที่บ้านจะเพิ่มความชอบอย่างมาก"
+        ],
+        "muestacz": [
+            "< muestacz >",
+            "ได้รับอุปกรณ์โกง「อาณาเขตสัมบูรณ์」เมื่อติดตั้งจะเพิ่มช่องเก็บของจำนวนมาก"
+        ],
+        "1f0g0ty0u": [
+            "< 1f0g0ty0u >",
+            "อนุญาตให้เปลี่ยนชื่อของอิมูโตะได้"
+        ]
+    },
+    "23": {
+        "name": [
+            "นมแสนอร่อย"
+        ],
+        "subtitle": [
+            "「ผู้สนับสนุนโฆษณา: งานเลี้ยงชาทวนกระแส」"
+        ],
+        "description": [
+            "เครื่องดื่มที่ได้จากตู้หยอดเหรียญสุดแปลก",
+            "เรื่องรสชาติช่างมันเถอะ แต่ทำไมมีตู้หยอดเหรียญอยู่ในเหวลึกได้ล่ะเนี่ย…"
+        ],
+        "ability": [
+            "ฟื้นฟูพลังกาย 120 ยูนิต และรับเอฟเฟกต์ฟื้นฟูอัตโนมัติชั่วคราว"
+        ]
+    },
+    "24": {
+        "name": [
+            "นมรสแครอท"
+        ],
+        "subtitle": [
+            "「ผู้สนับสนุนโฆษณา: งานเลี้ยงชาทวนกระแส」"
+        ],
+        "description": [
+            "เครื่องดื่มที่ได้จากตู้หยอดเหรียญสุดแปลก",
+            "เรื่องรสชาติช่างมันเถอะ แต่ทำไมมีตู้หยอดเหรียญอยู่ในเหวลึกได้ล่ะเนี่ย…"
+        ],
+        "ability": [
+            "ฟื้นฟูพลังกาย 75 ยูนิต และสุ่มล้างสถานะผิดปกติ 1 อย่าง"
+        ]
+    },
+    "25": {
+        "name": [
+            "นมรสสตรอว์เบอร์รี"
+        ],
+        "subtitle": [
+            "「ผู้สนับสนุนโฆษณา: งานเลี้ยงชาทวนกระแส」"
+        ],
+        "description": [
+            "เครื่องดื่มที่ได้จากตู้หยอดเหรียญสุดแปลก",
+            "เรื่องรสชาติช่างมันเถอะ แต่ทำไมมีตู้หยอดเหรียญอยู่ในเหวลึกได้ล่ะเนี่ย…"
+        ],
+        "ability": [
+            "ฟื้นฟูพลังกาย 75 จุด และเพิ่มพลังโจมตีกายภาพ 50% ในระยะเวลาหนึ่ง"
+        ]
+    },
+    "26": {
+        "name": [
+            "นมรสเมลอน"
+        ],
+        "subtitle": [
+            "「ผู้สนับสนุนโฆษณา: งานเลี้ยงชาทวนกระแส」"
+        ],
+        "description": [
+            "เครื่องดื่มที่ได้จากตู้หยอดเหรียญสุดแปลก",
+            "เรื่องรสชาติช่างมันเถอะ แต่ทำไมมีตู้หยอดเหรียญอยู่ในเหวลึกได้ล่ะเนี่ย…"
+        ],
+        "ability": [
+            "ฟื้นฟูพลังกาย 75 จุด และเพิ่มพลังโจมตีเวทมนตร์ 50% ในระยะเวลาหนึ่ง"
+        ]
+    },
+    "27": {
+        "name": [
+            "นมรสกล้วย"
+        ],
+        "subtitle": [
+            "「ผู้สนับสนุนโฆษณา: งานเลี้ยงชาทวนกระแส」"
+        ],
+        "description": [
+            "เครื่องดื่มที่ได้จากตู้หยอดเหรียญสุดแปลก",
+            "เรื่องรสชาติช่างมันเถอะ แต่ทำไมมีตู้หยอดเหรียญอยู่ในเหวลึกได้ล่ะเนี่ย…"
+        ],
+        "ability": [
+            "ฟื้นฟูพลังกาย 75 จุด และเพิ่มความเร็วการโจมตีและการเคลื่อนที่ในระยะเวลาหนึ่ง"
+        ]
+    },
+    "30": {
+        "name": [
+            "คอนเปโตสีชมพู"
+        ],
+        "subtitle": [
+            "「หึ หึ หึ..... ส่วนผสมคืออะไร เธอไม่รู้จะดีกว่านะจ๊ะ♥」"
+        ],
+        "description": [
+            "คอนเปโตสุดประณีตที่จอมมารทำขึ้นด้วยตัวเอง",
+            "ส่งกลิ่นหอมราวกับลูกพีช แค่ได้กลิ่นก็เริ่มรู้สึกเคลิ้มล่องลอยแล้ว....."
+        ],
+        "ability": [
+            "เมื่อป้อนให้ \\str[120] จะทำให้ติดสถานะเกิดอารมณ์ (เงี่ยน)"
+        ]
+    },
+    "31": {
+        "name": [
+            "คอนเปโตสีน้ำเงิน"
+        ],
+        "subtitle": [
+            "「หึ หึ หึ..... ส่วนผสมคืออะไร เธอไม่รู้จะดีกว่านะจ๊ะ♥」"
+        ],
+        "description": [
+            "คอนเปโตสุดประณีตที่จอมมารทำขึ้นด้วยตัวเอง",
+            "กลิ่นหอมบลูเบอร์รี่ แค่ดมก็รู้สึกสงบลง....."
+        ],
+        "ability": [
+            "เมื่อให้ \\str[120] กิน จะติดสถานะหลับลึก"
+        ]
+    },
+    "32": {
+        "name": [
+            "คอนเปโตสีเขียว"
+        ],
+        "subtitle": [
+            "「หึ หึ หึ..... ส่วนผสมคืออะไร เธอไม่รู้จะดีกว่านะจ๊ะ♥」"
+        ],
+        "description": [
+            "คอนเปโตสุดประณีตที่จอมมารทำขึ้นด้วยตัวเอง",
+            "กลิ่นหอมเมลอน แค่ดมก็รู้สึกกระปรี้กระเปร่า....."
+        ],
+        "ability": [
+            "เมื่อให้ \\str[120] กิน จะติดสถานะเป็นสุข"
+        ]
+    },
+    "33": {
+        "name": [
+            "มิซุมันจูนุ่มเด้งสุดเสียว"
+        ],
+        "subtitle": [
+            "「หึ หึ หึ..... ส่วนผสมคืออะไร เธอไม่รู้จะดีกว่านะจ๊ะ♥」"
+        ],
+        "description": [
+            "มิซุมันจูเคี้ยวหนึบสดชื่น ฝีมือจอมมารทำเอง",
+            "เข้าปากปุ๊บ รู้สึกเสียวซ่านเหมือนไฟช็อตทั้งตัว!"
+        ],
+        "ability": [
+            "เมื่อให้ \\str[120] กิน จะติดสถานะเสียวง่าย (ไวต่อสัมผัส)",
+            "หลังขว้างไป หากเป้าหมายกิน จะเพิ่มความเสียวซ่านชั่วคราว"
+        ]
+    },
+    "35": {
+        "name": [
+            "โคล่าเขย่าขวดใหญ่"
+        ],
+        "subtitle": [
+            "「ผู้สนับสนุนโฆษณา: งานเลี้ยงชาทวนกระแส」"
+        ],
+        "description": [
+            "เครื่องดื่มที่ได้จากตู้หยอดเหรียญสุดแปลก",
+            "เรื่องรสชาติช่างมันเถอะ แต่ทำไมมีตู้หยอดเหรียญอยู่ในเหวลึกได้ล่ะเนี่ย…"
+        ],
+        "ability": [
+            "เขย่าแรงๆ แล้วขว้างจะเกิดระเบิดรุนแรง"
+        ]
+    },
+    "41": {
+        "name": [
+            "อักษรรูน Fehu"
+        ],
+        "subtitle": [
+            "「พลังเปลี่ยนเป็นทอง」"
+        ],
+        "description": [
+            "หินสลักรูนเวทมนตร์ ออกแบบมาให้มือใหม่ไร้เวท",
+            "สามารถเปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "หลังขว้างไป จะเปลี่ยนเป้าหมายที่โดนให้เป็นทองชั่วคราว",
+            "หากพังทลายในร่างทอง จะดรอปเงินจำนวนมาก"
+        ]
+    },
+    "42": {
+        "name": [
+            "อักษรรูน Kenaz"
+        ],
+        "subtitle": [
+            "「พลังระเบิดทำลาย」"
+        ],
+        "description": [
+            "หินสลักรูนเวทมนตร์ ออกแบบมาให้มือใหม่ไร้เวท",
+            "สามารถเปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "หลังขว้างไป จะเปลี่ยนเป้าหมายที่โดนให้กลายเป็นระเบิด",
+            "ระเบิดใน 3 วิ ยิ่งเป้าหมายตัวใหญ่ รัศมียิ่งกว้าง"
+        ]
+    },
+    "43": {
+        "name": [
+            "อักษรรูน Ansuz"
+        ],
+        "subtitle": [
+            "「พลังแห่งนิมิต」"
+        ],
+        "description": [
+            "หินสลักรูนเวทมนตร์ ออกแบบมาให้มือใหม่ไร้เวท",
+            "สามารถเปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้จะทิ้งเครื่องหมายบันทึกข้อความไว้ ณ ตำแหน่งนั้น",
+            "หลังอัปเดต เครื่องหมายนี้จะแสดงให้ผู้เล่นคนอื่นเห็นได้"
+        ]
+    },
+    "44": {
+        "name": [
+            "อักษรรูน Raido"
+        ],
+        "subtitle": [
+            "「พลังแห่งการควบขี่」"
+        ],
+        "description": [
+            "หินสลักรูนเวทมนตร์ ออกแบบมาให้มือใหม่ไร้เวท",
+            "สามารถเปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "หลังขว้างจะสร้างมาร์กที่กดคลิกเพื่อสลับตำแหน่งได้"
+        ]
+    },
+    "45": {
+        "name": [
+            "อักษรรูน Ehwaz"
+        ],
+        "subtitle": [
+            "「พลังแห่งการแปรเปลี่ยน」"
+        ],
+        "description": [
+            "หินสลักรูนเวทมนตร์ ออกแบบมาให้มือใหม่ไร้เวท",
+            "สามารถเปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "หลังขว้างจะสลับตำแหน่งกับเป้าหมายที่สัมผัสทันที"
+        ]
+    },
+    "46": {
+        "name": [
+            "เดอะฟูล"
+        ],
+        "subtitle": [
+            "「ความอยากรู้อันไร้ที่สิ้นสุดของนักผจญภัยโง่เขลา」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะบังคับวาร์ปไปยังแผนที่สุ่ม"
+        ]
+    },
+    "47": {
+        "name": [
+            "เดอะแมจิเชียน"
+        ],
+        "subtitle": [
+            "「ผลงานชิ้นเอกของนักเล่นแร่แปรธาตุ」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะอัญเชิญข้ารับใช้แห่งธาตุออกมาแบบสุ่มจำนวน"
+        ]
+    },
+    "48": {
+        "name": [
+            "ไฮพรีสเตส"
+        ],
+        "subtitle": [
+            "「ขอให้คุณได้รับความโปรดปรานจากนาง.....」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะอัญเชิญประตูที่นำไปสู่โบสถ์แห่งความเสื่อมทราม"
+        ]
+    },
+    "49": {
+        "name": [
+            "ดิเอ็มเพรส"
+        ],
+        "subtitle": [
+            "「โฉมงามล่มเมือง เสน่ห์ล่มพารา」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะมอบสถานะ \"เสน่ห์ล่มเมือง\" แก่ผู้เล่นเป็นเวลา 7 วินาที"
+        ]
+    },
+    "50": {
+        "name": [
+            "ดิเอ็มเพอเรอร์"
+        ],
+        "subtitle": [
+            "「บารมีมังกร มิอาจล่วงเกิน」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะคำรามเสียงมังกรใส่ทุกเป้าหมายบนจอทำให้ติดมึนงง"
+        ]
+    },
+    "51": {
+        "name": [
+            "ไฮโรแฟนท์ (พระสังฆราช)"
+        ],
+        "subtitle": [
+            "「ถึงเวลาตื่นรู้แล้ว」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ มอบสถานะ \"ตาจิต\" และ \"โหมดปราชญ์\" ให้ผู้เล่น"
+        ]
+    },
+    "52": {
+        "name": [
+            "เลิฟเวอร์ส (คู่รัก)"
+        ],
+        "subtitle": [
+            "「กลิ่นอายที่เหลืออยู่ของแม่มด」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ เพิ่มอัตราการเกิดและเสริมแกร่งมอนสเตอร์ชั่วคราว"
+        ]
+    },
+    "53": {
+        "name": [
+            "แชริออต (รถศึก)"
+        ],
+        "subtitle": [
+            "「เรียกปุ๊บมาปั๊บ! รถด่วนนรก!」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ รถส่งของน้ำชาจะปรากฏขึ้นและพุ่งชนผู้เล่น"
+        ]
+    },
+    "54": {
+        "name": [
+            "สเตร็งธ์ (พละกำลัง)"
+        ],
+        "subtitle": [
+            "「ปลดปล่อยพลังทหารยักษ์」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ อาวุธประชิดจะขยายใหญ่และเพิ่มพลังโจมตีชั่วคราว"
+        ]
+    },
+    "55": {
+        "name": [
+            "เฮอร์มิท (ฤๅษี)"
+        ],
+        "subtitle": [
+            "「เปิดเผยความลับของโลกนี้」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะทำเครื่องหมายหน่วยหรือสถานที่พิเศษชั่วคราว"
+        ]
+    },
+    "56": {
+        "name": [
+            "วีลออฟฟอร์จูน (กงล้อโชคชะตา)"
+        ],
+        "subtitle": [
+            "「วงล้อชะตาเดิมพันด้วยวิญญาณ」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะสุ่มรับเอฟเฟกต์บัฟหรือดีบัฟ"
+        ]
+    },
+    "57": {
+        "name": [
+            "จัสติส (ความยุติธรรม)"
+        ],
+        "subtitle": [
+            "「เถ้าสู่เถ้า ผงคลีสู่ผงคลี」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะล้างสถานะทั้งหมดบนตัวผู้เล่น"
+        ]
+    },
+    "58": {
+        "name": [
+            "เดอะ แฮงก์แมน (คนห้อยหัว)"
+        ],
+        "subtitle": [
+            "「ห้วงอวกาศร่วงหล่น.....」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะกลับด้านแรงโน้มถ่วงให้ร่วงหล่นสู่ท้องฟ้า"
+        ]
+    },
+    "59": {
+        "name": [
+            "เดธ (ความตาย)"
+        ],
+        "subtitle": [
+            "「ความตายคือจุดจบของทุกชีวิต」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะปลดปล่อยพลังแห่งปีศาจความตายสู่โลกมนุษย์"
+        ]
+    },
+    "60": {
+        "name": [
+            "เทมเพอแรนซ์ (การปรับตัว)"
+        ],
+        "subtitle": [
+            "「กล่องแพนโดร่าแห่งก้นบึ้ง」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะอัญเชิญตู้กาชา ณ จุดที่กำหนด"
+        ]
+    },
+    "61": {
+        "name": [
+            "เดอะ เดวิล (ปีศาจ)"
+        ],
+        "subtitle": [
+            "「เพลิงคำสาปที่ไม่มีวันดับสูญ」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะจุดไฟนรกขึ้น ณ จุดที่กำหนด"
+        ]
+    },
+    "62": {
+        "name": [
+            " เดอะ ทาวเวอร์ (หอคอย)"
+        ],
+        "subtitle": [
+            "「บัตรเชิญสู่ปาร์ตี้บ้าคลั่งแห่งก้นบึ้ง」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะอัญเชิญเสาแห่งการผนึก"
+        ]
+    },
+    "63": {
+        "name": [
+            "เดอะ สตาร์ (ดวงดาว)"
+        ],
+        "subtitle": [
+            "「ดวงดาวคือเข็มทิศนำทางกลับบ้าน」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะอัญเชิญประตูแห่งดาวใกล้ตัวผู้เล่นเพื่อวาร์ปกลับจุดเริ่มต้น"
+        ]
+    },
+    "64": {
+        "name": [
+            "เดอะ มูน (ดวงจันทร์)"
+        ],
+        "subtitle": [
+            "「แบกรับคำสาปแห่งการกลายพันธุ์」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะมอบสถานะ 「พลังกลายพันธุ์」 ให้แก่ผู้เล่น"
+        ]
+    },
+    "65": {
+        "name": [
+            "เดอะ ซัน (ดวงอาทิตย์)"
+        ],
+        "subtitle": [
+            "「เกิดใหม่จากกองเพลิง」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะได้รับพรจากวิหคเพลิง"
+        ]
+    },
+    "66": {
+        "name": [
+            "จัดจ์เมนต์ (การพิพากษา)"
+        ],
+        "subtitle": [
+            "「จงนับความผิดบาปของแกซะ!」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะยิงศรเวทไปทางที่กำหนดเพื่อเปลี่ยนเป้าหมายเป็นสิ่งมีชีวิตอื่น"
+        ]
+    },
+    "67": {
+        "name": [
+            "เดอะ เวิลด์ (โลก)"
+        ],
+        "subtitle": [
+            "「ขอเชิญสู่โลกสวนจำลองอันลึกลับ.....」"
+        ],
+        "description": [
+            "การ์ดเวทมนตร์ลงอาคม ถูกออกแบบมาเพื่อให้",
+            "แม้มือใหม่ที่ไม่มีพลังเวทก็เปิดใช้งานผลของมันได้ง่ายๆ"
+        ],
+        "ability": [
+            "เมื่อใช้ จะรีเซ็ตเวลาถอยหลังของกิจกรรมไอเทมดรอป"
+        ]
+    },
+    "70": {
+        "name": [
+            "ระเบิดแจ็คโอแลนเทิร์น"
+        ],
+        "subtitle": [
+            "「หันมามองทางนี้เซ่.....!」"
+        ],
+        "description": [
+            "ระเบิดเล่นแร่แปรธาตุธาตุไฟร้อนแรง มีคุณสมบัติไม่เสถียรอย่างมาก",
+            "แค่ถือไว้ในมือก็ระเบิดได้ทันที",
+            "จะระเบิดทันทีหากอยู่ในสภาพแวดล้อมที่ร้อนจัด!"
+        ],
+        "ability": ""
+    },
+    "71": {
+        "name": [
+            "ระเบิดน้ำแข็งแจ็คโอแลนเทิร์น"
+        ],
+        "subtitle": [
+            "「หันมามองทางนี้เซ่.....!」"
+        ],
+        "description": [
+            "ระเบิดเล่นแร่แปรธาตุธาตุน้ำแข็ง มีคุณสมบัติไม่เสถียรอย่างมาก",
+            "แค่ถือไว้ในมือก็ระเบิดได้ทันที"
+        ],
+        "ability": ""
+    },
+    "72": {
+        "name": [
+            "ระเบิดพิษแจ็คโอแลนเทิร์น"
+        ],
+        "subtitle": [
+            "「หันมามองทางนี้เซ่.....!」"
+        ],
+        "description": [
+            "ระเบิดเล่นแร่แปรธาตุธาตุพิษร้ายแรง มีคุณสมบัติไม่เสถียรอย่างมาก",
+            "แค่ถือไว้ในมือก็ระเบิดได้ทันที"
+        ],
+        "ability": ""
+    },
+    "75": {
+        "name": [
+            "นาฬิกาผนึกเวลา"
+        ],
+        "subtitle": "",
+        "description": [
+            "ไอเทมเวทมนตร์พิเศษที่ผนึกคาถาแห่งเวลาอันทรงพลังไว้ภายใน",
+            "เพียงทุบให้แตก จะปลดปล่อยพลังทำให้ทุกสิ่งรวมถึงเวลา",
+            "ในระยะที่กำหนดหยุดนิ่งไปหลายวินาที"
+        ],
+        "ability": ""
+    },
+    "76": {
+        "name": [
+            "ยินเกลาเงิน"
+        ],
+        "subtitle": "",
+        "description": [
+            "อาหารสัตว์ลึกลับไม่ทราบที่มา แต่อร่อยอย่างเหลือเชื่อ",
+            "ไม่ต้องพูดถึงสัตว์ทั่วไป แม้แต่มอนสเตอร์ยังโดนกลิ่นหอมยั่วยวน!",
+            "แต่ต้องเก็บให้ดี กลิ่นระเหยง่ายมาก เผลอนิดเดียวคือหายหมด....."
+        ],
+        "ability": [
+            "เมื่อขว้างจะสร้างกลุ่มหมอกหอมดึงดูดความสนใจของมอนสเตอร์"
+        ]
+    },
+    "77": {
+        "name": [
+            "พุดดิ้งซูชิ"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "ข้ารับใช้ของจอมมาร ปล่อยมันไปจะช่วยนำทางหาตัวจอมมารได้",
+            "สรุปนี่มันแมว ซูชิ หรือพุดดิ้งกันแน่? แต่ดูน่ากินชะมัด....."
+        ],
+        "ability": ""
+    },
+    "80": {
+        "name": [
+            "คัมภีร์คาถาผนึก"
+        ],
+        "beIndependent": true,
+        "subtitle": "",
+        "description": [
+            "ไอเทมลับสืบทอดเฉพาะในหมู่นินจา",
+            "กระตุ้นอักขระบนคัมภีร์เพื่อเปิดมิติต่างตา",
+            "ใช้ดูดสิ่งของเข้าไปผนึก หรือปลดปล่อยออกมาเมื่อต้องการ"
+        ],
+        "ability": [
+            "ผนึก / อัญเชิญ อุปกรณ์สวมใส่ทั้งหมดในตัว",
+            "\\str[110]"
+        ]
+    },
+    "86": {
+        "name": [
+            "เนื้อสเต๊กแผ่น"
+        ],
+        "subtitle": "",
+        "description": [
+            "ชิ้นเนื้อที่ล่าได้จากสัตว์ป่า",
+            "โปรตีนสูง ย่างแบบง่ายดาย ก็หอมฉุย!"
+        ],
+        "ability": ""
+    },
+    "88": {
+        "name": [
+            "เนื้อน่องไก่"
+        ],
+        "subtitle": "",
+        "description": [
+            "เนื้อน่องที่ล่าได้จากสัตว์ปีกนานาชนิด",
+            "เนื้อนุ่มฉ่ำ เหมาะกับทำเมนูจานเนื้อสุดๆ"
+        ],
+        "ability": ""
+    },
+    "89": {
+        "name": [
+            "เนื้ออสูรชิ้นโต"
+        ],
+        "subtitle": "",
+        "description": [
+            "เนื้อจากมอนสเตอร์ ใช้ทำเมนูเนื้อแสนอร่อย",
+            "มอนสเตอร์กินคน คนกินมอนสเตอร์ มันคือเรื่องธรรมชาติ"
+        ],
+        "ability": ""
+    },
+    "90": {
+        "name": [
+            "เนื้ออสูรชิ้นเล็ก"
+        ],
+        "subtitle": "",
+        "description": [
+            "เนื้อจากมอนสเตอร์ ใช้ทำเมนูเนื้อแสนอร่อย",
+            "มอนสเตอร์กินคน คนกินมอนสเตอร์ มันคือเรื่องธรรมชาติ"
+        ],
+        "ability": ""
+    },
+    "97": {
+        "name": [
+            "เมือกสัตว์ประหลาดน้ำ"
+        ],
+        "subtitle": "",
+        "description": [
+            "เมือกจากสัตว์ประหลาดน้ำ วัตถุดิบยอดฮิตของการเล่นแร่แปรธาตุ",
+            "บางครั้งก็ใช้เป็นเจลหล่อลื่นตอนมีเซ็กส์ยัดลำควยให้เสียวรูหีรูตูด"
+        ],
+        "ability": ""
+    },
+    "98": {
+        "name": [
+            "เห็ดเดินได้"
+        ],
+        "subtitle": "",
+        "description": [
+            "เห็ดที่เด็ดมาจากมอนสเตอร์เห็ดเดินได้ ตอนนี้นิ่งสนิทเลิกขยับแล้วล่ะ",
+            "พอผ่าดูข้างในก็เนื้อเนียนเหมือนเห็ดทั่วไปไม่มีผิด"
+        ],
+        "ability": ""
+    },
+    "100": {
+        "name": [
+            "เมือกสไลม์"
+        ],
+        "subtitle": "",
+        "description": [
+            "น้ำเมือกเหนียวข้นจากตัวสไลม์ วัตถุดิบชั้นดีในการเล่นแร่แปรธาตุ",
+            "บางครั้งก็ใช้เป็นเจลหล่อลื่นตอนมีเซ็กส์ยัดลำควยให้เสียวรูหีรูตูด"
+        ],
+        "ability": ""
+    },
+    "101": {
+        "name": [
+            "แอปเปิ้ล"
+        ],
+        "subtitle": "",
+        "description": [
+            "ผลไม้สดๆ เพิ่งเด็ดจากต้น เคี้ยวแล้วฉ่ำน้ำสดชื่นสุดๆ",
+            "กินสดๆ ก็ช่วยฟื้นฟูพลังกายและแก้อาการเหนื่อยล้าได้นิดหน่อยนะ"
+        ],
+        "ability": ""
+    },
+    "102": {
+        "name": [
+            "แกงกะหรี่ก้อน"
+        ],
+        "subtitle": "",
+        "description": [
+            "ก้อนแกงกะหรี่รสจัดจ้าน เผ็ดร้อนด้วยเครื่องเทศเข้มข้นจากต่างแดน",
+            "กินคู่กับข้าวสวยคือฟินสุดยอด หรือจะใส่เนื้อใส่ผักเพิ่มก็เข้ากัน"
+        ],
+        "ability": ""
+    },
+    "103": {
+        "name": [
+            "ข้าวสวย"
+        ],
+        "subtitle": "",
+        "description": [
+            "ข้าวขาวธรรมดาๆ แต่อุ่นนุ่มกินแล้วอิ่มอกอิ่มใจอย่างบอกไม่ถูก",
+            "จะกินเปล่า เปล่า ก็ดี หรือจะเอาไปมิกซ์กับวัตถุดิบอื่นก็เริ่ด"
+        ],
+        "ability": ""
+    },
+    "104": {
+        "name": [
+            "แครอท"
+        ],
+        "subtitle": "",
+        "description": [
+            "ผักทรงแท่งยาวธรรมดาๆ แต่แอบแปลกใจชะมัดที่เก็บได้ในก้นบึ้งแบบนี้",
+            "ถ้าคิดจะกินล่ะก็ ต้องเอาไปปรุงรสและจัดระเบียบให้ดีๆ ก่อนนะ"
+        ],
+        "ability": ""
+    },
+    "105": {
+        "name": [
+            "มันฝรั่ง"
+        ],
+        "subtitle": "",
+        "description": [
+            "ผักทรงแท่งยาวธรรมดาๆ แต่แอบแปลกใจชะมัดที่เก็บได้ในก้นบึ้งแบบนี้",
+            "ถ้าคิดจะกินล่ะก็ ต้องเอาไปปรุงรสและจัดระเบียบให้ดีๆ ก่อนนะ"
+        ],
+        "ability": ""
+    },
+    "106": {
+        "name": [
+            "พริก"
+        ],
+        "subtitle": "",
+        "description": [
+            "ผักทรงแท่งยาวธรรมดาๆ แต่แอบแปลกใจชะมัดที่เก็บได้ในก้นบึ้งแบบนี้",
+            "ถ้าคิดจะกินล่ะก็ ต้องเอาไปปรุงรสและจัดระเบียบให้ดีๆ ก่อนนะ"
+        ],
+        "ability": ""
+    },
+    "107": {
+        "name": [
+            "มะเขือเทศ"
+        ],
+        "subtitle": "",
+        "description": [
+            "ผักทรงแท่งยาวธรรมดาๆ แต่แอบแปลกใจชะมัดที่เก็บได้ในก้นบึ้งแบบนี้",
+            "ถ้าคิดจะกินล่ะก็ ต้องเอาไปปรุงรสและจัดระเบียบให้ดีๆ ก่อนนะ"
+        ],
+        "ability": ""
+    },
+    "108": {
+        "name": [
+            "กล้วย"
+        ],
+        "subtitle": "",
+        "description": [
+            "ผลไม้สดๆ เพิ่งเด็ดจากต้น เคี้ยวแล้วฉ่ำน้ำสดชื่นสุดๆ",
+            "กินสดๆ ก็ช่วยฟื้นฟูพลังกายและแก้อาการเหนื่อยล้าได้นิดหน่อยนะ"
+        ],
+        "ability": ""
+    },
+    "109": {
+        "name": [
+            "สตรอว์เบอร์รี่"
+        ],
+        "subtitle": "",
+        "description": [
+            "ผลไม้สดๆ เพิ่งเด็ดจากต้น เคี้ยวแล้วฉ่ำน้ำสดชื่นสุดๆ",
+            "กินสดๆ ก็ช่วยฟื้นฟูพลังกายและแก้อาการเหนื่อยล้าได้นิดหน่อยนะ"
+        ],
+        "ability": ""
+    },
+    "110": {
+        "name": [
+            "องุ่น"
+        ],
+        "subtitle": "",
+        "description": [
+            "ผลไม้สดๆ เพิ่งเด็ดจากต้น เคี้ยวแล้วฉ่ำน้ำสดชื่นสุดๆ",
+            "กินสดๆ ก็ช่วยฟื้นฟูพลังกายและแก้อาการเหนื่อยล้าได้นิดหน่อยนะ"
+        ],
+        "ability": ""
+    },
+    "111": {
+        "name": [
+            "สับปะรด"
+        ],
+        "subtitle": "",
+        "description": [
+            "ผลไม้สดๆ เพิ่งเด็ดจากต้น เคี้ยวแล้วฉ่ำน้ำสดชื่นสุดๆ",
+            "กินสดๆ ก็ช่วยฟื้นฟูพลังกายและแก้อาการเหนื่อยล้าได้นิดหน่อยนะ"
+        ],
+        "ability": ""
+    },
+    "112": {
+        "name": [
+            "แตงโม"
+        ],
+        "subtitle": "",
+        "description": [
+            "ผลไม้สดๆ เพิ่งเด็ดจากต้น เคี้ยวแล้วฉ่ำน้ำสดชื่นสุดๆ",
+            "กินสดๆ ก็ช่วยฟื้นฟูพลังกายและแก้อาการเหนื่อยล้าได้นิดหน่อยนะ"
+        ],
+        "ability": ""
+    },
+    "113": {
+        "name": [
+            "สปาเกตตี"
+        ],
+        "subtitle": "",
+        "description": [
+            "เส้นเหนียวนุ่มเด้งสู้ลิ้น เอาไปทำเมนูไหนก็เข้ากันดีสุดๆ",
+            "แค่ราดซอสฉ่ำๆ ก็อร่อยฟินแล้ว"
+        ],
+        "ability": ""
+    },
+    "114": {
+        "name": [
+            "ซอสมะเขือเทศ"
+        ],
+        "subtitle": "",
+        "description": [
+            "ซอสทำจากมะเขือเทศสด รสชาติเปรี้ยวๆ หวานๆ ยั่วลิ้น",
+            "แต่อย่าไปคิดลึกเลยนะว่าทำไมพวกมอนสเตอร์ถึงดรอปของแบบนี้ได้....."
+        ],
+        "ability": ""
+    },
+    "115": {
+        "name": [
+            "แป้งสาลี"
+        ],
+        "subtitle": "",
+        "description": [
+            "แป้งบดจากข้าวสาลี สารพัดประโยชน์สำหรับปรุงอาหาร"
+        ],
+        "ability": ""
+    },
+    "116": {
+        "name": [
+            "เห็ดนางฟ้า"
+        ],
+        "subtitle": "",
+        "description": [
+            "เห็ดหน้าตาธรรมดาๆ ที่พบเห็นได้ทั่วไปในโลกภายนอก",
+            "แต่การมาโผล่ในส่วนก้นบึ้งอันมืดมิดเนี่ย ถือว่าไม่ธรรมดาเลยนะ....."
+        ],
+        "ability": ""
+    },
+    "117": {
+        "name": [
+            "เห็ดหอม"
+        ],
+        "subtitle": "",
+        "description": [
+            "เห็ดหน้าตาธรรมดาๆ ที่พบเห็นได้ทั่วไปในโลกภายนอก",
+            "แต่การมาโผล่ในส่วนก้นบึ้งอันมืดมิดเนี่ย ถือว่าไม่ธรรมดาเลยนะ....."
+        ],
+        "ability": ""
+    },
+    "118": {
+        "name": [
+            "เห็ดชิเมจิ"
+        ],
+        "subtitle": "",
+        "description": [
+            "เห็ดหน้าตาธรรมดาๆ ที่พบเห็นได้ทั่วไปในโลกภายนอก",
+            "แต่การมาโผล่ในส่วนก้นบึ้งอันมืดมิดเนี่ย ถือว่าไม่ธรรมดาเลยนะ....."
+        ],
+        "ability": ""
+    },
+    "119": {
+        "name": [
+            "เห็ดเป่าฮื้อม่วง"
+        ],
+        "subtitle": "",
+        "description": [
+            "เห็ดหน้าตาธรรมดาๆ ที่พบเห็นได้ทั่วไปในโลกภายนอก",
+            "แต่การมาโผล่ในส่วนก้นบึ้งอันมืดมิดเนี่ย ถือว่าไม่ธรรมดาเลยนะ....."
+        ],
+        "ability": ""
+    },
+    "120": {
+        "name": [
+            "เห็ดเรืองแสงสึกิโยตาเกะ"
+        ],
+        "subtitle": "",
+        "description": [
+            "เห็ดหน้าตาธรรมดาๆ ที่พบเห็นได้ทั่วไปในโลกภายนอก",
+            "แต่การมาโผล่ในส่วนก้นบึ้งอันมืดมิดเนี่ย ถือว่าไม่ธรรมดาเลยนะ....."
+        ],
+        "ability": ""
+    },
+    "121": {
+        "name": [
+            "เห็ดเยื่อไผ่ร่างแหยาว"
+        ],
+        "subtitle": "",
+        "description": [
+            "เห็ดเกรดพรีเมียมระดับหรูที่โลกภายนอกยังหาทานได้ยาก",
+            "แต่การมาโผล่ในส่วนก้นบึ้งอันมืดมิดเนี่ย ถือว่าไม่ธรรมดาเลยนะ....."
+        ],
+        "ability": ""
+    },
+    "122": {
+        "name": [
+            "สตรอว์เบอร์รีของอาซาบะ"
+        ],
+        "subtitle": [
+            "「อื้ออ..... สตรอว์เบอร์รี..... ของรักของฉัน.....」"
+        ],
+        "description": [
+            "สตรอว์เบอร์รีคัดเกรดเลิศที่อาซาบะหวงแหนมากจนไม่กล้ากิน",
+            "ทว่าต่อให้ปกป้องสุดชีวิต สุดท้ายก็กลายมาเป็นของเชยชมของเราอยู่ดี—"
+        ],
+        "ability": ""
+    },
+    "127": {
+        "name": [
+            "หนวดปลาหมึกยักษ์"
+        ],
+        "subtitle": "",
+        "description": [
+            "หนวดปลาหมึกขาดที่ตกได้จากทะเล เอาไปย่างไฟนี่ยังหอมฉุยยั่วๆ เลยล่ะ",
+            "หรือจะเอาไปมิกซ์ปรุงร่วมกับวัตถุดิบอื่นก็เด็ดไม่แพ้กัน"
+        ],
+        "ability": ""
+    },
+    "128": {
+        "name": [
+            "หนวดของผู้ครอบงำ"
+        ],
+        "subtitle": [
+            "「โอนีจัง..... นี่มันอะไรน่ะ? น่าเกลียดน่าเสียวไส้จัง.....」"
+        ],
+        "description": [
+            "ชิ้นส่วนหนวดที่ขาดของผู้ครอบงำ มันยังดิ้นพล่านดุ๊กดิ๊กเหมือนมีชีวิตอยู่เลย!",
+            "แถมยังเหนียวแน่น แข็งแกร่ง และทนทานกว่าหนวดธรรมดาทั่วไปลิบลับ"
+        ],
+        "ability": ""
+    },
+    "130": {
+        "name": [
+            "ปลาไท"
+        ],
+        "subtitle": "",
+        "description": [
+            "ปลาสดใหม่จากทะเล นำไปทำซาชิมิได้",
+            "หรือจะเอาไปมิกซ์ปรุงร่วมกับวัตถุดิบอื่นก็เด็ดไม่แพ้กัน"
+        ],
+        "ability": ""
+    },
+    "131": {
+        "name": [
+            "ปลาทูน่า"
+        ],
+        "subtitle": "",
+        "description": [
+            "ปลาสดใหม่จากทะเล นำไปทำซาชิมิได้",
+            "หรือจะเอาไปมิกซ์ปรุงร่วมกับวัตถุดิบอื่นก็เด็ดไม่แพ้กัน"
+        ],
+        "ability": ""
+    },
+    "132": {
+        "name": [
+            "ปลาอิชิได"
+        ],
+        "subtitle": "",
+        "description": [
+            "ปลาสดใหม่จากทะเล นำไปทำซาชิมิได้",
+            "หรือจะเอาไปมิกซ์ปรุงร่วมกับวัตถุดิบอื่นก็เด็ดไม่แพ้กัน"
+        ],
+        "ability": ""
+    },
+    "133": {
+        "name": [
+            "ปลาเก๋า"
+        ],
+        "subtitle": "",
+        "description": [
+            "ปลาสดใหม่จากทะเล นำไปทำซาชิมิได้",
+            "หรือจะเอาไปมิกซ์ปรุงร่วมกับวัตถุดิบอื่นก็เด็ดไม่แพ้กัน"
+        ],
+        "ability": ""
+    },
+    "134": {
+        "name": [
+            "ปลาซันมะ"
+        ],
+        "subtitle": "",
+        "description": [
+            "ปลาสดใหม่จากทะเล นำไปทำซาชิมิได้",
+            "หรือจะเอาไปมิกซ์ปรุงร่วมกับวัตถุดิบอื่นก็เด็ดไม่แพ้กัน"
+        ],
+        "ability": ""
+    },
+    "135": {
+        "name": [
+            "กุ้งหวาน"
+        ],
+        "subtitle": "",
+        "description": [
+            "กุ้งสดใหม่จากทะเล นำไปทำซาชิมิได้",
+            "หรือจะเอาไปมิกซ์ปรุงร่วมกับวัตถุดิบอื่นก็เด็ดไม่แพ้กัน"
+        ],
+        "ability": ""
+    },
+    "136": {
+        "name": [
+            "กุ้งมังกร"
+        ],
+        "subtitle": "",
+        "description": [
+            "กุ้งมังกรสดจากทะเล ระวังโดนหนีบมือ",
+            "หรือจะเอาไปมิกซ์ปรุงร่วมกับวัตถุดิบอื่นก็เด็ดไม่แพ้กัน"
+        ],
+        "ability": ""
+    },
+    "137": {
+        "name": [
+            "ปูขน"
+        ],
+        "subtitle": "",
+        "description": [
+            "ปูสดจากทะเล ระวังโดนหนีบมือ",
+            "หรือจะเอาไปมิกซ์ปรุงร่วมกับวัตถุดิบอื่นก็เด็ดไม่แพ้กัน"
+        ],
+        "ability": ""
+    },
+    "138": {
+        "name": [
+            "ปูมะพร้าว"
+        ],
+        "subtitle": "",
+        "description": [
+            "ปูสดจับจากบนบก ระวังโดนหนีบมือ",
+            "หรือจะเอาไปมิกซ์ปรุงร่วมกับวัตถุดิบอื่นก็เด็ดไม่แพ้กัน"
+        ],
+        "ability": ""
+    },
+    "139": {
+        "name": [
+            "X△X"
+        ],
+        "subtitle": "",
+        "description": [
+            "ปลาซาคาบัมบัสปิสที่น็อกเพราะแรงระเบิด",
+            "มันคงไม่คิดว่าฝันที่ \"อยากเห็นบนบก\" จะเป็นจริงด้วยวิธีนี้....."
+        ],
+        "ability": ""
+    },
+    "142": {
+        "name": [
+            "ปลาแซลมอน"
+        ],
+        "subtitle": "",
+        "description": [
+            "กุ้งสดใหม่จากทะเล นำไปทำซาชิมิได้",
+            "หรือจะเอาไปมิกซ์ปรุงร่วมกับวัตถุดิบอื่นก็เด็ดไม่แพ้กัน"
+        ],
+        "ability": ""
+    },
+    "143": {
+        "name": [
+            "ปลาคิงแซลมอน"
+        ],
+        "subtitle": "",
+        "description": [
+            "กุ้งสดใหม่จากทะเล นำไปทำซาชิมิได้",
+            "หรือจะเอาไปมิกซ์ปรุงร่วมกับวัตถุดิบอื่นก็เด็ดไม่แพ้กัน"
+        ],
+        "ability": ""
+    },
+    "153": {
+        "name": [
+            "ไข่ใบใหญ่มาก"
+        ],
+        "subtitle": "",
+        "description": [
+            "ไข่ยักษ์จากก้นบึ้ง มันคือไข่ของตัวอะไรกันแน่นะ",
+            "ช่างมันเถอะ ยังไงก็เป็นแค่ไข่ฟองหนึ่ง"
+        ],
+        "ability": ""
+    },
+    "173": {
+        "name": [
+            "แฟรี่กล้วย"
+        ],
+        "subtitle": "",
+        "description": [
+            "……นี่มันตัวบ้าอะไรเนี่ย?"
+        ],
+        "ability": ""
+    },
+    "175": {
+        "name": [
+            "แฟรี่แอปเปิ้ล"
+        ],
+        "subtitle": "",
+        "description": [
+            "……นี่มันตัวบ้าอะไรเนี่ย?"
+        ],
+        "ability": ""
+    },
+    "185": {
+        "name": [
+            "การไถ่บาปส่วนตัว"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "「ความชั่วนั้นทำง่าย.....」"
+        ],
+        "description": [
+            "ไอเทมสุดพิเรนทร์ที่มหาจอมมารสร้างขึ้นหลังเฝ้าสังเกตมนุษย์",
+            "บันทึกความชั่วร้ายทั้งหมดของผู้ใช้และเปลี่ยนเป็นแต้ม",
+            "ใช้แต้มเซ่นไหว้ปีศาจเพื่อแลกของรางวัลตอบแทน"
+        ],
+        "ability": [
+            "บันทึกความชั่วเป็นแต้มเพื่อเปิดการค้าขายกับปีศาจ"
+        ]
+    },
+    "187": {
+        "name": [
+            "ม้วนวิดีโอเก่า"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "สื่อบันทึกภาพยุคเก่า ต้องใช้เครื่องเล่นเฉพาะเท่านั้น",
+            "คาดว่าเป็นผลผลิตเล่นแร่แปรธาตุโบราณ แต่ยังไม่มีหลักฐาน",
+            "หายากมาก จนเหล่านักสะสมต่างแย่งชิงกัน"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "188": {
+        "name": [
+            "ม้วนวิดีโอสยองขวัญ"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "สื่อบันทึกภาพยุคเก่า ต้องใช้เครื่องเล่นเฉพาะเท่านั้น",
+            "คาดว่าเป็นผลผลิตเล่นแร่แปรธาตุโบราณ แต่ยังไม่มีหลักฐาน",
+            "มีคำสาปแฝงอยู่ เนื้อหาที่เปิดดูชวนให้ขนลุกเสียวสันหลัง"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "189": {
+        "name": [
+            "ม้วนวิดีโอเอวี (หนังโป๊)"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "สื่อบันทึกภาพยุคเก่า ต้องใช้เครื่องเล่นเฉพาะเท่านั้น",
+            "คาดว่าเป็นผลผลิตเล่นแร่แปรธาตุโบราณ แต่ยังไม่มีหลักฐาน",
+            "เนื้อหาเรทเอ็กซ์ เต็มไปด้วยฉากมีเซ็กส์สุดเสียวจนเลือดลมพล่าน"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "190": {
+        "name": [
+            "โดจินชิยูริ"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "「โอนีจังคะ… ฉัน… ขาดโอนีจังไม่ได้อีกแล้ว…♡」"
+        ],
+        "description": [
+            "หนังสือโดจินภาพสวยงามเนี้ยบกริบ",
+            "เนื้อหาเล่าเรื่องรักต้องห้ามสุดเสียวระหว่างเด็กสาวสองคน",
+            "ฉากมีเซ็กส์เลียร่องบดบี้หัวนมเร่าร้อน จนกระดาษโชยกลิ่นหอมสีชมพู"
+        ],
+        "ability": [
+            "อ่านแล้วกระตุ้นความเงี่ยน เสียวซ่านจนอยากมีเซ็กส์ทันที!"
+        ]
+    },
+    "191": {
+        "name": [
+            "โดจินชิสุดโมเอะ"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "「โมเอะ โมเอะ~ คิ้วท์~♡」"
+        ],
+        "description": [
+            "โดจินชิที่อบอวลด้วยฟองสบู่สีชมพูและเอฟเฟกต์หัวใจ",
+            "ตัวละครเอะอะก็หน้าแดงใจสั่น หวานเลี่ยนจนใจละลาย",
+            "อ่านจบแล้ว จะเผลอครางงึมงำว่า 「โมเอะจนใจละลายแล้ว~」 อย่างไม่รู้ตัว"
+        ],
+        "ability": [
+            "อ่านแล้วกระตุ้นความเงี่ยน เสียวซ่านจนอยากมีเซ็กส์ทันที!"
+        ]
+    },
+    "192": {
+        "name": [
+            "โดจินสาวหูแมว"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "「นายท่านคะ..... เหมียว~ ขอลูบหัวหน่อยได้ไหมคะ?」"
+        ],
+        "description": [
+            "โดจินชิที่อบอวลไปด้วยกลิ่นแคทนิป",
+            "เรื่องราววันธรรมดาสุดน่ารักของสาวหูแมวที่ชอบอ้อน นอนกลิ้งไปมา และส่ายหางเบาๆ.....",
+            "ว่ากันว่าอ่านจบแล้วจะอยากได้เมียที่ร้อง 「เหมียว~」 จนทนไม่ไหว"
+        ],
+        "ability": [
+            "อ่านแล้วกระตุ้นความเงี่ยน เสียวซ่านจนอยากมีเซ็กส์ทันที!"
+        ]
+    },
+    "197": {
+        "name": [
+            "น้ำสกัดกระดูกแดง"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "「นี่คือความทรหดอันเป็นที่สุด สอดแทรกผ่านทุกสิ่งอันแข็งแกร่ง เหนือกว่าสิ่งประณีตใดๆ」"
+        ],
+        "description": [
+            "หินสวรรค์ที่กลายเป็นสีแดงและไหลเวียนราวกับเลือด",
+            "ยังไม่รู้วิธีใช้ที่ถูกต้อง แต่ลองดื่มแทนน้ำดูสิ....."
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "198": {
+        "name": [
+            "เสื้อยืดของ \\str[120]"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "「ท่านอัศวิน.....! มีลายเซ็นสดด้วยล่ะ.....!」"
+        ],
+        "description": [
+            "เสื้อยืดของแถมจากอัศวิน ตอนนี้ \\str[120] เอามาใส่เป็นชุดนอนแล้ว",
+            "ทรงเสื้อตัวโคร่งหลวมๆ ทำให้เธอดูเซ็กซี่เย้ายวนใจแบบไร้การป้องกันสุดๆ",
+            "เพราะกลัวซักแล้วเสื้อพัง อิมูโตะเลยจะหยิบมาใส่เฉพาะตอนที่อารมณ์ดีเท่านั้น"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "199": {
+        "name": [
+            "ตั๋วสั่งได้ทุกอย่างของ \\str[120]"
+        ],
+        "subtitle": [
+            "「บนตั๋วมีรอยขีดฆ่าและแก้ไขเพียบเลย.....」"
+        ],
+        "description": [
+            "ตั๋วทำตามใจชอบที่ \\str[120] วาดให้เพื่อชมเชย \\str[121] ที่พยายามมาตลอด",
+            "ใช้ตั๋วนี้อ้อน \\str[120] ได้ตามใจอยาก ไม่ว่าคำขอจะเอาแต่ใจแค่ไหนก็ยอมหมดทุกอย่าง",
+            "แต่ต่อให้ไม่มีตั๋วนี้ \\str[120] ก็อยากทำอะไรให้ \\str[121] มากกว่านี้อยู่แล้วนะ—"
+        ],
+        "ability": ""
+    },
+    "200": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #1"
+        ],
+        "subtitle": [
+            "「ทำอะไรน่ะ จ้องทางนี้อยู่ได้…！」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "201": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #2"
+        ],
+        "subtitle": [
+            "「นี่คือวิธีบอกรักของกระต่ายไงล่ะ~」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "202": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #3"
+        ],
+        "subtitle": [
+            "「……เช็ดสะอาดแล้วใช่ไหม？」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "203": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #4"
+        ],
+        "subtitle": [
+            "「มะ ไม่ไหว…ฤทธิ์ยามันแรงเกินไปแล้ว…！」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "204": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #5"
+        ],
+        "subtitle": [
+            "「อา พระเจ้า โปรดให้อภัยข้าที่ถูกเงินล่อลวงด้วย…」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "205": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #6"
+        ],
+        "subtitle": [
+            "「งุงิ…พอได้แล้วมั้งโฮ่ง……」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "206": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #7"
+        ],
+        "subtitle": [
+            "「เอ๊ะเฮะ~♥ ไม่เห็นอะไรเลยใช่ม้า？」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "207": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #8"
+        ],
+        "subtitle": [
+            "「ให้ตายสิ ท่านี้โอเคแล้วใช่ไหม？」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "208": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #9"
+        ],
+        "subtitle": [
+            "「อะไรเล่า? ทำหน้าเหมือนกำลังดูเรื่องขำๆ เลยนะ…」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "209": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #10"
+        ],
+        "subtitle": [
+            "「หมดแรง…ร้องต่อไม่ไหวแล้ว…！」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "210": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #11"
+        ],
+        "subtitle": [
+            "「งั้นนี่ก็คำขอปีใหม่ของเธอสินะ？」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "211": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #12"
+        ],
+        "subtitle": [
+            "「อาา~ ชาแดงเองก็เริ่มหวานขึ้นแล้วสินะ！」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "212": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #13"
+        ],
+        "subtitle": [
+            "「ก็เป็นงานพาร์ตไทม์นี่นะ เอาเธอไม่อยู่จริงๆ…」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "213": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #14"
+        ],
+        "subtitle": [
+            "「อ๊ะ ไม่เคาะประตูก็เข้ามาเลยสิน้า~」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "214": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #15"
+        ],
+        "subtitle": [
+            "「แบบนี้เอง…ไม่เคยได้ยินวิธีสารภาพบาปแบบนี้เลยนะ…」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "215": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #16"
+        ],
+        "subtitle": [
+            "「ฮ้า…ฮ้า…ร่างกายมัน…แล้ว…！」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "216": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #17"
+        ],
+        "subtitle": [
+            "「อา พระผู้เป็นเจ้า…โปรดยกโทษให้ข้าด้วย…」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "217": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #18"
+        ],
+        "subtitle": [
+            "「งุงิ…พอแล้วมั้งโฮ่งงุ…」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "218": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #19"
+        ],
+        "subtitle": [
+            "「……เหมียว？」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "219": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #20"
+        ],
+        "subtitle": [
+            "「…หา? ยังเช็ดไม่สะอาดอีกเหรอ？」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "220": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #21"
+        ],
+        "subtitle": [
+            "「ฮา…เพลงที่ 11 แล้วนะ……พอได้รึยัง？」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "221": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #22"
+        ],
+        "subtitle": [
+            "「ทำไมสายตาถึงยิ่งร้อนแรงขึ้นเรื่อยๆ นะ…」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "222": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #23"
+        ],
+        "subtitle": [
+            "「พรวันปีใหม่เป็นจริงตั้งแต่วันแรก ดีใจล่ะสิ！？」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "223": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #24"
+        ],
+        "subtitle": [
+            "「สัมผัสถึงความรักของกระต่ายแล้วรึยัง~♥」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "224": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #25"
+        ],
+        "subtitle": [
+            "「มีกระต่ายประหลาดถูกเอามาทิ้งล่ะ…」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "225": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #26"
+        ],
+        "subtitle": [
+            "「เกือบโป๊ะแตกแล้ว…」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "226": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #27"
+        ],
+        "subtitle": [
+            "「เข้ามาโดยไม่เคาะ…คิดจะทำอะไรรึเปล่า~♥」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "227": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #28"
+        ],
+        "subtitle": [
+            "「แปลกจัง…ผูกไม่ติดเลย…」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "228": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #29"
+        ],
+        "subtitle": [
+            "「……ไม่มีใครจ้องมาทางนี้ใช่ไหม？」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "229": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #30"
+        ],
+        "subtitle": [
+            "「เอ๊ะเฮะ~♥ ไม่มีอะไรเกิดขึ้นหรอกน้า？」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "230": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #31"
+        ],
+        "subtitle": [
+            "「อื้อ…ชาดำหวานขึ้นอีกแล้ว……！」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "231": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #32"
+        ],
+        "subtitle": [
+            "「ถึงจะเป็นงานพิเศษก็เถอะ แต่ให้แค่ครั้งนี้นะ？」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "232": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #33"
+        ],
+        "subtitle": [
+            "「กะ กรุณาอย่าจับสินค้ามั่วนะคะ！」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "233": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #34"
+        ],
+        "subtitle": [
+            "「งั่มๆๆ…ก็พอใช้ได้ล่ะนะ…」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "234": {
+        "name": [
+            "โพลารอยด์งานน้ำชา #35"
+        ],
+        "subtitle": [
+            "「นายท่าน? อย่ามาแกล้งกันตอนนี้สิ…」"
+        ],
+        "description": [
+            "ภาพถ่ายบันทึกชีวิตประจำวันของเหล่าสาวๆ ในงานน้ำชา แต่ว่า…",
+            "แล้วใครกันที่ถ่ายรูปพวกนี้ไว้?"
+        ],
+        "ability": ""
+    },
+    "235": {
+        "name": [
+            "คอลเลกชั่นงานเลี้ยงน้ำชา"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "「สาวน้อยนุ่มนิ่มน่ารัก♥ อยากอุ้มกลับบ้านทุกใบเลย——！」"
+        ],
+        "description": [
+            "อัลบั้มที่ทำขึ้นเพื่อสะสมรูปสาวน้อยน่ารักโดยเฉพาะ",
+            "พอเปิดออกมายังมีกลิ่นชาหอมอ่อนๆ ลอยออกมาด้วย....."
+        ],
+        "ability": [
+            "จำนวนภาพที่สะสม：\\c[6]${QJ.MPMZ.tl.checkPolaroidCount()}\\c[0]/35"
+        ]
+    },
+    "236": {
+        "name": [
+            "คอลเลกชั่นงานเลี้ยงน้ำชา"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "「สาวน้อยนุ่มนิ่มน่ารัก♥ อยากอุ้มกลับบ้านทุกใบเลย——！」"
+        ],
+        "description": [
+            "อัลบั้มที่ทำขึ้นเพื่อสะสมรูปสาวน้อยน่ารักโดยเฉพาะ",
+            "พอเปิดออกมายังมีกลิ่นชาหอมอ่อนๆ ลอยออกมาด้วย....."
+        ],
+        "ability": [
+            "สะสมครบแล้ว！โชคเพิ่มถาวร！"
+        ]
+    },
+    "240": {
+        "name": [
+            "ข้าวแกงกะหรี่"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "241": {
+        "name": [
+            "พายแอปเปิล"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "242": {
+        "name": [
+            "แอปเปิ้ลอบ"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "243": {
+        "name": [
+            "หอยผัด"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "244": {
+        "name": [
+            "ปลาย่าง"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "245": {
+        "name": [
+            "ผัดเห็ด"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "246": {
+        "name": [
+            "เนื้อย่างเสียบไม้"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "247": {
+        "name": [
+            "ข้าวปั้น"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "248": {
+        "name": [
+            "ข้าวแกงกะหรี่สเต๊ก"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "249": {
+        "name": [
+            "หมูสามชั้นซีอิ๊ว"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "250": {
+        "name": [
+            "ซุปเนื้อสไลด์"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "251": {
+        "name": [
+            "เนื้ออบอังกฤษ"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "252": {
+        "name": [
+            "ข้าวปั้นหน้าสเต๊ก"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "253": {
+        "name": [
+            "เยลลี่สไลม์"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "254": {
+        "name": [
+            "เยลลี่ดาร์ก"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "255": {
+        "name": [
+            "เยลลี่เปลวเพลิง"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "256": {
+        "name": [
+            "เยลลี่สายรุ้ง?"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "257": {
+        "name": [
+            "กล้วยปิ้ง"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "258": {
+        "name": [
+            "ซุปโรซอง"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "259": {
+        "name": [
+            "หมึกย่างเสียบไม้"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "260": {
+        "name": [
+            "สลัดผัก"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "261": {
+        "name": [
+            "มันบด"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "262": {
+        "name": [
+            "ซุปไชเท้าใส่เห็ด"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "263": {
+        "name": [
+            "สปาเกตตี"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "264": {
+        "name": [
+            "สปาเกตตีมะเขือเทศ"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "265": {
+        "name": [
+            "สปาเกตตีซีฟู้ด"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "266": {
+        "name": [
+            "ข้าวแกงกะหรี่ไข่"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "267": {
+        "name": [
+            "ข้าวห่อไข่"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "268": {
+        "name": [
+            "ข้าวห่อไข่ซอสมะเขือเทศ"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "269": {
+        "name": [
+            "ริซอตโต้ทะเล"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "270": {
+        "name": [
+            "น้ำสับปะรด"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "271": {
+        "name": [
+            "ผัดชัมปูรูโอคินาว่า"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "272": {
+        "name": [
+            "ไก่ทอดถัง"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "273": {
+        "name": [
+            "น่องไก่ทอด"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "274": {
+        "name": [
+            "ข้าวปั้นเทมปุระ"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "275": {
+        "name": [
+            "ล็อบสเตอร์อบชีส"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "276": {
+        "name": [
+            "ปูตุ๋น"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "277": {
+        "name": [
+            "หัวปลาทูน่า"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "278": {
+        "name": [
+            "ทาโกะยากิ"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "279": {
+        "name": [
+            "แฮมเบิร์ก"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "280": {
+        "name": [
+            "มันบดเผ็ด"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "281": {
+        "name": [
+            "ซุปพริก"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "282": {
+        "name": [
+            "เยลลี่อสูรน้ำ"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "283": {
+        "name": [
+            "น้ำแข็งไสอสูรน้ำ"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "284": {
+        "name": [
+            "เยลลี่อสูรน้ำแดง"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "285": {
+        "name": [
+            "เครปย่าง"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "286": {
+        "name": [
+            "เครปสตรอว์เบอร์รี"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "287": {
+        "name": [
+            "ซุปมะเขือเทศ"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "288": {
+        "name": [
+            "สตรอว์เบอร์รีล้างแล้ว"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "289": {
+        "name": [
+            "ข้าวปั้นไก่รมควัน"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "290": {
+        "name": [
+            "ข้าวแกงกะหรี่ไก่"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "291": {
+        "name": [
+            "หัวไชเท้าย่างเสียบไม้"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "292": {
+        "name": [
+            "ซูชิเต่าซาคาบัง"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "293": {
+        "name": [
+            "ซูชิกุ้งเต่าซาคาบัง"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "294": {
+        "name": [
+            "ซูชิเนื้อเต่าซาคาบัง"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "295": {
+        "name": [
+            "เป็ดย่างลาวา"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "296": {
+        "name": [
+            "ข้าวปั้นฉลาม"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "298": {
+        "name": [
+            "ราเม็งนรก"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "300": {
+        "name": [
+            "บะหมี่ถ้วยร้อนๆ"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "311": {
+        "name": [
+            "ไพโรซีน"
+        ],
+        "subtitle": "",
+        "description": [
+            "อัญมณีสีน้ำเงินประกายยั่วยวน แม้ไม่มีประโยชน์ใช้งานจริง",
+            "แต่ในบางมุม อาจมีใครยอมทุ่มเงินก้อนโตเพื่อมัน..... หรือแอบหวังเคลมอย่างอื่นจากร่างกายคุณกันแน่?"
+        ],
+        "ability": ""
+    },
+    "312": {
+        "name": [
+            "เจลเวทมนตร์ชิ้นเล็ก"
+        ],
+        "subtitle": "",
+        "description": [
+            "สสารก้อนเจลหนึบหนับที่กลั่นตัวจากพลังเวทบริสุทธิ์ล้วนๆ",
+            "ดูดอมกินได้ แต่รสชาติที่สัมผัสจะเสียวซ่านต่างกันไปตามพรสวรรค์เวทมนตร์ของแต่ละคน",
+            "ปกติมักใช้เป็นวัตถุดิบสิ้นเปลืองในการรวบรวมและสร้างวงเวท"
+        ],
+        "ability": ""
+    },
+    "314": {
+        "name": [
+            "หินเพลิงเหลี่ยมประกาย"
+        ],
+        "subtitle": "",
+        "description": [
+            "อัญมณีสีแดงประกายยั่วยวน แม้ไม่มีประโยชน์ใช้งานจริง",
+            "แต่ในบางมุม อาจมีใครยอมทุ่มเงินก้อนโตเพื่อมัน..... หรือแอบหวังเคลมอย่างอื่นจากร่างกายคุณกันแน่?"
+        ],
+        "ability": ""
+    },
+    "315": {
+        "name": [
+            "ใบสั่งของแมว"
+        ],
+        "subtitle": "",
+        "description": [
+            "ใบสั่งที่ได้มาหลังจากโดนรุมซ้อมคาที่ โทษฐานแอบจิ๊กสินค้าไปโดยไม่ได้รับอนุญาต",
+            "ถึงฝั่งเราจะเริ่มก่อน แถมโดนอัดจนน่วมก้นระบมไปหมดแล้ว",
+            "สุดท้ายยังโดนรีดไถริบเงินจนเกลี้ยงตัว วิธีจัดการช่างป่าเถื่อนดิบเถื่อนจริงๆ....."
+        ],
+        "ability": ""
+    },
+    "320": {
+        "name": [
+            "แร่หินนรก"
+        ],
+        "subtitle": [
+            "「นักผจญภัยคนแรกที่ขุดมันขึ้นมาสู่โลกภายนอกได้สำเร็จชื่อ คิราเมะ",
+            "แต่เพราะชื่อมันดูงี่เง่าเกินไป เขาเลยปฏิเสธที่จะใช้ชื่อตัวเองมาตั้งชื่อแร่—」"
+        ],
+        "description": [
+            "แร่พิเศษที่หาได้เฉพาะจากชั้นลึกสุดของก้นบึ้งอเวจีเท่านั้น",
+            "อัดแน่นด้วยพลังเวทร้อนแรงแผดเผา แต่เนื้อแร่แข็งแกร่งสุดๆ ต้องใช้วิธีเฉพาะทางเท่านั้นถึงจะขุดและแปรรูปได้"
+        ],
+        "ability": ""
+    },
+    "410": {
+        "name": [
+            "คำแนะนำของอัศวิน"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "「อย่างนี้นี่เอง..... เกมมันยากเกินไปสำหรับท่านงั้นรึ.....",
+            "หากท่านไม่รังเกียจ ข้ามีวิถีทางลัดสุดพิเศษพร้อมปรนเปรอให้.....」"
+        ],
+        "description": [
+            "โค้ดลับปริศนาที่อัศวินแอบเอามาแชร์ให้เสพสุขเป็นการส่วนตัว",
+            "ช่วยยกระดับความฟินและประสบการณ์เกมได้ทันตา—แต่สิ่งเสียวซ่านที่ต้องใช้แลกเปลี่ยนคืออะไรกันล่ะ?"
+        ],
+        "ability": ""
+    },
+    "411": {
+        "name": [
+            "รวบรวมเรื่องเล่า"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "「ลองหาเส้นทางลับดูหน่อยสิ.....」"
+        ],
+        "description": [
+            "รับปากอัศวินแปลกหน้าว่าจะรวบรวมเรื่องราวที่น่าสนใจจากการผจญภัย",
+            "แต่เกณฑ์ความน่าสนใจคืออะไรกันแน่นะ.....?",
+            "เอาเถอะ ลองเดินสำรวจดูรอบๆ เดี๋ยวก็คงนึกออกเอง—"
+        ],
+        "ability": [
+            "จำนวนเรื่องเล่าที่รายงานแล้ว: \\c[6]${$gameNumberArray.value(37).length}"
+        ]
+    },
+    "412": {
+        "name": [
+            "เพื่อ \\str[120]"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "「มุ่งหน้าสำรวจชั้นลึกของก้นบึ้งต่อไป—」"
+        ],
+        "description": [
+            "เพื่อรักษาธาตุขันธ์/สภาพร่างกายของ \\str[120] จำเป็นต้องตามหา 『ศิลาเวหา』 วัตถุดิบทำยาในตำนานที่ซ่อนอยู่ในก้นบึ้ง"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "500": {
+        "name": [
+            "คำใบ้เควสลับ"
+        ],
+        "beIndependent": true,
+        "subtitle": [
+            "「แค่เปิดบทสรุปดูก็เคลียร์เกมได้ง่ายๆ แล้ว—แต่นั่นมันวิธีของพวกกระจอก! ",
+            "รอบนี้ฉันจะโชว์เคลียร์แบบไม่ตายให้ดูเอง!」"
+        ],
+        "description": [
+            "ในเส้นโลกหนึ่ง ผู้เล่นคนหนึ่งได้ทิ้งคำอวดดีนี้ไว้ ก่อนจะพุ่งเข้าหา 『หอคอย』 อย่างไม่คิดชีวิต.....",
+            " "
+        ],
+        "ability": [
+            "ข้อความคำใบ้เควสลับ"
+        ]
+    }
 }

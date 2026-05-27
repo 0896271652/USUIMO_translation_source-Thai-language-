@@ -1,676 +1,689 @@
 {
-  "autoUpdateReminder": {
-    "0": [
-      "The update process will automatically start when you wake up the next day.",
-      "Please make sure your internet connection is stable throughout the process!",
-      "\\w[120]"
-    ],
-    "1": [
-      "Unable to view update log!",
-      "The network connection may have failed!",
-      "\\w[120]"
-    ]
-  },
-  "cheatCodeTutorial": {
-    "0": [
-      "⬆ Long press the avatar frame to call up the cheat code entry window.",
-      "Unlock the corresponding features by entering the correct cheat code!"
-    ]
-  },  
-  "bulkSelectButton": "Click to toggle bulk selection",
-  "usingItem": {
-    "0": [
-      "Took out \\ii[\\v[90]]  ",
-      "what should I do…?"
-    ],
-    "1": [
-      "Use It",
-      "Never Mind",
-      "Discard"
-    ]
-  },
-  "gameAnnouncement": {
-    "0": [
-      "Take a look",
-      "Never mind"
-    ]
-  },     
-  "skillOnCooldown": {
-    "0": [
-      "Skill On Cooldown!"
-    ]
-  },
-  "takePhotoOfImouto": {
-    "0": [
-      "\\nl< >\"Hngh! \\str[121]!    \\w[60]",
-      "You're sneaking photos again!\""
-    ]
-  }, 
-  "sealingScroll": [
-    "No items sealed yet",
-    "Under Seal:"
-  ],
-  "inventoryOverweight": {
-    "weapon": [
-      "Can’t carry more weapons!"
-    ],
-    "gear": [
-      "Can’t carry more gears!"
-    ]
-  },
-  "Abyss": {
-    "0": [
-      " The Forsaken Eternal Tower "
-    ]
-  },
-  "ElixirCraft": {
-    "0": [
-      " Elixir Craft "
-    ],
-    "1": [
-      " Successfully created Elixir Rubrum! "
-    ]
-  },
-  "gainRedHeart": {
-    "0": [
-      " Heart Blooming "
-    ],
-    "1": [
-      " \\str[120]’s heart just skipped a beat! "
-    ]
-  },
-  "gainWhiteHeart": {
-    "0": [
-      " Overflowing Love "
-    ],
-    "1": [
-      " She was filled up! "
-    ]
-  },
-  "gainGoldenHeart": {
-    "0": [
-      " Golden Lust "
-    ],
-    "1": [
-      " Lost in a sea of gold "
-    ]
-  },
-  "NinjasFate": {
-    "0": [
-      " Ninja’s Fate "
-    ],
-    "1": [
-      " Erase oneself, and wield the blade for comrades... "
-    ]
-  },
-  "AbyssPillars": {
-    "0": [
-      " ▓▓▓▓ has perceived your existence "
-    ]
-  },
-  "unlockJackalope": {
-    "0": [
-      " Jackalope "
-    ],
-    "1": [
-      " has appeared in the Abyss! "
-    ]
-  },
-  "maidBunnyBoss": {
-    "0": [
-      "There’s really nothing special up ahead!",
-      "So there’s no need to go check it usa!"
-    ],
-    "1": [
-      "Th-there’s nothing here, really! D-don’t come any closer!",
-      "I-I swear there’s absolutely nothing hidden here usa!"
-    ],
-    "2": [
-      "...Usa?",
-      "What’s that strange noise?"
-    ],
-    "3": [
-      "...Usa!?",
-      "How did you find this place—!"
-    ],
-    "4": [
-      "...Usa!?",
-      "A human...!!"
-    ],
-    "5": [
-      "Usaaaa, you bastard—                        \\w[45]",
-      "\\{Are you here to steal my carrots!!       \\w[60]\\^"
-    ],
-    "6": [
-      "Usa!? My carrots!!         \\w[45]",
-      "\\{A carrot thief!!         \\w[60]\\^"
-    ]
-  },
-  "noBombFishing": {
-    "0": [
-      "Fishing with bombs is strictly forbidden!",
-      "Do it at your own risk!"
-    ]
-  },
-  "nekoTruck": {
-    "0": [
-      "Want to buy \\v[84]?",
-      "It costs \\c[6]\\v[85]\\c[0]yen!"
-    ],
-    "1": [
-      "buy it!",
-      "Never mind…",
-      "Sneakily take it…"
-    ],
-    "10": "There isn’t a wide enough lane!",
-    "11": "There are obstacles on the lane!",
-    "12": "The Chariot has been successfully summoned!",
-    "13": "The Chariot cannot be summoned in this area!"
-  },
-  "sela": {
-    "1": [
-      "(Looks like she won’t be waking up anytime soon…",
-      "Guess I’ll come back later…)"
-    ],
-    "2": [
-      "…Hmm?",
-      "Are we… at the station already?"
-    ],
-    "3": [
-      "Huh? Wait—this isn’t the train car?",
-      "It was so warm just a moment ago…"
-    ],
-    "4": [
-      "A campfire… ah…",
-      "So that’s why it’s so warm."
-    ],
-    "5": [
-      "But… that’s strange… Just a moment ago, ",
-      "I was still watching the river of stars outside the window…"
-    ],
-    "6": [
-      "I must’ve been too mesmerized…",
-      "And ended up missing my stop."
-    ],
-    "7": [
-      "You’re asking what a “train” is…?",
-      "Hehe… a “train,” huh—"
-    ],
-    "8": [
-      "It’s that clattering, clattering thing that carries everyone,",
-      "shining as it glides through the stars like scattered diamonds~"
-    ],
-    "9": [
-      "Its whistle—",
-      "sounds just like a singing whale, you know?"
-    ],
-    "10": [
-      "Hehe, still don’t get it?",
-      "Then let me show you a ticket, maybe that’ll help~"
-    ],
-    "11": [
-      "The ticket for the Galactic Train,",
-      "is also very—"
-    ],
-    "12": [
-      "Huh? Huh??",
-      "The ticket… it’s gone…"
-    ],
-    "13": [
-      "That ticket with the black vine patterns and",
-      "the strange cross in the middle… it’s gone…"
-    ],
-    "14": [
-      "I’m sorry… I can’t show you the galaxy after all…",
-      "Looks like I lost my ticket…"
-    ],
-    "15": [
-      "Without it, I can never get back on the train…",
-      "Uuu… Uuu…"
-    ],
-    "16": [
-      "What will I do now…?  I guess I’ll just wait here…",
-      "maybe the next train will find me."
-    ],
-    "17": [
-      "And also… I’m sorry…",
-      "the fire here is just too warm…"
-    ],
-    "18": [
-      "Once I sit down, the drowsiness washes over me…",
-      "like the tide… sweeping me away…"
-    ],
-    "19": [
-      "(this person…",
-      "actually fell asleep!)"
-    ],
-    "20": [
-      "It really is warm here.",
-      "But… it’s different from sunlight."
-    ],
-    "21": [
-      "Sunlight is the warmth of the “outside.”",
-      "A campfire… is the warmth of the “journey.”"
-    ],
-    "22": [
-      "…Hmm?",
-      "Is the train coming to pick me up?"
-    ],
-    "23": [
-      "Huh? Oh,",
-      "it’s you again, adventurer!"
-    ],
-    "24": [
-      "I was just talking to you earlier…",
-      "but it feels like such a long time has passed since then…"
-    ],
-    "25": [
-      "“Do I remember where I lost the ticket”…?",
-      "Hmm… not really… it’s all a blur now…"
-    ],
-    "26": [
-      "It’s not heavy like the coins in this world…",
-      "It’s light—lighter than a swan’s feather~"
-    ],
-    "27": [
-      "Its color looks like a ‘sleeping lake’ frozen inside it,",
-      "and if you hold it to the light, you can see stardust flowing within~"
-    ],
-    "28": [
-      "It might have…",
-      "fallen anywhere…"
-    ],
-    "29": [
-      "Maybe in a field full of blue sage,",
-      "or taken by a fearless fox back to its den,"
-    ],
-    "30": [
-      "or perhaps… it turned into the first drop of morning dew,",
-      "hanging from someone’s window ledge."
-    ],
-    "31": [
-      "(Is this… a riddle?",
-      "I have no idea what she’s talking about…)"
-    ],
-    "32": [
-      "I’m sorry… the only thing I can recall,",
-      "are these… faint, hazy images…"
-    ],
-    "33": [
-      "Here... this is for you...",
-      "I used to love reading this back on the train too..."
-    ],
-    "34": [
-      "It’s filled with lots of... interesting notes...",
-      "I think it might be useful for you as well, adventurer..."
-    ],
-    "35": [
-      "(She’s focused on her drawing...",
-      "Better not disturb her…)"
-    ],
-    "36": [
-      "(I’m a bit curious...",
-      "What is she drawing…?)"
-    ],
-    "37": [
-      "(Wait... ",
-      "what’s that!?)"
-    ],
-    "38": [
-      "(I think I just saw...",
-      "something I definitely shouldn’t have seen…)"
-    ]
-  },
-  "PhilosophersFragment": {
-    "title": [
-      "Philosopher's Fragment"
-    ],
-    "description50": [
-      "A special shard obtained from the Red Beast",
-      "If various shards can be collected",
-      "it might help improve ${}'s condition"
-    ],
-    "description56": [
-      "A special shard obtained from the Maid Bunny",
-      "If various shards can be collected",
-      "it might help improve ${}'s condition"
-    ]
-  },
-  "imoutoAhoge": {
-    "0": [
-      "Accidentally pulled out \\str[120]’s ahoge."
-    ],
-    "1": [
-      "She didn’t seem to notice anything unusual, ",
-      "and it grew back quickly.",
-      "...Could this be some kind of renewable resource?"
-    ],
-    "2": [
-      "\\nl< >\"...What’s wrong, \\str[121]?",
-      "You look really serious.\""
-    ],
-    "3": [
-      "Since it seems complicated, ",
-      "I’d better not think too deeply about it."
-    ],
-    "4": [
-      "Better not touch it again..."
-    ],
-    "5": [
-      "\\nl< >\"...My head feels a bit itchy.   \\w[30]",
-      "Did you do something, \\str[121]?\""
-    ],
-    "6": [
-      "\"I-I didn’t do anything… I mean it!\""
-    ]
-  },
-  "cookingSystem": {
-    "0": [
-      "\\ii[\\v[85]] is ready. What should I do?"
-    ],
-    "1": [
-      "Swap it",
-      "Remove it"
-    ],
-    "2": [
-      "Still picking ingredients!!"
-    ]
-  },
-  "inventoryExpansion": {
-    "0": [
-      "It seems like using \\ii[312]",
-      "can expand the backpack capacity..."
-    ],
-    "1": [
-      "Expand weapon slots",
-      "Expand gear slots",
-      "Never mind"
-    ],
-    "2": [
-      "The quantity of \\ii[312]",
-      "seems insufficient..."
-    ]
-  },
-  "loadingEasterEgg": {
-    "0": [
-      "\\nl< >\"Hamburg steak is the most delicious food.\"  \\w[180] \\^"
-    ],
-    "1": [
-      "\\nl< >\"\\str[121] will surely bring back ",
-      "a mountain of meat for his \\str[120]...\"   \\w[360] \\^"
-    ],
-    "2": [
-      "My sister seems to be saying something..."
-    ],
-    "3": [
-      "\\nl< >\"But green peppers are the enemy.   \\w[120]",
-      "\\str[121], you have to eat them all…       \\w[120]",
-      "Go defeat the green enemy~!\"               \\w[120]\\^"
-    ],
-    "4": [
-      "\\nl< >\"Ah, you’re awake…     \\w[60]",
-      "\\str[121], did you sleep well?\""
-    ],
-    "5": [
-      "\"Not really… By the way, ",
-      "I’ve been hearing some strange sounds ",
-      "for a while now…\""
-    ],
-    "6": [
-      "\\nl< >\"Eh hehe, that was my    \\w[60]",
-      "special bedtime help for you, \\str[121]!\""
-    ],
-    "7": [
-      "\\nl< >\"My sister is so cute...               \\w[120]",
-      "She's my favorite girl in the whole world...  \\w[210]",
-      "My sister is————                              \\w[150]\\^"
-    ],
-    "8": [
-      "My sister seems to be saying something..."
-    ],
-    "9": [
-      "\\nl< >\"Ah, \\str[121]! Good evening—!\""
-    ],
-    "10": [
-      "\\nl< >\"Um... Did you hear everything I just said?\""
-    ],
-    "11": [
-      "\\nl< >\"\\str[121], your sleeping face ",
-      "was so funny just now~\""
-    ],
-    "12": [
-      "\\nl< >\"It's rare to see you dozing off~\""
-    ]
-  },
-  "rubberDuck": {
-    "0": [
-      "A lonely rubber duck ",
-      "floats on the water..."
-    ],
-    "1": [
-      "Pick it up",
-      "Leave it be"
-    ],
-    "2": [
-      "Did someone throw this away?",
-      "Looks a bit sad, huh…"
-    ],
-    "3": [
-      "Come to think of it…",
-      "I got washed down from upstream too..."
-    ],
-    "4": [
-      "If I take this home...",
-      "Would my sister be happy?"
-    ],
-    "5": [
-      "But it seems a bit dirty,",
-      "so maybe I should just leave it..."
-    ]
-  },
-  "drowning": {
-    "0": [
-      "Ahhh... that was close... ",
-      "I slipped from the riverbank and almost drowned!"
-    ]
-  },
-  "mecha": {
-    "0": [
-      "A strange mech, long covered in dust, stands here...",
-      "It doesn’t respond even when touched."
-    ],
-    "1": [
-      "Huh...?",
-      "Something’s here?"
-    ],
-    "2": [
-      "A fallen part?",
-      "Looks like it could still be activated..."
-    ]
-  },
-  "erohon": {
-    "0": [
-      "(There are still people or monsters nearby...",
-      "better not take out this book.)"
-    ]
-  },
-  "ninja": {
-    "0": [
-      "I can’t believe there’s a man-made secret room in a place like this.",
-      "Who could’ve built it…?"
-    ],
-    "1": [
-      "Whoa…!?",
-      "There’s even a girl passed out here…"
-    ],
-    "2": [
-      "Now that I think about it, I’ve been hearing weird rumbling noises…",
-      "Was it her stomach making those sounds…?"
-    ],
-    "3": [
-      "Ugh…",
-      "So hungry…"
-    ],
-    "4": [
-      "…………",
-      "Is she so hungry she’s barely conscious…?"
-    ],
-    "5": [
-      "There’s a campfire here, perfect.",
-      "I’ll cook her something to eat!"
-    ],
-    "6": [
-      "Should I just use \\ii[\\v[90]]     ",
-      "and whip up something simple?"
-    ],
-    "7": [
-      "Let’s do it!",
-      "…Never mind."
-    ],
-    "8": [
-      "Hmm… Maybe I should swap in",
-      "better ingredients…"
-    ],
-    "9": [
-      "Hey~ I made some hot food for you!",
-      "Do you think you can eat?"
-    ],
-    "10": [
-      "Sniff sniff… sniff sniff…",
-      "That smell… is it food?"
-    ],
-    "11": [
-      "The smell of food!!"
-    ],
-    "12": [
-      "\\{Alright, I’m digging in!!"
-    ],
-    "13": [
-      "You… you little…",
-      "I made that, you know…"
-    ],
-    "14": [
-      "(She finished it in just a few bites…",
-      "She really must’ve been starving…)"
-    ],
-    "15": [
-      "Munch munch… You totally saved me!",
-      "I haven’t eaten in days… munch munch…"
-    ],
-    "16": [
-      "I thought I was gonna turn into some hungry ghost",
-      "haunting this dungeon… Grrrr…"
-    ],
-    "17": [
-      "Hey… just eat a bit slower… By the way,",
-      "why are you here alone in a place like this?"
-    ],
-    "18": [
-      "Ah! So—!",
-      "I was seriously working on my mission, okay!"
-    ],
-    "19": [
-      "I wanted to search for the hidden treasure in this area,",
-      "so I dug out a secret room in a secluded spot!"
-    ],
-    "20": [
-      "But then… munch munch.",
-      "After I got in, the entrance got blocked by a tombstone!"
-    ],
-    "21": [
-      "Ugh, I totally didn’t expect that,",
-      "so my rations ran out super fast… and then…"
-    ],
-    "22": [
-      "A ninja running into a mess like this…",
-      "I can’t face the organization now…"
-    ],
-    "23": [
-      "Huh… huh? But why’d you even",
-      "dig a secret room in the first place…"
-    ],
-    "24": [
-      "Because that treasure doesn’t always show up,",
-      "so I had to be ready for a long stay… munch munch."
-    ],
-    "25": [
-      "Plus, I can’t let anyone else know about this,",
-      "this is a super secret mission directly from the boss!"
-    ],
-    "26": [
-      "If anyone else finds out…",
-      "what do you think’ll happen…"
-    ],
-    "27": [
-      "Of course, I’d have to quietly take care of them…",
-      "otherwise, I’d be a failed ninja… munch munch."
-    ],
-    "28": [
-      "…Wait, what?!",
-      "I totally just leaked intel!"
-    ],
-    "29": [
-      "Um… I promise I won’t say anything…",
-      "so, uh…"
-    ],
-    "30": [
-      "…Huh!?"
-    ],
-    "31": [
-      "I can’t believe I messed up this badly again…",
-      "Ugh… even if you did save me…"
-    ],
-    "32": [
-      "W-wait a sec!",
-      "You’re gonna kill me just for that!?"
-    ],
-    "33": [
-      "That’s what being a ninja is all about…",
-      "You gotta fight to survive…"
-    ],
-    "34": [
-      "I mean, I don’t really wanna hurt you, either,",
-      "but I still owe you a meal…"
-    ],
-    "35": [
-      "I-if that’s how it is—",
-      "\\^"
-    ],
-    "36": [
-      "Then there’s only one answer—",
-      "You have to become a ninja, too!"
-    ],
-    "37": [
-      "If you join our group,",
-      "there’s no reason for us to fight each other!"
-    ],
-    "38": [
-      "W-wait a second!",
-      "I don’t really have a choice here, do I!?"
-    ],
-    "39": [
-      "It’s fine,",
-      "I’ll be gentle…"
-    ],
-    "40": [
-      "…Wah!?",
-      "Stay away from me!!"
-    ],
-    "41": [
-      "You really do have a knack for this ninja stuff…!",
-      "You learned it all with just a bit of practice!"
-    ],
-    "42": [
-      "Now,",
-      "you’re one of us, too!"
-    ],
-    "43": [
-      "But I’ll have to wait until my mission’s done",
-      "before I can introduce you to the boss!"
-    ],
-    "44": [
-      "At this point,",
-      "nothing really matters anymore…"
-    ]
-  }
+    "autoUpdateReminder": {
+        "0": [
+            "ระบบจะอัปเดตอัตโนมัติเมื่อตื่นนอนในวันถัดไป",
+            "โปรดต่อเน็ตให้เสถียรตลอดการอัปเดต!",
+            "\\w[120]"
+        ],
+        "1": [
+            "ไม่สามารถดูประวัติการอัปเดตได้!",
+            "การเชื่อมต่ออินเทอร์เน็ตอาจล้มเหลว!",
+            "\\w[120]"
+        ]
+    },
+    "cheatCodeTutorial": {
+        "0": [
+            "⬆กดค้างที่รูปโปรไฟล์เพื่อเปิดหน้าต่างใส่สูตรโกง",
+            "ใส่สูตรโกงถูกต้องเพื่อปลดล็อกฟังก์ชัน!"
+        ]
+    },
+    "bulkSelectButton": "คลิกปุ่มนี้เพื่อเปลี่ยนเป็นเลือกไอเทมจำนวนมาก",
+    "usingItem": {
+        "0": [
+            "หยิบ \\ii[\\v[90]] ออกมา",
+            "จะทำอะไรต่อดี……？"
+        ],
+        "1": [
+            "ใช้งาน",
+            "ช่างเถอะ",
+            "ทิ้ง"
+        ]
+    },
+    "gameAnnouncement": {
+        "0": [
+            "ไปดูหน่อย",
+            "ไม่ดีกว่า"
+        ]
+    },
+    "takePhotoOfImouto": {
+        "0": [
+            "\\nl< >「——อ๊า! \\str[121]！    \\w[60] ",
+            "แอบถ่ายรูปฉันแล้วนะ！」"
+        ]
+    },
+    "sealingScroll": [
+        "ไอเทมที่ยังไม่ถูกผนึก",
+        "ถูกผนึกอยู่:"
+    ],
+    "skillOnCooldown": {
+        "0": [
+            "สกิลกำลังคูลดาวน์!!"
+        ]
+    },
+    "inventoryOverweight": {
+        "weapon": [
+            "แบกอาวุธเพิ่มไม่ไหวแล้ว!!"
+        ],
+        "gear": [
+            "แบกอุปกรณ์เพิ่มไม่ไหวแล้ว!!"
+        ]
+    },
+    "Abyss": {
+        "0": [
+            "หอคอยสุดขอบโลกที่ยังคงขับเคลื่อนหลังเทพจากไป"
+        ]
+    },
+    "ElixirCraft": {
+        "0": [
+            "หลอมยาเร้นลับ"
+        ],
+        "1": [
+            "หลอม \"ของเหลวสีชาด\" สำเร็จ!"
+        ]
+    },
+    "gainRedHeart": {
+        "0": [
+            "เงี่ยนจนใจสั่นรัญจวน"
+        ],
+        "1": [
+            "\\str[120] รู้สึกเสียวจนใจเต้นรัว!"
+        ]
+    },
+    "gainWhiteHeart": {
+        "0": [
+            "รักที่เอ่อล้นทะลัก"
+        ],
+        "1": [
+            "\\str[120] โดนฉีดน้ำเชื้อจนเต็มล้น!"
+        ]
+    },
+    "gainGoldenHeart": {
+        "0": [
+            "สิ่งเย้ายวนสีทอง"
+        ],
+        "1": [
+            "หลงใหลท่ามกลางแสงสีทอง....."
+        ]
+    },
+    "NinjasFate": {
+        "0": [
+            "ชะตากรรมของนินจา"
+        ],
+        "1": [
+            "ลบตัวตนให้หายไป ตวัดคมดาบเพื่อพวกพ้องเท่านั้น....."
+        ]
+    },
+    "AbyssPillars": {
+        "0": [
+            "▓▓▓▓ กำลังจ้องมองคุณอยู่"
+        ]
+    },
+    "unlockJackalope": {
+        "0": [
+            "กระต่ายเขากวาง"
+        ],
+        "1": [
+            "ปรากฏตัวในก้นบึ้งอเวจี!"
+        ]
+    },
+    "vendingMachine": {
+        "1": [
+            "ตู้ขายของอัตโนมัติแปลกๆ.....",
+            "เครื่องดื่มขวดละ \\c[6]\\v[86]\\c[0] เหรียญ"
+        ],
+        "2": [
+            "ซื้อ 1 ขวด",
+            "ไม่ดีกว่า"
+        ],
+        "3": [
+            "ปฏิเสธ.....",
+            "เงินมีไม่พอ....."
+        ],
+        "4": [
+            "เนื่องจากเครื่องเสียหายโดยไม่ทราบสาเหตุ จึงมีค่าปรับการซ่อมแซมเพิ่มเติม.....",
+            "ก่อนจ่ายค่าปรับครบ..... เครื่องดื่มขวดละ..... \\c[6]\\v[86]\\c[0] G!?"
+        ]
+    },
+    "maidBunnyBoss": {
+        "0": [
+            "ข้างหน้าไม่มีอะไรพิเศษเลยนะอุสะ!",
+            "เพราะงั้นไม่ต้องไปตรวจหรอก!"
+        ],
+        "1": [
+            "ที่นี่ไม่มีอะไรเลย อย่าเข้ามาใกล้นะ!",
+            "ยังไงก็ไม่ได้ซ่อนอะไรไว้แน่นอนอุสะ!"
+        ],
+        "2": [
+            ".....อุสะ?",
+            "มีเสียงอะไรแปลกๆ?"
+        ],
+        "3": [
+            ".....อุสะ!?",
+            "หาที่นี่เจอได้ยังไงกัน——!"
+        ],
+        "4": [
+            ".....อุสะ!?",
+            "มนุษย์นี่นา……!!"
+        ],
+        "5": [
+            "อุสะ แกนะแก——               \\w[45]",
+            "\\{จะมาแย่งแครอทไปเรอะ!!       \\w[60]^"
+        ],
+        "6": [
+            "อุสะ!? แครอทที่ฉันปลูกไว้!!     \\w[45]",
+            "\\{หัวขโมยแครอทนี่นา!!          \\w[60]^"
+        ]
+    },
+    "noBombFishing": {
+        "0": [
+            "ห้ามใช้ระเบิดจับปลาเด็ดขาด!",
+            "หากฝ่าฝืนต้องรับผิดชอบเอง!"
+        ]
+    },
+    "sela": {
+        "1": [
+            "(ดูเหมือนจะยังไม่ตื่นซักพัก.....",
+            "ไว้ค่อยมาใหม่ทีหลังแล้วกัน.....)"
+        ],
+        "2": [
+            ".....อื้อ?",
+            "ถึงสถานีแล้วเหรอ.....?"
+        ],
+        "3": [
+            "เอ๊ะ? ไม่ได้อยู่บนโบกี้รถไฟเหรอ?",
+            "ทั้งที่อุ่นขนาดนี้แท้ แท้....."
+        ],
+        "4": [
+            "กองไฟ..... อ๋อ.....",
+            "มิน่าล่ะ ถึงได้อุ่นแบบนี้"
+        ],
+        "5": [
+            "แต่ว่า..... แปลกจังเลยนะ.....",
+            "ทั้งที่เมื่อกี้ยังนั่งมองทางช้างเผือกนอกหน้าต่างอยู่เลย....."
+        ],
+        "6": [
+            "คงมองเพลินจนเคลิ้มไปแน่ๆ.....",
+            "ก็เลยนั่งเลยสถานีใช่ไหมล่ะ?"
+        ],
+        "7": [
+            "\"รถไฟ\" คืออะไรเหรอ.....?",
+            "ฮิ ฮิ ฮิ..... \"รถไฟ\" น่ะเหรอ—"
+        ],
+        "8": [
+            "ก็แบบว่า..... ฉึกฉักๆ..... บรรทุกคนเต็มรถ.....",
+            "วิ่งผ่านดงดาวระยิบระยับเหมือนเศษเพชร..... เป็นรถไฟที่ส่องประกายวิบวับยังไงล่ะ~"
+        ],
+        "9": [
+            "เสียงหวูดของมัน",
+            "เหมือนวาฬกำลังร้องเพลงเลยนะ....."
+        ],
+        "10": [
+            "ฮิ ฮิ ฮิ ยังไม่เข้าใจอีกเหรอคะ?",
+            "งั้นเอาตั๋วให้ดูเลยดีกว่า จะได้อ๋อ~"
+        ],
+        "11": [
+            "ตั๋วรถไฟกาแล็กซีน่ะ",
+            "มันสุดยอดมากๆ—"
+        ],
+        "12": [
+            "เอ๊ะ..... เอ๋?",
+            "ตั๋ว..... หาไม่เจอแล้วอ่ะ....."
+        ],
+        "13": [
+            "ตั๋วที่มีลายเครือเถาพันกันสีดำ",
+            "แล้วก็มีรูปกากบาทแปลกๆ อยู่ตรงกลาง....."
+        ],
+        "14": [
+            "ขอโทษนะ..... อดอวดทางช้างเผือกให้ดูเลย.....",
+            "ฉันทำตั๋วหายไปซะแล้วล่ะมั้ง....."
+        ],
+        "15": [
+            "ถ้าไม่มีมัน ฉันคงขึ้นรถไฟไม่ได้อีกแล้ว.....",
+            "ฮือออ....."
+        ],
+        "16": [
+            ".....หลังจากนี้ จะทำยังไงดีล่ะ?",
+            "ถ้านั่งรออยู่ตรงนี้ รถไฟขบวนถัดไปอาจจะเห็นฉันก็ได้"
+        ],
+        "17": [
+            "แถมยัง..... ขอโทษด้วยนะ.....",
+            "เปลวไฟตรงนี้..... มันอุ่นเหลือเกิน....."
+        ],
+        "18": [
+            "พอได้นั่งลง ความง่วงก็ถาโถมเข้ามาเหมือนกระแสน้ำ.....",
+            "ไหลบ่าเข้ามา..... ไม่หยุดเลย....."
+        ],
+        "19": [
+            "(คน..... คนนี้..... หลับไปจริงๆ ด้วย!)",
+            "居然真睡着了！）"
+        ],
+        "20": [
+            "ตรงนี้..... อบอุ่นจริงๆ นะ",
+            "แต่ว่า มันไม่เหมือนกับแสงแดดหรอกนะ"
+        ],
+        "21": [
+            "แสงแดดคืออุณหภูมิจาก 'ภายนอก'",
+            "แต่กองไฟ..... คืออุณหภูมิ 'ระหว่างการเดินทาง'"
+        ],
+        "22": [
+            ".....หืม?",
+            "รถไฟ..... มารับฉันแล้วเหรอ.....?"
+        ],
+        "23": [
+            ".....เอ๊ะ?",
+            "คุณนักผจญภัยเมื่อกี้เองเหรอคะ?"
+        ],
+        "24": [
+            "ทั้งที่เมื่อกี้ยังคุยกันอยู่เลย.....",
+            "แต่รู้สึกเหมือนผ่านไปนานมากเลยนะ....."
+        ],
+        "25": [
+            "\"ยังจำได้ไหมว่าทำตั๋วตกไว้ที่ไหน\".....งั้นเหรอ?",
+            "อืม..... แทบจำไม่ได้เลยล่ะค่ะ....."
+        ],
+        "26": [
+            "มันไม่เหมือนเหรียญบนโลกนี้ ที่จะหนักอึ้งขนาดนั้น.....",
+            "มันเบามาก เบากว่าขนหงส์เสียอีกนะ~"
+        ],
+        "27": [
+            "สีของมัน..... เหมือนมี 'ทะเลสาบที่หลับใหล' แช่แข็งอยู่ข้างใน",
+            "พอส่องกับแสง ก็จะเห็นละอองดาวระยิบระยับไหลเวียนอยู่ข้างในเลย~"
+        ],
+        "28": [
+            "มันอาจจะ..... ",
+            "ตกอยู่ที่ไหนสักแห่งก็ได้....."
+        ],
+        "29": [
+            "อาจจะเป็นในทุ่งดอกบลูเซจที่บานสะพรั่ง",
+            "อาจจะโดนจิ้งจอกที่ไม่กลัวคน คาบไปไว้ในรังของมัน"
+        ],
+        "30": [
+            "หรือไม่ก็..... กลายเป็นหยาดน้ำค้างแรกของเช้าตรู่",
+            "เกาะอยู่บนขอบหน้าต่างของใครบางคน"
+        ],
+        "31": [
+            "(นี่มัน..... ปริศนาคำทายงั้นเหรอ?",
+            "ฟังไม่รู้เรื่องเลยสักนิด...)"
+        ],
+        "32": [
+            "ขอโทษด้วยนะ... เท่าที่ฉันพอจะนึกออก",
+            "ก็มีแค่... ทิวทัศน์อันเลือนลางพวกนี้เท่านั้น..."
+        ],
+        "33": [
+            "อันนี้... ฉันให้คุณนะ...",
+            "ตอนอยู่บนรถไฟ ฉันก็ชอบอ่านเจ้านี่เหมือนกัน..."
+        ],
+        "34": [
+            "ในนี้มีบันทึก... ที่น่าสนใจอยู่เยอะเลย...",
+            "ฉันคิดว่า มันน่าจะเป็นประโยชน์กับคุณนักผจญภัยนะคะ..."
+        ],
+        "35": [
+            "(กำลังตั้งใจวาดรูปอยู่เลย...",
+            "อย่าไปกวนเธอจะดีกว่า...)"
+        ],
+        "36": [
+            "(แอบสงสัยจัง...",
+            "ว่าเธอกำลังวาดอะไรอยู่กันแน่นะ...)"
+        ],
+        "37": [
+            "(นี่มัน...",
+            "นี่มันอะไรกันเนี่ย!?)"
+        ],
+        "38": [
+            "(รู้สึกเหมือนได้เห็น...",
+            "สิ่งที่ไม่ควรเห็นเข้าซะแล้ว...)"
+        ]
+    },
+    "PhilosophersFragment": {
+        "title": [
+            "เศษเสี้ยวอัญมณีสวรรค์"
+        ],
+        "description50": [
+            "เศษเสี้ยวพิเศษที่ได้จากอสูรชาด",
+            "ถ้าหากรวบรวมเศษเสี้ยวต่างๆ ได้ครบ",
+            "อาจจะช่วยบรรเทาอาการป่วยของ ${} ได้นะ"
+        ],
+        "description56": [
+            "เศษเสี้ยวพิเศษที่ได้จากกระต่ายเมด",
+            "ถ้าหากรวบรวมเศษเสี้ยวต่างๆ ได้ครบ",
+            "อาจจะช่วยบรรเทาอาการป่วยของ ${} ได้นะ"
+        ]
+    },
+    "imoutoAhoge": {
+        "0": [
+            "เผลอไปดึงผมชี้ของ \\str[120] ออกซะแล้ว"
+        ],
+        "1": [
+            "ดูเหมือน \\str[120] จะไม่รู้ตัว แถมผมชี้นั่นยังงอกกลับมาไวมาก",
+            "...หรือว่านี่จะเป็นทรัพยากรที่งอกใหม่ได้เรื่อยๆ กันนะ?"
+        ],
+        "2": [
+            "\\nl< >「...เป็นอะไรไปเหรอ \\str[121]?",
+            "จู่ๆ ทำไมทำหน้าเคร่งเครียดขนาดนั้นล่ะ」"
+        ],
+        "3": [
+            "ดูท่าจะซับซ้อน แนะนำว่าอย่าคิดลึกไปกว่านี้เลยดีกว่า"
+        ],
+        "4": [
+            "อย่าไปจับมันอีกเลยจะดีกว่า..."
+        ],
+        "5": [
+            "\\nl< >「...รู้สึกคันๆ ที่หัวจัง   \\w[30]",
+            "\\str[121] นายแอบทำอะไรหรือเปล่าเนี่ย?」"
+        ],
+        "6": [
+            "「ปะ...เปล่าทำอะไรซักหน่อยนะ?」"
+        ]
+    },
+    "cookingSystem": {
+        "0": [
+            "\\ii[\\v[\\v[85]]] เตรียมพร้อมแล้ว จะให้ทำอะไรต่อดีล่ะ?"
+        ],
+        "1": [
+            "เปลี่ยนวัตถุดิบอื่น",
+            "ไม่เอาดีกว่า"
+        ],
+        "2": [
+            "ยังเลือกวัตถุดิบอยู่เลย!!"
+        ]
+    },
+    "inventoryExpansion": {
+        "0": [
+            "ดูเหมือนจะใช้ \\ii[312] ได้นะ",
+            "เพื่อขยายความจุกระเป๋า... ต้องทำยังไงล่ะ?"
+        ],
+        "1": [
+            "ขยายช่องอาวุธ",
+            "ขยายช่องอุปกรณ์",
+            "ช่างมันเถอะ"
+        ],
+        "2": [
+            "จำนวนของ \\ii[312]",
+            "ดูเหมือนจะไม่พอ..."
+        ]
+    },
+    "loadingEasterEgg": {
+        "0": [
+            "\\nl< >「เบอร์เกอร์เนื้อเนี่ยอร่อยที่สุดแล้ว」  \\w[180] ^"
+        ],
+        "1": [
+            "\\nl< >「\\str[121] ต้องเอาเนื้อกองโตกลับมาให้ \\str[120] แน่ๆ……」   \\w[360] ^"
+        ],
+        "2": [
+            "หืม... เหมือน \\str[120] กำลังกระซิบอะไรข้างหูเลย……"
+        ],
+        "3": [
+            "\\nl< >「แต่ว่าพริกหยวกคือศัตรูนะ   \\w[120]",
+            "ให้ \\str[121] กินให้หมดเลย…        \\w[120]",
+            "ไปจัดการเจ้าศัตรูสีเขียวกันเถอะ〜!」    \\w[120]^"
+        ],
+        "4": [
+            "\\nl< >「อ๊ะ ตื่นแล้วเหรอ…    \\w[60]",
+            "\\str[121] หลับสบายไหมคะ?」"
+        ],
+        "5": [
+            "「รู้สึกไม่ดีเลย... ว่าแต่เมื่อกี้เหมือนได้ยิน",
+            "เสียงแปลกๆ ตลอดเลยนะ……」"
+        ],
+        "6": [
+            "\\nl< >「เอเฮะเฮะ    \\w[60]",
+            "เมื่อกี้เป็นรางวัลตอนหลับของ \\str[121] ไงล่ะคะ!」"
+        ],
+        "7": [
+            "\\nl< >「\\str[120] น่ารักจังเลยนะ……          \\w[120]",
+            "\\str[120] เป็นผู้หญิงที่ชอบที่สุดในโลกเลยนะ……  \\w[210]",
+            "\\str[120] เป็นของฉัน――                    \\w[150]^"
+        ],
+        "8": [
+            "ดูเหมือน \\str[120] กำลังพูดอะไรบางอย่าง……"
+        ],
+        "9": [
+            "\\nl< >「อ๊ะ \\str[121]! สวัสดีตอนเย็นค่า———!」"
+        ],
+        "10": [
+            "\\nl< >「คือแบบว่า…… เมื่อกี้ได้ยินหมดเลยเหรอคะ?」"
+        ],
+        "11": [
+            "\\nl< >「\\str[121] นอนหลับตลกจังเลยนะ〜」"
+        ],
+        "12": [
+            "\\nl< >「นานๆ ทีจะเห็นแอบสัปหงกนะเนี่ย~」"
+        ]
+    },
+    "rubberDuck": {
+        "0": [
+            "มีเป็ดเหลืองยางโดดเดี่ยวอยู่ตัวหนึ่ง",
+            "ลอยอยู่บนผิวน้ำ……"
+        ],
+        "1": [
+            "เก็บขึ้นมา",
+            "ปล่อยทิ้งไว้แบบนั้น"
+        ],
+        "2": [
+            "มีใครโยนมันทิ้งไว้หรือเปล่านะ?",
+            "ดูน่าสงสารจังเลยแฮะ…"
+        ],
+        "3": [
+            "จะว่าไปแล้ว…",
+            "ฉันเองก็โดนพัดซัดมาจากข้างบนเหมือนกัน…"
+        ],
+        "4": [
+            "ถ้าพาสิ่งนี้กลับบ้านไปด้วย",
+            "\\str[120] จะดีใจไหมนะ?"
+        ],
+        "5": [
+            "ดูสกปรกนิดหน่อยแฮะ",
+            "ช่างมันเถอะ อย่าไปยุ่งเลย"
+        ]
+    },
+    "nekoTruck": {
+        "0": [
+            "ต้องการซื้อ \\v[84] ไหม?",
+            "ต้องจ่าย \\c[6]\\v[85]\\c[0] นะ!"
+        ],
+        "1": [
+            "ซื้อเลย!",
+            "ช่างมันเถอะ…",
+            "แอบหยิบไปเงียบงัน…"
+        ],
+        "10": "ทางวิ่งไม่กว้างพอ!",
+        "11": "มีสิ่งกีดขวางอยู่บนทางวิ่ง!",
+        "12": "อัญเชิญรถศึกสำเร็จแล้ว!",
+        "13": "ไม่สามารถอัญเชิญรถศึกในพื้นที่นี้ได้!"
+    },
+    "drowning": {
+        "0": [
+            "หวายยย... อันตรายสุดๆ...",
+            "เผลอตกจากริมตลิ่ง เกือบจมน้ำตายแน่ะ—"
+        ]
+    },
+    "mecha": {
+        "0": [
+            "หุ่นรบประหลาดที่เต็มไปด้วยฝุ่นจอดนิ่งอยู่ตรงนี้……",
+            "ลองจับดูแล้วก็ไม่มีปฏิกิริยาอะไรเลย"
+        ],
+        "1": [
+            "เอ๊ะ……?",
+            "มีอะไรอยู่ตรงนี้งั้นเหรอ?"
+        ],
+        "2": [
+            "ชิ้นส่วนที่ร่วงลงมาเหรอ?",
+            "ดูเหมือนยังเปิดใช้งานได้อยู่นะ……"
+        ]
+    },
+    "erohon": {
+        "0": [
+            "（รอบๆ นี้ยังมีคนหรือมอนสเตอร์อยู่……",
+            "(อย่าเอาของแบบนี้ออกมาจะดีกว่า...)"
+        ]
+    },
+    "ninja": {
+        "0": [
+            "ไม่คิดเลยว่าจะมีห้องลับที่คนสร้างขึ้นในที่แบบนี้",
+            "ใครเป็นคนสร้างมันขึ้นมากันนะ..."
+        ],
+        "1": [
+            "นี่มัน...!?",
+            "มีเด็กผู้หญิงนอนสลบอยู่ตรงนี้ด้วย..."
+        ],
+        "2": [
+            "ว่าแต่... เมื่อกี้ได้ยินเสียงโครกครากแปลกประหลาด มาตลอดเลย",
+            "ที่แท้ก็เสียงท้องร้องของเธอนี่เอง..."
+        ],
+        "3": [
+            "อือออ...",
+            "หิวจังเลย..."
+        ],
+        "4": [
+            "…………",
+            "หิวจนแทบจะหมดสติไปแล้วเหรอเนี่ย..."
+        ],
+        "5": [
+            "พอดีตรงนี้มีกองไฟอยู่ด้วย",
+            "ทำอาหารให้เธอกินหน่อยดีกว่า!"
+        ],
+        "6": [
+            "จะใช้ \\ii[\\v[90]]",
+            "ทำอาหารง่ายๆ ดีไหม?"
+        ],
+        "7": [
+            "ลงมือเลย!",
+            "ช่างมันเถอะ..."
+        ],
+        "8": [
+            "อืม... หรือบางทีควรเปลี่ยน",
+            "ไปใช้วัตถุดิบอื่นที่ดีกว่านี้..."
+        ],
+        "9": [
+            "นี่เธอ~ มีของกินร้อนๆ มาให้แล้วนะ?",
+            "พอกินไหวไหม?"
+        ],
+        "10": [
+            "ฟุดฟิด…… ฟุดฟิด……",
+            "กลิ่นหอมของอาหาร……"
+        ],
+        "11": [
+            "กลิ่นหอมของของกินล่ะ！！"
+        ],
+        "12": [
+            "{จะทานละนะค้า！！"
+        ],
+        "13": [
+            "นึ…นายนี่มัน……",
+            "นั่นมันของที่ฉันทำเลยนะ……"
+        ],
+        "14": [
+            "（แป๊บเดียวก็กินจนเกลี้ยง……",
+            "ท่าทางจะหิวโซจริงๆ ด้วยแฮะ……）"
+        ],
+        "15": [
+            "งั่ม งั่ม งั่ม…… รอดตายเพราะนายช่วยไว้แท้ แท้ เลย！",
+            "ไม่ได้กินอะไรมาตั้งหลายวัน……งั่ม งั่ม งั่ม……"
+        ],
+        "16": [
+            "นึกว่าจะต้องกลายเป็นผีหิวโซเฝ้าคุกใต้ดินซะแล้ว…",
+            "อึกๆ…"
+        ],
+        "17": [
+            "อืม…… ค่อยๆ กินก็ได้…… ว่าแต่ว่า、",
+            "ทำไมเธอถึงมาอยู่คนเดียวในที่แบบนี้ล่ะ？"
+        ],
+        "18": [
+            "อา！ เรื่องนั้นแหละ——！",
+            "เดิมทีฉันกำลังตั้งใจทำภารกิจอยู่แท้ แท้！"
+        ],
+        "19": [
+            "เพื่อที่จะค้นหาสมบัติที่ซ่อนอยู่ในแถบนี้、",
+            "เลยอุตส่าห์เลือกจุดอับสายตาขุดเป็นห้องลับไว้！"
+        ],
+        "20": [
+            "แต่ไอ้ที่นี่เนี่ย…… งั่ม งั่ม งั่ม。",
+            "พอฉันเข้ามาแล้ว ปากถ้ำดันโดนป้ายสุสานปิดตายซะงั้น！"
+        ],
+        "21": [
+            "กระซิก กระซิก... เพราะไม่คิดว่าจะเกิดเรื่องแบบนี้ขึ้น",
+            "เสบียงกรังก็หมดเกลี้ยงอย่างรวดเร็ว... ผลก็คือ..."
+        ],
+        "22": [
+            "เป็นถึงนินจาแต่กลับมาเจออุบัติเหตุแบบนี้...",
+            "ไม่มีหน้าไปสู้หน้าคนในองค์กรเลยค่ะ..."
+        ],
+        "23": [
+            "หะ... หา? แล้วทำไมเธอต้องขุด",
+            "ห้องลับนี่ขึ้นมาด้วยล่ะ..."
+        ],
+        "24": [
+            "ก็สมบัติชิ้นนั้นมันไม่ได้โผล่ออกมาตลอดนี่นา",
+            "ฉันเลยต้องเตรียมพร้อมรับมือระยะยาว... แจ๊บ แจ๊บ"
+        ],
+        "25": [
+            "แถมข้อมูลนี้ยังให้คนอื่นรู้ไม่ได้เด็ดขาด",
+            "นี่เป็นภารกิจลับสุดยอดที่ท่านผู้นั้นมอบหมายมาเลยนะ!"
+        ],
+        "26": [
+            "ถ้าเกิดคนอื่นรู... รู้เข้า...",
+            "จะเป็นยังไงเหรอ..."
+        ],
+        "27": [
+            "ก็ต้องรีบฆ่าปิดปากเงียบๆ ทันทีสิคะ...",
+            "ไม่งั้นก็หมดความเป็นนินจาพอดี... แจ๊บ แจ๊บ"
+        ],
+        "28": [
+            "......อ๊ะ! หา!",
+            "นี่ฉันเผลอหลุดปากคายความลับไปแล้วเหรอเนี่ย!"
+        ],
+        "29": [
+            "คือว่านะ... ฉันไม่เอาไปบอกใครหรอก...",
+            "เพราะงั้น..."
+        ],
+        "30": [
+            "......เอ๋!?"
+        ],
+        "31": [
+            "นี่ฉันดันพลาดท่าเรื่องง่ายๆ แบบนี้อีกแล้วเหรอเนี่ย...",
+            "ฮือ ฮือ ฮือ…… ถึงนายจะเป็นผู้มีพระคุณที่ช่วยชีวิตก็เถอะ……"
+        ],
+        "32": [
+            "ดะ…เดี๋ยวก่อนสิ！",
+            "แค่เพราะเหตุผลแบบนี้เนี่ยนะ……！"
+        ],
+        "33": [
+            "ขึ้นชื่อว่านินจาก็เป็นตัวตนแบบนี้แหละ……",
+            "ถ้าไม่ต่อสู้ก็มีชีวิตอยู่ต่อไปไม่ได้……"
+        ],
+        "34": [
+            "ถ้าเลือกได้ฉันก็ไม่อยากลงมือหรอกนะ、",
+            "กระซิกๆ… บุญคุณข้าวหนึ่งมื้อยังไม่ได้ตอบแทนเลยด้วยซ้ำ…"
+        ],
+        "35": [
+            "งะ…งั้นถ้าอย่างนั้นละก็——",
+            "\\^"
+        ],
+        "36": [
+            "คำตอบมันก็มีแค่หนึ่งเดียวเท่านั้น——",
+            "นายก็มาเป็นนินจาด้วยกันซะเลยสิ！"
+        ],
+        "37": [
+            "ขอแค่นายยอมเข้ามาอยู่ในองค์กรเดียวกัน，",
+            "พวกเราก็ไม่มีเหตุผลต้องมาสู้กันเองแล้ว！"
+        ],
+        "38": [
+            "ดะ…เดี๋ยวก่อนสิ！",
+            "แบบนี้มันมัดมือชกจนฉันปฏิเสธไม่ได้เลยไม่ใช่หรือไง！？"
+        ],
+        "39": [
+            "ไม่ต้องห่วงหรอกนะ、",
+            "ฉันจะทำอย่างอ่อนโยนกับนายเองนะ……"
+        ],
+        "40": [
+            "...เอ๊ย!?",
+            "อย่าเข้ามานะ!!"
+        ],
+        "41": [
+            "นายมีพรสวรรค์ในการเป็นนินจาจริงๆ เลยนะ...!",
+            "แค่เวลาสั้นๆ ร่างกายกลับจดจำได้จนหมดเลย!"
+        ],
+        "42": [
+            "แบบนี้ละก็、",
+            "นายก็กลายเป็นส่วนหนึ่งของพวกเราแล้วล่ะ!"
+        ],
+        "43": [
+            "แต่เรื่องที่จะพาไปพบท่านผู้นั้นน่ะ",
+            "คงต้องรอให้ภารกิจของฉันเสร็จสิ้นก่อนนะ!"
+        ],
+        "44": [
+            "ตอนนี้...",
+            "จะยังไงก็ช่างมันเถอะ……"
+        ]
+    }
 }
