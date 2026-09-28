@@ -3298,7 +3298,8 @@
     ],
     "unlockCondition": [
       "Already obtained \\ia[130]",
-      "Get caught by \\str[120] while jerking off with her panties in the Wash Area"
+      "Get caught by \\str[120] while jerking off with her panties in the Wash Area",
+      "Requires \\dMPFCstart[Receptiveness] of at least 8"
     ],
     "subtitle": [
       "'Doing something like this with my panties while thinking about me...",
@@ -3330,6 +3331,40 @@
     ],
     "subtitle": [
       ""
+    ],
+    "ability": ""
+  },
+  "440": {
+    "name": [
+      "Maxx C"
+    ],
+    "recallEventName": [
+      "\"No matter how many times it takes, I'll return from Hell! ▓▓▓▓▓▓▓ says hello♪\""
+    ],
+    "unlockCondition": [
+      "Feed \\str[120] \\ii[30] to trigger her heat state",
+      "Tail \\str[120] and peep on her when she goes to the toilet",
+      "\\str[120] has encountered C in the toilet at least once"
+    ],
+    "subtitle": [
+      "The Unnameable C—the arch-nemesis destined to return to the toilet no matter how many times it's killed!",
+      "It now eyes \\str[120], flushed and holding her breath in the toilet!",
+      "\\str[121], with both fists and dick rock hard, stand up and fight!"
+    ],
+    "ability": ""
+  },
+  "441": {
+    "name": [
+      "Toilet Intrusion"
+    ],
+    "recallEventName": [
+      "Service from \\str[120] in Heat"
+    ],
+    "subtitle": [
+      "\\str[120] stuck out her tongue playfully, ",
+      "but I could tell she was still really shy.",
+      "She'd never do something this bold normally—",
+      "it must be the effect of that candy."
     ],
     "ability": ""
   },
@@ -3473,6 +3508,20 @@
     ],
     "ability": ""
   },
+  "451": {
+    "name": [
+      "Peeping while Undressing II"
+    ],
+    "recallEventName": [
+      "This is strictly a health checkup for \\str[120], alright?! II"
+    ],
+    "subtitle": [
+      "\"Okay, that's enough!",
+      "You've had more than enough of a look for your 'health checkup', haven't you, \\str[121]?",
+      "I'm gonna take a bath, so get out already!\""
+    ],
+    "ability": ""
+  },   
   "480": {
     "name": [
       "The Power of Prayer"

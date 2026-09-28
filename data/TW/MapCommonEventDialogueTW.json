@@ -77,6 +77,8 @@
     "achievementEvents": "達成成就",
     "eroEvents": "色色事件",
     "readMore": "查看詳情",
+    "unlockCondition": "達成條件：",
+    "howToObtain": "獲取途徑：",
     "unlockTime": "第%1天 · %2",
     "traceControls": "拖拽瀏覽時間線 · 滾輪 / 雙指捏合縮放時間線視圖",
     "readMoreControls": "滾輪 / 上下滑動進行閱讀"
@@ -135,10 +137,17 @@
       "拿出了\\ii[\\v[90]]、 ",
       "要做什麼……？"
     ],
-    "1": [
+    "doubleConfirm": [
       "使用",
-      "算了",
       "丟棄"
+    ],
+    "cannotQuickUse": "這個道具不支持放入快捷道具欄",
+    "operationInstructions": [
+      "將支持快捷使用的道具拖入快捷道具輪盤",
+      "即可在地圖中切換使用"
+    ],
+    "operationInstructionsForPC": [
+      "(點擊F、G鍵進行切換，R鍵使用道具)"
     ]
   },
   "gameAnnouncement": {

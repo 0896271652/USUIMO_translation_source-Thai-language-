@@ -1,0 +1,17 @@
+{
+  "Receptiveness": {
+    "name": "\\str[120]的接受度",
+    "description": [
+      "衡量\\str[120]能否接受\\str[121]所提出的色色請求",
+      "基礎分將根據\\str[120]當前擁有的各類“心”進行計算：",
+      "\\dimg[15] = 1    \\dimg[16] = 2",
+      "\\dimg[17] = 1    \\dimg[18] = 2",
+      "\\dimg[19] = 2    \\dimg[20] = 3",
+      "\\dimg[21] = 3",
+      "處於發情狀態時，額外獲得 2 分",
+      "處於高心情狀態時，隨機獲得 0～2 分",
+      "處於低心情狀態時，隨機扣除 0～2 分",
+      "當前\\str[120]的接受度為：${QJ.MPMZ.tl.canImoutoAcceptHentaiRequest({ predictedScore: true })}"
+    ]
+  }
+}

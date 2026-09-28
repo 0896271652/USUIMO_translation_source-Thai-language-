@@ -404,5 +404,20 @@
       "Channels summoning magic, marking a target location when charging ends",
       "After a few seconds, calls down a meteor to strike the marked location"
     ]
+  },
+  "103": {
+    "name": [
+      "Karmic Retribution"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "description": [
+      ""
+    ],
+    "ability": [
+      "Releases a shockwave to counter surrounding enemies when taking damage",
+      "Releases a healing wave that heals surrounding enemies when healed"
+    ]
   }
 }
