@@ -385,5 +385,250 @@
       "\"I can't remember what happened last night...  \\w[90]",
       "Oh well, I was probably just too exhausted.\""
     ]
+  },
+  "6": {
+    "1": [
+      "Ugh... My body feels so heavy... I can't move...",
+      "This feels awful..."
+    ],
+    "2": [
+      "...Huh? Is it morning already?"
+    ],
+    "3": [
+      "Why is the blanket... bulging like that?",
+      "...Is that \\str[120]?"
+    ],
+    "4": [
+      "\"...Seriously, sneaking under the blanket to scare me again?",
+      "I've already seen through this little trick of yours——",
+      "\\w[60]\\^"
+    ]
+  },
+  "7": {
+    "1": [
+      "Ugh... My body feels so heavy... I can't move...",
+      "This feels awful..."
+    ],
+    "2": [
+      "\"...O...nii...chan...\""
+    ],
+    "3": [
+      "My chest feels heavy too...",
+      "Like something's pressing down on me."
+    ],
+    "4": [
+      "\"...Wake... up...\""
+    ],
+    "5": [
+      "...Come to think of it, ",
+      "I've been hearing something for a while now.",
+      "It keeps buzzing around... Did a bug get into the room?"
+    ],
+    "6": [
+      "\"...If you... don't wake... I'll...\""
+    ],
+    "7": [
+      "...Hm?",
+      "My nose... itches...",
+      "Feels like something just touched it."
+    ],
+    "8": [
+      "There it is again...",
+      "Once, twice... It keeps poking the tip of my nose."
+    ],
+    "9": [
+      "Still half-asleep, I shook my head,",
+      "trying to chase away the annoying bug messing with my face."
+    ],
+    "10": [
+      "My body felt so heavy that even lifting a hand to swat it away was a struggle.",
+      "...Did I stay up too late last night?"
+    ],
+    "11": [
+      "\"...Hehe... missed me...\""
+    ],
+    "12": [
+      "Buzz, buzz, buzz...",
+      "Instead of leaving, the bug only got bolder, teasing the tip of my nose even more."
+    ],
+    "13": [
+      "The next moment, my nose was suddenly pinched shut."
+    ],
+    "14": [
+      "\"............Mmph!\""
+    ],
+    "15": [
+      "I-I can't breathe...!",
+      "There was no way I could keep sleeping after that.",
+      "And the string of giggles by my ear finally made me realize—",
+      "that probably wasn't a bug at all."
+    ],
+    "16": [
+      "I forced my heavy eyelids open.",
+      "Through my blurry vision, the first thing I saw was silver hair hanging down over me.",
+      "Then, a pair of red eyes just inches away, ",
+      "staring at me with obvious amusement."
+    ],
+    "17": [
+      "\"............................\\str[120]!?\""
+    ],
+    "18": [
+      "\\nl< >\"Ehehe♥ Finally awake~!",
+      "\\str[121], you were sleeping like a rock today! ",
+      "I can't believe you slept this late~\""
+    ],
+    "19": [
+      "\\nl< >\\{\"Good morning, \\str[121]~♪\""
+    ],
+    "20": [
+      "I stared at her with my mouth hanging open, ",
+      "unable to make sense of the situation for a moment."
+    ],
+    "21": [
+      "Soft morning light streamed in through the window. ",
+      "There was no doubt—it was still morning.",
+      "And yet \\str[120], who would normally still be stuck in bed ",
+      "and impossible to wake at this hour—",
+      "was now full of energy, ",
+      "perched on my bed and cheerfully greeting me."
+    ],
+    "22": [
+      "\"Huh... Ah... Good... morning...?\""
+    ],
+    "23": [
+      "\\nl< >\"It is morning, you know? ",
+      "Are you still not awake, \\str[121]~?",
+      "If you don't get up, I'll have to do what you always do to me——\""
+    ],
+    "24": [
+      "As soon as she said that, ",
+      "\\str[120] cupped my cheeks in both hands and started vigorously rubbing them."
+    ],
+    "25": [
+      "\"Y-You... don't feel sick today?\""
+    ],
+    "26": [
+      "\\nl< >\"Mm-hmm~ I'm full of energy~!",
+      "I had a really long dream last night, ",
+      "but when I woke up, I felt completely full of energy——",
+      "Hehehe~~ \\str[121], your face looks like a piggy now~\""
+    ],
+    "27": [
+      "\\str[120] squeezed even harder, squishing both of my cheeks toward the middle.",
+      "My face must have looked ridiculous, because she quickly burst into a giggle."
+    ],
+    "28": [
+      "I didn't stop her from getting carried away.",
+      "Instead, an indescribable wave of emotion suddenly welled up inside me,",
+      "and before I knew it, the corners of my eyes had grown a little wet."
+    ],
+    "29": [
+      "——The Elixir Rubrum was clearly working.",
+      "The sight before me was the strongest proof I could ask for."
+    ],
+    "30": [
+      "\\nl< >\"...\\str[121]?",
+      "What's wrong...? Why'd you suddenly go quiet?",
+      "Did I rub too hard?\""
+    ],
+    "31": [
+      "\"...No.",
+      "I just suddenly thought... how wonderful this is.\""
+    ],
+    "32": [
+      "\\nl< >\"Maybe from now on, ",
+      "I can be the one who wakes \\str[121] up every day~♪\"",
+      "\\w[120]"
+    ],
+    "33": [
+      "\"Yeah... That actually doesn't sound too bad——",
+      "but first, could you let me get up...? ",
+      "This is starting to hurt a little.\""
+    ],
+    "34": [
+      "As petite as \\str[120] was, ",
+      "having her sit on my chest and rock back and forth like this",
+      "eventually left me feeling like I was being crushed by sleep paralysis."
+    ],
+    "35": [
+      "\\nl< >\"Ehehe~ I guess you're right~\""
+    ],
+    "36": [
+      "\\nl< >\"But when \\str[121] used to wake me up,",
+      "you did all sorts of mean things to me too, remember~?\""
+    ],
+    "37": [
+      "\\nl< >\"So starting today——",
+      "I'm going to pay \\str[121] back, little by little, for every single one♥\""
+    ],
+    "38": [
+      "...I guess not every change brought about by the treatment",
+      "was something to celebrate."
+    ],
+    "39": [
+      "Still, looking at \\str[120]'s smug little grin,",
+      "I couldn't help but smile along with her."
+    ],
+    "40": [
+      "\"....................\\str[120]?\""
+    ],
+    "41": [
+      "I opened my eyes.",
+      "Sure enough, \\str[120] was sprawled across my bed, smiling down at me.",
+      " ",
+      " ",
+      "A few strands of silver hair gently brushed against my cheeks, ",
+      "accompanied by that familiar sweet scent,",
+      "almost tempting me to close my eyes and drift off again."
+    ],
+    "42": [
+      "\\nl< >\"Huh~~? You're already awake?",
+      "It's not often \\str[121] sleeps in. ",
+      "You could've slept a little longer~\""
+    ],
+    "43": [
+      "\"You already messed with me enough to wake me up...",
+      "Anyway, isn't it about time you tried a different wake-up service?",
+      "Having you pin me down like this every time is honestly pretty uncomfortable.\""
+    ],
+    "44": [
+      "\\nl< >\"No~ \\str[121] is the one who should reflect on what you've done~",
+      "Couldn't you have been a little gentler when you used to wake me up?\""
+    ],
+    "45": [
+      "\"Sure~ Then next time, ",
+      "I'll wake you like Sleeping Beauty—with a kiss!\""
+    ],
+    "46": [
+      "\\nl< >\"Uweeeeh~~!?",
+      "Th-That kind of naughty wake-up method isn't allowed~!\""
+    ],
+    "47": [
+      "\\str[120] immediately looked away, her eyes darting around nervously.",
+      "Finally unable to endure my perfectly serious stare, ",
+      "she blushed and lightly hopped off the bed."
+    ],
+    "48": [
+      "\\nl< >\"I-If \\str[121] really does that to me——",
+      "then next time I'll do something naughty to \\str[121] while you're asleep~!\""
+    ],
+    "49": [
+      "\"Sure, sure~ Then I'll be looking forward to it——\""
+    ],
+    "50": [
+      "\\nl< >\"Ugh...!!",
+      "W-Why is \\str[121] looking forward to it instead——!?",
+      "Grrrrrr——!\""
+    ],
+    "51": [
+      "Completely outmatched in our little war of words, ",
+      "\\str[120] finally gave up on verbal retaliation",
+      "and started pummeling me with a flurry of angry little punches."
+    ],
+    "52": [
+      "I caught each of \\str[120]'s little fists as they came.",
+      "Seeing her this energetic first thing in the morning,",
+      "I was gradually getting used to a sight that once would have been unimaginable."
+    ]
   }
 }

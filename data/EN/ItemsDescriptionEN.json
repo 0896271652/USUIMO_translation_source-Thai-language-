@@ -3317,8 +3317,17 @@
     "recallEventName": [
       "Newlywed Three Choice: A bath first~?"
     ],
+    "unlockCondition": [
+      "Requires at least \\px[10]\\dimg[15]\\dimg[15]",
+      "Triggered \\str[120]'s newlywed three question sequence in the entryway upon returning home at dusk",
+      "Have shared a bath with \\str[120] at least once",
+      "Have made love with \\str[120] at least once",
+      "Requires \\dMPFCstart[Receptiveness] of at least 10"
+    ],
     "subtitle": [
-      ""
+      "\"Would you like a bath first?",
+      "Would you like dinner first?",
+      "Or would you prefer... M·e~?\""
     ],
     "ability": ""
   },
@@ -3330,7 +3339,9 @@
       "Newlywed Three Choice: \\str[120] first~?"
     ],
     "subtitle": [
-      ""
+      "\"Would you like a bath first?",
+      "Would you like dinner first?",
+      "Or would you prefer... M·e~?\""
     ],
     "ability": ""
   },
@@ -3507,7 +3518,25 @@
       "if I shake it a little…"
     ],
     "ability": ""
-  },
+  },  
+  "450": {
+    "name": [
+      "Wake Up \\str[121]"
+    ],
+    "recallEventName": [
+      "Wake Up \\str[121]"
+    ], 
+    "unlockCondition": [
+      "Complete the Third Treatment",
+      "\\str[121] woke up very late because of staying up too late"
+    ],  
+    "subtitle": [
+      "\"It is morning, you know? ",
+      "Are you still not awake, \\str[121]~?",
+      "If you don't get up, I'll have to do what you always do to me——\""
+    ],
+    "ability": ""
+  },    
   "451": {
     "name": [
       "Peeping while Undressing II"
@@ -3521,7 +3550,26 @@
       "I'm gonna take a bath, so get out already!\""
     ],
     "ability": ""
-  },   
+  },  
+  "452": {
+    "name": [
+      "Bathing Help"
+    ],
+    "recallEventName": [
+      "Helping \\str[120] with her bath"
+    ], 
+    "unlockCondition": [
+      "Requires at least \\px[10]\\dimg[15]\\dimg[15]",
+      "Successfully invite \\str[120] to take a bath together",
+      "Requires \\dMPFCstart[Receptiveness] of at least 8"
+    ], 
+    "subtitle": [
+      "The maintenance work girls do is really complicated...",
+      "Looking at this silver hair, now as smooth as silk, I couldn't help but wonder,",
+      "should I try learning how to tie her hair up next time?"
+    ],
+    "ability": ""
+  }, 
   "480": {
     "name": [
       "The Power of Prayer"

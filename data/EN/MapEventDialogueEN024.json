@@ -468,6 +468,144 @@
       "and then slowly peeked inside——"
     ]
   },
+  "8": {
+    "1": [
+      "\"Let's take a bath first... ",
+      "I've worked up quite a sweat.\""
+    ],
+    "2": [
+      "\"Then I'll go prepare the bathwater~! ",
+      "\\str[121], go get some rest for now~!\""
+    ],
+    "3": [
+      "Invite \\str[120]",
+      "Never mind"
+    ],
+    "4": [
+      "\\nl< >\"S, Should I go bathe together with you too?\""
+    ],
+    "5": [
+      "\\nl< >\"...No way! ",
+      "You're dripping with sweat right now, \\str[121]! ",
+      "Why are you asking me to bathe with you...?\""
+    ],
+    "6": [
+      "\"Ehh... Since you're playing the role of a newlywed wife, ",
+      "shouldn't you play the part properly? ",
+      "Washing away the fatigue and sweat of a husband who's worked hard all day ",
+      "is a newlywed wife's most fundamental duty, you know.\""
+    ],
+    "7": [
+      "\\nl< >\"N-Newlywed wife?! Why are you saying that?! ",
+      "What I just said was just lines I learned from TV...!\""
+    ],
+    "8": [
+      "Turns out she didn't even realize what she was saying just now...",
+      "She didn't even notice what kind of show she was watching..."
+    ],
+    "9": [
+      "\\nl< >\"A-Anyhow! ",
+      "I'm going to run the bathwater first~~! ",
+      "Getting married or whatever~! ",
+      "It's way too early for that~~!\""
+    ],
+    "10": [
+      "Blushing bright red, \\str[120] fled into the bathroom as if running away.",
+      "Still... She actually seemed pretty happy about it?"
+    ],
+    "11": [
+      "\\nl< >\"Huh? I-Is that how it works...?\""
+    ],
+    "12": [
+      "Seemingly embarrassed by the term 'newlywed wife',",
+      "\\str[120]'s face flushed crimson instantly, ",
+      "and her two long ears flapped around restlessly.",
+      "Judging by her reaction, though... looks like I might have a chance?"
+    ],
+    "13": [
+      "\"Yeah, yeah~ You could say it's a form of 'bride training', right? ",
+      "Getting used to a wife's duties early on is great practice for \\str[120] too~ ",
+      "\\}Just kidding!\""
+    ],
+    "14": [
+      "\\nl< >\"Ugh... B-Bride training or whatever...! ",
+      "I-I get it already...! Fine, I'll bathe with you...! ",
+      "It's... It's just the same as usual anyway...\""
+    ],
+    "15": [
+      "Even though her blushing had spread all the way down her neck,",
+      "\\str[120] feigned composure, puffing out her chest to act as if she ",
+      "still had plenty of leeway. Looking at her like this... ",
+      "she really does look a bit like a newlywed wife."
+    ],
+    "16": [
+      "\\nl< >\"...Bathe together? I guess that's fine... ",
+      "\\str[121] worked hard all day, so you really deserve a nice reward♥\""
+    ],
+    "17": [
+      "\"In that case... Time to enjoy \\str[120] first~! ",
+      "Mwahahaha, yaaay~~\""
+    ],
+    "18": [
+      "To play along with \\str[120]'s act,",
+      "I put on a villainous face like a henchman from ",
+      "an end-of-the-century wasteland comic,",
+      "spreading my arms with a wicked grin and slowly closing in on her."
+    ],
+    "19": [
+      "\\nl< >\"Eek~ Yaah~ Aah~! \\str[121]'s gonna eat me up~~!\""
+    ],
+    "20": [
+      "\\str[120] nimbly dodged my pounce and ran out of the entrance hall, ",
+      "giggling all the way. Just like that,",
+      "we spent a good while chasing each other around in playful mischief."
+    ],
+    "21": [
+      "\\nl< >\"Would you like a bath first?    \\w[60]",
+      "Would you like dinner first?                \\w[60]",
+      "Or would you prefer..."
+    ],
+    "22": [
+      "\\nl< >\\{\"M·e~?\""
+    ],
+    "23": [
+      "—What kind of new greeting style is this!?",
+      "This is bad! \\str[120] is looking dangerously cute~!"
+    ],
+    "24": [
+      "Eat \\str[120] first",
+      "Take a bath first",
+      "Eat dinner first"
+    ],
+    "25": [
+      "\"Let's have dinner first!\""
+    ],
+    "26": [
+      "\\nl< >\"Sorry~ I haven't made any yet~\""
+    ],
+    "27": [
+      "\"—Eh.\""
+    ],
+    "28": [
+      "\\nl< >\"I saw this on TV today and thought it looked fun~\""
+    ],
+    "29": [
+      "\\nl< >\"But if \\str[121] wants to eat, ",
+      "I actually just got an idea for a new dish~!\""
+    ],
+    "30": [
+      "\"—Ehhh!?\""
+    ],
+    "31": [
+      "Before I could even snap out of my shock, ",
+      "\\str[120] trotted off to the kitchen with an excited look on her face.",
+      "Recalling the food \\str[120] had made in the past, ",
+      "a sudden chill ran down my spine."
+    ],
+    "32": [
+      "\"Just in case... I'd better go take a look...\""
+    ]
+  },
   "9": {
     "0": [
       "The warmth in my arms reminded me that ",
@@ -539,49 +677,17 @@
       "Good work today!\""
     ],
     "21": [
-      "\\nl< >\"Would you like a bath first?    \\w[120]",
-      "Would you like dinner first?                \\w[120]",
-      "Or would you prefer..."
+      "\\nl< >\"Are you going to make dinner now? I can help~!\""
     ],
     "22": [
-      "\\nl< >\\{\"M·e~?\""
+      "\\nl< >\"You'll let me cook dinner tonight too, ",
+      "right, \\str[121]~?\""
     ],
     "23": [
-      "—What kind of new greeting style is this!?",
-      "This is bad! \\str[120] is looking dangerously cute~!"
+      "Yeah, it's already dinnertime. What should we do next?"
     ],
     "24": [
-      "Eat \\str[120] first",
-      "Take a bath first",
-      "Eat dinner first"
-    ],
-    "25": [
-      "\"Let's have dinner first!\""
-    ],
-    "26": [
-      "\\nl< >\"Sorry~ I haven't made any yet~\""
-    ],
-    "27": [
-      "\"—Eh.\""
-    ],
-    "28": [
-      "\\nl< >\"I saw this on TV today and thought it looked fun~\""
-    ],
-    "29": [
-      "\\nl< >\"But if \\str[121] wants to eat, ",
-      "I actually just got an idea for a new dish~!\""
-    ],
-    "30": [
-      "\"—Ehhh!?\""
-    ],
-    "31": [
-      "Before I could even snap out of my shock, ",
-      "\\str[120] trotted off to the kitchen with an excited look on her face.",
-      "Recalling the food \\str[120] had made in the past, ",
-      "a sudden chill ran down my spine."
-    ],
-    "32": [
-      "\"Just in case... I'd better go take a look...\""
+      "Anyway, let's head to the dining room first."
     ]
   },
   "13": {
