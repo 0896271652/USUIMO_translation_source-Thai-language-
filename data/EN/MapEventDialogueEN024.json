@@ -555,11 +555,6 @@
     "19": [
       "\\nl< >\"Eek~ Yaah~ Aah~! \\str[121]'s gonna eat me up~~!\""
     ],
-    "20": [
-      "\\str[120] nimbly dodged my pounce and ran out of the entrance hall, ",
-      "giggling all the way. Just like that,",
-      "we spent a good while chasing each other around in playful mischief."
-    ],
     "21": [
       "\\nl< >\"Would you like a bath first?    \\w[60]",
       "Would you like dinner first?                \\w[60]",
@@ -604,6 +599,69 @@
     ],
     "32": [
       "\"Just in case... I'd better go take a look...\""
+    ],
+    "33": [
+      "As I crept toward her with my arms outstretched,",
+      "\\str[120] didn't look scared in the slightest. Instead, she kept giggling.",
+      "She darted around the entryway with light steps, ",
+      "nimbly dodging every attempt I made to catch her."
+    ],
+    "34": [
+      "Pin \\str[120] Down",
+      "Pounce on \\str[120]"
+    ],
+    "35": [
+      "\"Damn it... Don't get too cocky!\""
+    ],
+    "36": [
+      "With a wild yell, I bent my knees and kicked off the floor,",
+      "launching myself into the air with all my strength,",
+      "then pounced at \\str[120] like a hungry wolf after its prey!"
+    ],
+    "37": [
+      "\\nl< >\"Too~ slow~!\""
+    ],
+    "38": [
+      "\\str[120] seemed to have seen exactly where I was going to land.",
+      "Just as I was about to catch her, she lightly slipped to the side.",
+      "As I flew past, she even had time to turn around and make a face at me."
+    ],
+    "39": [
+      "THUD——!!"
+    ],
+    "40": [
+      "With my target gone, there was no way I could stop myself in time.",
+      "I completely missed and crashed heavily onto the floor in a rather pathetic pose."
+    ],
+    "41": [
+      "\\nl< >\"Hahahahaha~! \\str[121], you're so dumb! Dummy, dummy~!\""
+    ],
+    "42": [
+      "\\str[120] looked down at me sprawled on the floor, ",
+      "laughing so hard she could barely contain herself."
+    ],
+    "43": [
+      "\\nl< >\"Ehehe~ You didn't catch me, \\str[121], so I win~♪",
+      "And since you lost, you're in charge of dinner tonight~!\""
+    ],
+    "44": [
+      "\"Hey, since when was there a punishment for losing...?\""
+    ],
+    "45": [
+      "\\nl< >\"I ju~st made it up~♪\""
+    ],
+    "46": [
+      "\\str[120] crouched down and gleefully rubbed my slightly sore forehead.",
+      "Then, before I could even protest, ",
+      "she sprang back up and ran off toward the dining room with a giggle."
+    ],
+    "47": [
+      "Watching \\str[120] run off triumphantly, ",
+      "I could only accept defeat and pick myself up off the floor.",
+      " ",
+      " ",
+      "...Next time, I can't just stupidly charge at her head-on like that.",
+      "I'll have to come up with another way to teach that smug little brat a lesson."
     ]
   },
   "9": {

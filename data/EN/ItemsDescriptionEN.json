@@ -3318,7 +3318,8 @@
       "Newlywed Three Choice: A bath first~?"
     ],
     "unlockCondition": [
-      "Requires at least \\px[10]\\dimg[15]\\dimg[15]",
+      "Requires at least \\px[10]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]",
+      "\\str[120] is in a pretty good mood",
       "Triggered \\str[120]'s newlywed three question sequence in the entryway upon returning home at dusk",
       "Have shared a bath with \\str[120] at least once",
       "Have made love with \\str[120] at least once",
