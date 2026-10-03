@@ -3519,25 +3519,25 @@
       "if I shake it a little…"
     ],
     "ability": ""
-  },  
+  },
   "450": {
     "name": [
       "Wake Up \\str[121]"
     ],
     "recallEventName": [
       "Wake Up \\str[121]"
-    ], 
+    ],
     "unlockCondition": [
       "Complete the Third Treatment",
       "\\str[121] woke up very late because of staying up too late"
-    ],  
+    ],
     "subtitle": [
       "\"It is morning, you know? ",
       "Are you still not awake, \\str[121]~?",
       "If you don't get up, I'll have to do what you always do to me——\""
     ],
     "ability": ""
-  },    
+  },
   "451": {
     "name": [
       "Peeping while Undressing II"
@@ -3551,26 +3551,63 @@
       "I'm gonna take a bath, so get out already!\""
     ],
     "ability": ""
-  },  
+  },
   "452": {
     "name": [
       "Bathing Help"
     ],
     "recallEventName": [
       "Helping \\str[120] with her bath"
-    ], 
+    ],
     "unlockCondition": [
       "Requires at least \\px[10]\\dimg[15]\\dimg[15]",
       "Successfully invite \\str[120] to take a bath together",
       "Requires \\dMPFCstart[Receptiveness] of at least 8"
-    ], 
+    ],
     "subtitle": [
       "The maintenance work girls do is really complicated...",
       "Looking at this silver hair, now as smooth as silk, I couldn't help but wonder,",
       "should I try learning how to tie her hair up next time?"
     ],
     "ability": ""
-  }, 
+  },
+  "453": {
+    "name": [
+      "Slip"
+    ],
+    "recallEventName": [
+      "\"—Nyaaah!?\""
+    ],
+    "unlockCondition": [
+      "When it's \\str[120]'s turn to bathe alone, the shampoo has run out",
+      "When \\str[120] calls you to refill the shampoo, ask \\str[120] to come out",
+      "There is a 50% chance that \\str[120] will slip when returning to the bathroom"
+    ],
+    "subtitle": [
+      "\\str[120] suddenly slipped right in front of me,",
+      "falling face-first to the floor—",
+      "it looked painful just watching her..."
+    ],
+    "ability": ""
+  },
+  "454": {
+    "name": [
+      "Fantasy?"
+    ],
+    "recallEventName": [
+      "Imaginary \\str[120]?"
+    ],
+    "unlockCondition": [
+      "Sneak into the wash area while \\str[120] is bathing",
+      "When \\str[121]'s \\dMPFCstart[Koufun] is above 50, choose to fantasize"
+    ],
+    "subtitle": [
+      "\\{I can do this!  \\}",
+      "With this, I should be able to picture ",
+      "\\str[120]'s perfect figure!"
+    ],
+    "ability": ""
+  },
   "480": {
     "name": [
       "The Power of Prayer"

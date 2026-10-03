@@ -13,5 +13,16 @@
       "While in a bad mood, randomly lose 0–2 points.",
       "\\str[120]'s current Receptiveness: ${QJ.MPMZ.tl.canImoutoAcceptHentaiRequest({ predictedScore: true })}"
     ]
+  },
+  "Koufun": {
+    "name": "Arousal",
+    "description": [
+      "Measures \\str[121]'s level of sexual desire.",
+      "A notification appears in the status bar when above 20.",
+      "Increases by engaging in naughty behavior or sleeping each day.",
+      "Certain events require a specific amount of Arousal.",
+      "Ejaculation immediately clears all Arousal and enters Sage Mode.",
+      "All stats are increased while in Sage Mode."
+    ]
   }
 }
