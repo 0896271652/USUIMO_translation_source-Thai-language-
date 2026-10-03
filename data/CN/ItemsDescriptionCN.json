@@ -3653,6 +3653,54 @@
     ],
     "ability": ""
   },
+  "455": {
+    "name": [
+      "噩梦 I"
+    ],
+    "recallEventName": [
+      "\\str[121]的噩梦 I"
+    ],
+    "unlockCondition": [
+      "累积拔掉5次\\str[120]的呆毛"
+    ],
+    "subtitle": [
+      "吓死我了…感觉看见了非常可怕的\\str[120]……"
+    ],
+    "ability": ""
+  },
+  "456": {
+    "name": [
+      "噩梦 II"
+    ],
+    "recallEventName": [
+      "\\str[121]的噩梦 II"
+    ],
+    "unlockCondition": [
+      "需要至少完成一次治疗",
+      "于深夜（22点后）在客厅和\\str[120]观看\\ii[188]"
+    ],
+    "subtitle": [
+      "吓死我了…感觉看见了非常可怕的\\str[120]……"
+    ],
+    "ability": ""
+  },
+  "457": {
+    "name": [
+      "噩梦 III"
+    ],
+    "recallEventName": [
+      "\\str[121]的噩梦 III"
+    ],
+    "unlockCondition": [
+      "需要至少完成三次治疗",
+      "被\\str[120]早上叫起床过",
+      "满足任意其他噩梦的触发条件时，有概率替换为此噩梦"
+    ],
+    "subtitle": [
+      "吓死我了…感觉看见了非常可怕的\\str[120]……"
+    ],
+    "ability": ""
+  },  
   "480": {
     "name": [
       "祈祷的力量"

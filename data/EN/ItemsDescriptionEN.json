@@ -3249,7 +3249,7 @@
       "Requires completing at least one treatment",
       "Watch TV with \\str[120] in the living room at least twice",
       "Watch \\ii[188] with \\str[120] in the living room late at night (after 22:00)"
-    ], 
+    ],
     "subtitle": [
       "\\str[121] brings \\str[120], who has never stayed up late before, to watch a ",
       "mysterious videotape he bought, only for it to turn out to be a horror movie!",
@@ -3611,6 +3611,57 @@
       "\\{I can do this!  \\}",
       "With this, I should be able to picture ",
       "\\str[120]'s perfect figure!"
+    ],
+    "ability": ""
+  },
+  "455": {
+    "name": [
+      "Nightmare I"
+    ],
+    "recallEventName": [
+      "\\str[121]'s Nightmare I"
+    ],
+    "unlockCondition": [
+      "Pull out \\str[120]'s ahoge a total of 5 times"
+    ],
+    "subtitle": [
+      "That scared me to death... ",
+      "I feel like I saw a really terrifying \\str[120]..."
+    ],
+    "ability": ""
+  },
+  "456": {
+    "name": [
+      "Nightmare II"
+    ],
+    "recallEventName": [
+      "\\str[121]'s Nightmare II"
+    ],
+    "unlockCondition": [
+      "Requires completing at least one treatment",
+      "Watch \\ii[188] with \\str[120] in the living room late at night (after 22:00)"
+    ],
+    "subtitle": [
+      "That scared me to death... ",
+      "I feel like I saw a really terrifying \\str[120]..."
+    ],
+    "ability": ""
+  },
+  "457": {
+    "name": [
+      "Nightmare III"
+    ],
+    "recallEventName": [
+      "\\str[121]'s Nightmare III"
+    ],
+    "unlockCondition": [
+      "Requires completing at least three treatments",
+      "Have \\str[120] wake \\str[121] up in the morning",
+      "When the trigger conditions for any other nightmare are met, there is a chance it will be replaced by this nightmare"
+    ],
+    "subtitle": [
+      "That scared me to death... ",
+      "I feel like I saw a really terrifying \\str[120]..."
     ],
     "ability": ""
   },
