@@ -3244,6 +3244,12 @@
     "recallEventName": [
       "Watching a Horror Movie with \\str[120]"
     ],
+    "unlockCondition": [
+      "Requires at least \\px[10]\\dimg[16]\\dimg[16]\\dimg[16]\\dimg[16]",
+      "Requires completing at least one treatment",
+      "Watch TV with \\str[120] in the living room at least twice",
+      "Watch \\ii[188] with \\str[120] in the living room late at night (after 22:00)"
+    ], 
     "subtitle": [
       "\\str[121] brings \\str[120], who has never stayed up late before, to watch a ",
       "mysterious videotape he bought, only for it to turn out to be a horror movie!",
