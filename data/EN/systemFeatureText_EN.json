@@ -183,9 +183,10 @@
     "New patch content for ${} has been successfully installed and will take effect upon the next restart."
   ],
   "outdatedVersionWarning": [
-    "The current game version has expired. The latest version is ${}.",
-    "Major automatic updates are now available, but exclusively for users who have completed the official ownership verification system. ",
-    "If you cannot complete the verification, you will still need to redownload the game from official channels to update."
+    "A major game update is available. The latest version is ${}.",
+    "Automatic updates for major versions are only available to logged-in users who have completed purchase verification.",
+    "If you are unable to complete purchase verification, please download and install the latest version manually from the platform where you purchased the game.",
+    "After updating, you can transfer your save files manually or use the game's cloud save feature to carry over your progress."
   ],
   "renameCharacter": [
     "I remember now—",

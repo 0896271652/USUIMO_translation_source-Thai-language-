@@ -3665,6 +3665,36 @@
     ],
     "ability": ""
   },
+  "458": {
+    "name": [
+      "\\str[120]?"
+    ],
+    "recallEventName": [
+      "\"—Was that \\str[120]'s voice?\""
+    ],
+    "subtitle": [
+      "\"\\str[121], are you okay? ",
+      "You look really pale.\""
+    ],
+    "ability": ""
+  },
+  "459": {
+    "name": [
+      "Meat Dishes"
+    ],
+    "recallEventName": [
+      "The savory, fragrant meat dish is a success!"
+    ],
+    "unlockCondition": [
+      "Cooked a meat dish for \\str[120] using meat ingredients"
+    ],
+    "subtitle": [
+      "Before I could even react,",
+      "\\str[120] had already polished off all the meat",
+      "on the plate with incredible gusto..."
+    ],
+    "ability": ""
+  },
   "480": {
     "name": [
       "The Power of Prayer"
