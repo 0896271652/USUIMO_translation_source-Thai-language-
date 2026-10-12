@@ -34,6 +34,19 @@ export function diffJson(base, current, target = MISSING) {
   return changes;
 }
 
+// Coverage depends only on the current source and translation. Review retains history.
+export function compareTranslationLists(base, current, target = MISSING) {
+  const coverage = diffJson(current, current, target)
+    .filter((entry) => hasTranslatableText(entry.sourceAfter));
+  const review = diffJson(base, current, target).filter((entry) =>
+    entry.status === "changed" || entry.status === "deleted" || (
+      entry.status === "conflict" && entry.sourceBefore !== null &&
+      !sourceValuesEquivalent(entry.sourceBefore, entry.sourceAfter)
+    ),
+  ).map((entry) => entry.status === "conflict" ? { ...entry, status: "changed" } : entry);
+  return { coverage, review };
+}
+
 export function mapSourcePathToTarget(sourcePath, sourceLanguage, targetLanguage) {
   const normalized = sourcePath.split(path.sep).join("/");
   const sourcePrefix = `data/${sourceLanguage}/`;
@@ -61,41 +74,39 @@ export function buildLanguageReport({ repoRoot, config, language, headRef = "HEA
   const baseFiles = listJsonFiles(repoRoot, baseRef, sourceLanguage);
   const headFiles = listJsonFiles(repoRoot, headRef, sourceLanguage);
   const sourceFiles = [...new Set([...baseFiles, ...headFiles])].sort();
-  const entries = [];
+  const lists = { coverage: [], review: [] };
 
   for (const sourceFile of sourceFiles) {
     const baseSource = readJsonAtRef(repoRoot, baseRef, sourceFile);
     const currentSource = readJsonAtRef(repoRoot, headRef, sourceFile);
-    const mappingSource = currentSource === MISSING ? sourceFile : sourceFile;
-    const targetFile = mapSourcePathToTarget(mappingSource, sourceLanguage, language);
+    const targetFile = mapSourcePathToTarget(sourceFile, sourceLanguage, language);
     const currentTarget = readJsonAtRef(repoRoot, headRef, targetFile);
-    const fileChanges = diffJson(baseSource, currentSource, currentTarget);
-
-    for (const change of fileChanges) {
-      entries.push({
-        ...change,
-        sourceFile,
-        targetFile,
-      });
+    const fileLists = compareTranslationLists(baseSource, currentSource, currentTarget);
+    for (const name of Object.keys(lists)) {
+      for (const change of fileLists[name]) {
+        lists[name].push({ ...change, sourceFile, targetFile });
+      }
     }
   }
 
-  entries.sort((left, right) =>
-    left.sourceFile.localeCompare(right.sourceFile, "en") ||
-    left.pointer.localeCompare(right.pointer, "en"),
-  );
+  const sections = {};
+  for (const [name, entries] of Object.entries(lists)) {
+    entries.sort((left, right) =>
+      left.sourceFile.localeCompare(right.sourceFile, "en") ||
+      left.pointer.localeCompare(right.pointer, "en"),
+    );
+    const statuses = name === "coverage" ? ["missing", "conflict"] : ["changed", "deleted"];
+    sections[name] = {
+      counts: Object.fromEntries(statuses.map((status) => [status, entries.filter((entry) => entry.status === status).length])),
+      total: entries.length,
+      entries,
+    };
+  }
 
   const baseCommit = getCommitInfo(repoRoot, baseRef);
   const headCommit = getCommitInfo(repoRoot, headRef);
-  const counts = Object.fromEntries(
-    ["added", "changed", "deleted", "missing", "conflict"].map((status) => [
-      status,
-      entries.filter((entry) => entry.status === status).length,
-    ]),
-  );
-
   return {
-    schemaVersion: 1,
+    schemaVersion: 2,
     generatedAt: new Date().toISOString(),
     repository: config.repository,
     sourceLanguage,
@@ -105,9 +116,7 @@ export function buildLanguageReport({ repoRoot, config, language, headRef = "HEA
     baseNote: languageConfig.baseNote,
     baseCommit,
     headCommit,
-    counts,
-    total: entries.length,
-    entries,
+    sections,
   };
 }
 

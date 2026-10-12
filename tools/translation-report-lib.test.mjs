@@ -2,6 +2,7 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import {
   MISSING,
+  compareTranslationLists,
   diffJson,
   encodePointer,
   mapSourcePathToTarget,
@@ -170,4 +171,51 @@ test("missing symbol never leaks into output", () => {
   const [change] = diffJson(MISSING, "new", MISSING);
   assert.equal(change.sourceBefore, null);
   assert.equal(change.translationCurrent, null);
+});
+
+
+test("coverage is independent of baseline and includes changed but untranslated text", () => {
+  const current = { added: "New", changed: "200 coins", old: "Still missing", empty: {}, flag: true };
+  const target = { added: "", changed: null };
+  const first = compareTranslationLists({ changed: "100 coins" }, current, target);
+  const second = compareTranslationLists(current, current, target);
+  assert.deepEqual(first.coverage, second.coverage);
+  assert.deepEqual(first.coverage.map((entry) => [entry.pointer, entry.status]), [
+    ["/added", "missing"], ["/changed", "missing"], ["/old", "missing"],
+  ]);
+  assert.deepEqual(first.review.map((entry) => entry.pointer), ["/changed"]);
+  assert.deepEqual(second.review, []);
+});
+
+test("merged translations clear coverage without clearing source review", () => {
+  const base = { changed: "100 coins", deleted: "Old line" };
+  const current = { changed: "200 coins", added: "New line" };
+  const before = compareTranslationLists(base, current, { deleted: "Old translation" });
+  const after = compareTranslationLists(base, current, {
+    changed: "200 gold", added: ["Translated new line"], deleted: "Old translation",
+  });
+  assert.equal(before.coverage.length, 2);
+  assert.deepEqual(after.coverage, []);
+  assert.deepEqual(after.review.map((entry) => [entry.pointer, entry.status]), [
+    ["/changed", "changed"], ["/deleted", "deleted"],
+  ]);
+});
+
+test("structure conflicts are current issues while meaningful source edits also need review", () => {
+  const lists = compareTranslationLists(
+    { edited: "Old", same: "Same" },
+    { edited: "New", same: "Same", added: "Added" },
+    { edited: 5, same: {}, added: false },
+  );
+  assert.equal(lists.coverage.length, 3);
+  assert.ok(lists.coverage.every((entry) => entry.status === "conflict"));
+  assert.deepEqual(lists.review.map((entry) => [entry.pointer, entry.status]), [["/edited", "changed"]]);
+});
+
+test("missing files, blank arrays and typography preserve checklist semantics", () => {
+  assert.deepEqual(compareTranslationLists(MISSING, MISSING, MISSING), { coverage: [], review: [] });
+  assert.equal(compareTranslationLists(MISSING, { text: "Hello" }, MISSING).coverage[0].status, "missing");
+  const lists = compareTranslationLists({ text: "Hello…" }, { text: "Hello..." }, { text: [" "] });
+  assert.equal(lists.coverage[0].status, "missing");
+  assert.deepEqual(lists.review, []);
 });

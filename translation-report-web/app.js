@@ -1,6 +1,5 @@
-const STATUS_ORDER = ["added", "changed", "deleted", "missing", "conflict"];
+const SECTION_STATUSES = { coverage: ["missing", "conflict"], review: ["changed", "deleted"] };
 const STATUS_LABELS = {
-  added: "NEW",
   changed: "EN CHANGED",
   deleted: "OBSOLETE",
   missing: "MISSING",
@@ -11,12 +10,15 @@ const PAGE_SIZE = 100;
 const state = {
   index: null,
   report: null,
-  activeStatuses: new Set(STATUS_ORDER),
+  section: "coverage",
+  activeStatuses: new Set(SECTION_STATUSES.coverage),
   query: "",
   visible: PAGE_SIZE,
 };
 
 const elements = {
+  sections: document.querySelector("#sections"),
+  sourceLabel: document.querySelector("#source-label"),
   language: document.querySelector("#language"),
   revision: document.querySelector("#revision"),
   summary: document.querySelector("#summary"),
@@ -61,6 +63,14 @@ async function start() {
     state.visible += PAGE_SIZE;
     renderEntries();
   });
+  elements.sections.addEventListener("click", (event) => {
+    const button = event.target.closest("button[data-section]");
+    if (!button || !state.report) return;
+    state.section = button.dataset.section;
+    state.activeStatuses = new Set(SECTION_STATUSES[state.section]);
+    state.visible = PAGE_SIZE;
+    render();
+  });
   elements.download.addEventListener("click", downloadReport);
   await loadLanguage(initial);
 }
@@ -69,7 +79,7 @@ async function loadLanguage(language) {
   const metadata = state.index.languages.find((item) => item.code === language);
   state.report = await fetchJson(metadata.report);
   state.visible = PAGE_SIZE;
-  state.activeStatuses = new Set(STATUS_ORDER);
+  state.activeStatuses = new Set(SECTION_STATUSES[state.section]);
   history.replaceState(null, "", `${location.pathname}?lang=${language}`);
   render();
 }
@@ -78,24 +88,37 @@ function render() {
   const { report } = state;
   const baseDate = formatDate(report.baseCommit.committedAt);
   const headDate = formatDate(report.headCommit.committedAt);
-  elements.revision.innerHTML = `Baseline <strong>${shortSha(report.baseCommit.sha)}</strong> · ${baseDate}<br>Current <strong>${shortSha(report.headCommit.sha)}</strong> · ${headDate}`;
-  elements.sourceWindow.textContent = `${baseDate} → ${headDate} · ${report.baseNote}`;
+  const coverage = state.section === "coverage";
+  elements.revision.innerHTML = coverage
+    ? `Current <strong>${shortSha(report.headCommit.sha)}</strong> · ${headDate}`
+    : `Baseline <strong>${shortSha(report.baseCommit.sha)}</strong> · ${baseDate}<br>Current <strong>${shortSha(report.headCommit.sha)}</strong> · ${headDate}`;
+  elements.sourceLabel.textContent = coverage ? "LATEST TRANSLATION COVERAGE" : "SOURCE CHANGES TO REVIEW";
+  elements.sourceWindow.textContent = coverage
+    ? "Latest English vs. latest translation. Missing items disappear when translations are merged. Conflicts need a structure fix."
+    : `${baseDate} → ${headDate} · Review English changes against the current translation. These reminders remain until the language checkpoint advances; they do not necessarily mean the text is untranslated.`;
+  for (const button of elements.sections.querySelectorAll("button")) {
+    const selected = button.dataset.section === state.section;
+    button.classList.toggle("is-active", selected);
+    button.setAttribute("aria-pressed", String(selected));
+    const label = button.dataset.section === "coverage" ? "Missing translations" : "Source changes to review";
+    button.textContent = `${label} (${report.sections[button.dataset.section].total.toLocaleString()})`;
+  }
   renderSummary();
   renderFilters();
   renderEntries();
 }
 
 function renderSummary() {
-  elements.summary.replaceChildren(...STATUS_ORDER.map((status) => {
+  elements.summary.replaceChildren(...SECTION_STATUSES[state.section].map((status) => {
     const card = document.createElement("div");
     card.className = "summary-card";
-    card.innerHTML = `<span class="summary-card__number">${state.report.counts[status]}</span><span class="summary-card__label">${STATUS_LABELS[status]}</span>`;
+    card.innerHTML = `<span class="summary-card__number">${state.report.sections[state.section].counts[status]}</span><span class="summary-card__label">${STATUS_LABELS[status]}</span>`;
     return card;
   }));
 }
 
 function renderFilters() {
-  elements.filters.replaceChildren(...STATUS_ORDER.map((status) => {
+  elements.filters.replaceChildren(...SECTION_STATUSES[state.section].map((status) => {
     const button = document.createElement("button");
     button.type = "button";
     button.className = "filter is-active";
@@ -113,7 +136,7 @@ function renderFilters() {
 }
 
 function renderEntries() {
-  const matches = state.report.entries.filter((entry) => {
+  const matches = state.report.sections[state.section].entries.filter((entry) => {
     if (!state.activeStatuses.has(entry.status)) return false;
     if (!state.query) return true;
     return [entry.sourceFile, entry.targetFile, entry.pointer, entry.sourceBefore, entry.sourceAfter, entry.translationCurrent]
@@ -123,9 +146,9 @@ function renderEntries() {
   const visible = matches.slice(0, state.visible);
   elements.entries.replaceChildren(...visible.map(renderEntry));
   if (visible.length === 0) {
-    elements.entries.innerHTML = '<div class="empty-state">No changes match the current filters.</div>';
+    elements.entries.innerHTML = '<div class="empty-state">No items match the current filters.</div>';
   }
-  elements.resultCount.textContent = `Showing ${visible.length.toLocaleString()} of ${matches.length.toLocaleString()} matching changes`;
+  elements.resultCount.textContent = `Showing ${visible.length.toLocaleString()} of ${matches.length.toLocaleString()} matching items`;
   elements.loadMore.hidden = visible.length >= matches.length;
 }
 
@@ -143,7 +166,7 @@ function renderEntry(entry) {
 
   const comparison = fragment.querySelector(".comparison");
   const panels = [];
-  if (entry.status !== "added" && entry.status !== "missing") {
+  if (state.section === "review") {
     panels.push(valuePanel("PREVIOUS EN", entry.sourceBefore, "before"));
   }
   if (entry.status !== "deleted") {
