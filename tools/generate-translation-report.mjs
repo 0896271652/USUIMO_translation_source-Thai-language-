@@ -18,7 +18,7 @@ fs.mkdirSync(path.join(outputDir, "reports"), { recursive: true });
 fs.cpSync(path.join(repoRoot, "translation-report-web"), outputDir, { recursive: true });
 
 const index = {
-  schemaVersion: 1,
+  schemaVersion: 2,
   repository: config.repository,
   generatedAt: new Date().toISOString(),
   languages: [],
@@ -39,10 +39,9 @@ for (const language of languages) {
     label: report.languageLabel,
     nativeLabel: report.languageNativeLabel,
     report: `reports/${filename}`,
-    counts: report.counts,
-    total: report.total,
+    sections: Object.fromEntries(Object.entries(report.sections).map(([name, section]) => [name, { counts: section.counts, total: section.total }])),
   });
-  process.stdout.write(`${report.total} items\n`);
+  process.stdout.write(`${report.sections.coverage.total} coverage items, ${report.sections.review.total} review items\n`);
 }
 
 fs.writeFileSync(path.join(outputDir, "reports", "index.json"), `${JSON.stringify(index, null, 2)}\n`);

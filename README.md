@@ -7,7 +7,7 @@ The text in this repository is updated alongside the latest in-game text, so tra
 
 ## Translation change report
 
-Before starting translation work, use the web report to quickly see which English entries were added, changed, removed, or are still missing from your language.
+Before starting translation work, use the web report to find missing translations against the latest English and language files. A separate source-review list shows English changes and removals since your language’s review checkpoint.
 
 [![Open Translation Change Report](https://img.shields.io/badge/Open-Translation%20Change%20Report-f36fa5?style=for-the-badge)](https://shiroin000.github.io/USUIMO_translation_source/)
 

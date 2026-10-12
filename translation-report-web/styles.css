@@ -177,7 +177,7 @@ select:focus, .search:focus-within { border-color: #f28bb5; box-shadow: 0 0 0 4p
 
 .summary {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 12px;
   margin: 28px 0;
 }
@@ -383,8 +383,6 @@ footer {
 @media (max-width: 1080px) {
   .hero { grid-template-columns: 1fr; gap: 34px; padding: 50px 42px 42px; }
   .language-picker { max-width: 520px; }
-  .summary { grid-template-columns: repeat(3, 1fr); }
-  .summary-card:nth-child(4), .summary-card:nth-child(5) { grid-column: span 1; }
   .entry { grid-template-columns: 1fr; grid-template-areas: "top" "file" "compare"; }
 }
 
@@ -397,7 +395,6 @@ footer {
   .language-picker { padding: 18px; border-radius: 20px; }
   .summary { grid-template-columns: 1fr 1fr; gap: 9px; }
   .summary-card { min-height: 126px; padding: 18px; border-radius: 18px; }
-  .summary-card:last-child { grid-column: span 2; }
   .toolbar { align-items: stretch; padding: 11px; border-radius: 18px; }
   .filters { width: 100%; }
   .filter { flex: 1 1 auto; }
@@ -411,3 +408,8 @@ footer {
   html { scroll-behavior: auto; }
   *, *::before, *::after { transition-duration: 0.01ms !important; }
 }
+
+.report-sections { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 28px; }
+.report-sections button { flex: 1 1 250px; padding: 18px 22px; border: 1px solid var(--line); border-radius: 18px; background: white; color: var(--ink); cursor: pointer; font-weight: 700; }
+.report-sections button.is-active { background: var(--pink-soft); border-color: var(--pink); color: var(--pink-deep); }
+.report-sections button:focus-visible { outline: 3px solid var(--lavender); outline-offset: 3px; }

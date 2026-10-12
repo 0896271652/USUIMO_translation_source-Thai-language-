@@ -18,7 +18,7 @@
         <div class="hero__copy">
           <p class="eyebrow"><span aria-hidden="true">♡</span> USUIMO · COMMUNITY TRANSLATION</p>
           <h1>Translation change report</h1>
-          <p class="hero__lede">Compare English source updates with each community translation to find new, changed, removed, and untranslated text.</p>
+          <p class="hero__lede">Find missing translations using the latest English and language files, or separately review changes to the English source.</p>
         </div>
         <div class="language-picker">
           <label for="language">Translation language</label>
@@ -28,6 +28,10 @@
       </header>
 
       <main>
+        <nav id="sections" class="report-sections" aria-label="Report lists">
+          <button type="button" data-section="coverage" class="is-active" aria-pressed="true">Missing translations</button>
+          <button type="button" data-section="review" aria-pressed="false">Source changes to review</button>
+        </nav>
         <section id="summary" class="summary" aria-label="Change summary"></section>
 
         <section class="toolbar" aria-label="Report filters">
@@ -41,18 +45,18 @@
 
         <section class="report-meta">
           <div>
-            <p class="report-meta__label">SOURCE WINDOW</p>
+            <p id="source-label" class="report-meta__label">LATEST TRANSLATION COVERAGE</p>
             <p id="source-window">Loading report…</p>
           </div>
           <p id="result-count" class="result-count"></p>
         </section>
 
         <section id="entries" class="entries" aria-live="polite"></section>
-        <button id="load-more" class="load-more" type="button" hidden>Show more changes</button>
+        <button id="load-more" class="load-more" type="button" hidden>Show more items</button>
       </main>
 
       <footer>
-        Generated from repository history. Translation files are never modified by this report.
+        Generated from the latest repository files and source history. Translation files are never modified by this report.
       </footer>
     </div>
 
