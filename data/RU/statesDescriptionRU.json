@@ -694,6 +694,16 @@
       "Скорость передвижения уменьшается с каждым грузом! При >10 — мгновенно утонет!"
     ]
   },
+  "96": {
+    "name": [],
+    "subtitle": [
+      "Мистильтейн на полной мощности!.."
+    ],
+    "description": [
+      "Increases MAT, grants 20 Defense Penetration, ",
+      "and gives \\is[4] a homing effect"
+    ]
+  },
   "98": {
     "name": [],
     "subtitle": [
