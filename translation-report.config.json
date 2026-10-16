@@ -5,7 +5,7 @@
     "KR": {
       "label": "Korean",
       "nativeLabel": "한국어",
-      "baseCommit": "8a0c07e9c70da5ce8e50d91a6738a1f4b38a9a5c",
+      "baseCommit": "64ff1bb68ad3774354877d21f8b2d3750ccf6ed5",
       "baseNote": "Last repository revision that updated Korean translation files"
     },
     "ES": {
@@ -23,13 +23,13 @@
     "ID": {
       "label": "Indonesian",
       "nativeLabel": "Bahasa Indonesia",
-      "baseCommit": "8e0795ec6e5905a47fefca0bb9692d1a11560101",
+      "baseCommit": "64ff1bb68ad3774354877d21f8b2d3750ccf6ed5",
       "baseNote": "Last repository revision that updated Indonesian translation files"
     },
     "IT": {
       "label": "Italian",
       "nativeLabel": "Italiano",
-      "baseCommit": "e28b8063e21555c03ab6db6b55b10a9e0d46e5e3",
+      "baseCommit": "64ff1bb68ad3774354877d21f8b2d3750ccf6ed5",
       "baseNote": "Last repository revision that updated Italian translation files"
     },
     "PTBR": {
@@ -41,25 +41,25 @@
     "RU": {
       "label": "Russian",
       "nativeLabel": "Русский",
-      "baseCommit": "8a0c07e9c70da5ce8e50d91a6738a1f4b38a9a5c",
+      "baseCommit": "64ff1bb68ad3774354877d21f8b2d3750ccf6ed5",
       "baseNote": "Last repository revision that updated Russian translation files"
     },
     "TH": {
       "label": "Thai",
       "nativeLabel": "ไทย",
-      "baseCommit": "d591cb03a2207dffa0ce8c7192083aa9bba6ca66",
+      "baseCommit": "64ff1bb68ad3774354877d21f8b2d3750ccf6ed5",
       "baseNote": "Last repository revision that updated Thai translation files"
     },
     "UA": {
       "label": "Ukrainian",
       "nativeLabel": "Українська",
-      "baseCommit": "8a0c07e9c70da5ce8e50d91a6738a1f4b38a9a5c",
+      "baseCommit": "64ff1bb68ad3774354877d21f8b2d3750ccf6ed5",
       "baseNote": "Last repository revision that updated Ukrainian translation files"
     },
     "VN": {
       "label": "Vietnamese",
       "nativeLabel": "Tiếng Việt",
-      "baseCommit": "8a0c07e9c70da5ce8e50d91a6738a1f4b38a9a5c",
+      "baseCommit": "64ff1bb68ad3774354877d21f8b2d3750ccf6ed5",
       "baseNote": "Last repository revision that updated Vietnamese translation files"
     }
   }
