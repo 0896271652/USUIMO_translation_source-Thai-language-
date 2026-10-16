@@ -314,6 +314,10 @@
       "Do it at your own risk!"
     ]
   },
+  "minecartTutorial": [
+    "If the minecart isn't working, ",
+    "try knocking it a few times."
+  ],  
   "nekoTruck": {
     "0": [
       "Want to buy \\v[84]?",

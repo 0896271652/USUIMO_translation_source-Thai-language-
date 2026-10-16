@@ -3345,6 +3345,14 @@
     "recallEventName": [
       "Newlywed Three Choice: \\str[120] first~?"
     ],
+    "unlockCondition": [
+      "Requires at least \\px[10]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]",
+      "\\str[120] is in a pretty good mood",
+      "Triggered \\str[120]'s newlywed three question sequence in the entryway upon returning home at dusk",
+      "\\str[121]'s \\dMPFCstart[Koufun] is at least 40",
+      "Have made love with \\str[120] at least once",
+      "Requires \\dMPFCstart[Receptiveness] of at least 10"
+    ],
     "subtitle": [
       "\"Would you like a bath first?",
       "Would you like dinner first?",
@@ -3568,7 +3576,8 @@
     "unlockCondition": [
       "Requires at least \\px[10]\\dimg[15]\\dimg[15]",
       "Successfully invite \\str[120] to take a bath together",
-      "Requires \\dMPFCstart[Receptiveness] of at least 8"
+      "Requires \\dMPFCstart[Receptiveness] of at least 8",
+      "Choose to help \\str[120] take a bath"
     ],
     "subtitle": [
       "The maintenance work girls do is really complicated...",
@@ -3692,6 +3701,131 @@
       "Before I could even react,",
       "\\str[120] had already polished off all the meat",
       "on the plate with incredible gusto..."
+    ],
+    "ability": ""
+  },
+  "461": {
+    "name": [
+      "Dozing Off"
+    ],
+    "recallEventName": [
+      "Dozing \\str[120]"
+    ],
+    "unlockCondition": [
+      "If the player remains inactive for a certain amount of time, \\str[120] will gradually grow sleepy while sitting"
+    ],
+    "subtitle": [
+      "Huh?",
+      "She still hasn't woken up even after that…?",
+      "Can I… do it again…?"
+    ],
+    "ability": ""
+  },
+  "462": {
+    "name": [
+      "Eating Watermelon"
+    ],
+    "recallEventName": [
+      "\"Ooh~! Ice-cold watermelon!!\""
+    ],
+    "unlockCondition": [
+      "Eat watermelon with \\str[120] on a hot day"
+    ],
+    "subtitle": [
+      "...She ate it so fast!?",
+      "I haven't even had a bite yet..."
+    ],
+    "ability": ""
+  },
+  "463": {
+    "name": [
+      "Treatment?"
+    ],
+    "unlockCondition": [
+      "Perform rubedo on the special \\ii[20] inside the Star Door to obtain \\ii[197],",
+      "then mix it into milk and have \\str[120] drink it."
+    ],
+    "subtitle": [
+      "In the end, ",
+      "nothing seemed to change after she drank the \\ii[197].",
+      "Could it really have no effect at all?"
+    ],
+    "ability": ""
+  },
+  "464": {
+    "name": [
+      "Playing Games"
+    ],
+    "recallEventName": [
+      "In Imouto room, using Imouto's computer to doing indecent things to Imouto"
+    ],
+    "unlockCondition": [
+      "Already obtained\\ii[15]",
+      "While \\str[120] is playing games, choose to sit her on your lap, then select \"Observe closely\"."
+    ],
+    "subtitle": [
+      "I can't help but tighten my arms around \\str[120], ",
+      "burying my face in her hair and rubbing against it,",
+      "indulging myself in this sense of pure satisfaction."
+    ],
+    "ability": ""
+  },
+  "465": {
+    "name": [
+      "sneaky dildo play"
+    ],
+    "recallEventName": [
+      "Discovered \\str[120] secretly learning lewd things..."
+    ],
+    "subtitle": [
+      "\"\\str[121]...!? Why are you here...",
+      "W-Wait a minute, you just... saw everything...!?\""
+    ],
+    "ability": ""
+  },
+  "466": {
+    "name": [
+      "Being Watched"
+    ],
+    "recallEventName": [
+      "Make \\str[120] watch \\str[121] do lewd things"
+    ],
+    "unlockCondition": [
+      "Requires at least \\px[10]\\dimg[15]\\dimg[15]",
+      "Successfully invite \\str[120] to take a bath together",
+      "Requires \\dMPFCstart[Receptiveness] of at least 8",
+      "Choose to help \\str[120] take a bath"
+    ],
+    "subtitle": [
+      "\"Eh...!?",
+      "Y-you just want me to watch...?",
+      "\\str[121]... you're always coming up with such weird requests...\""
+    ],
+    "ability": ""
+  },
+  "467": {
+    "name": [
+      "Cum on face"
+    ],
+    "recallEventName": [
+      "\\str[121]'s cock actually exploded?!"
+    ],
+    "subtitle": [
+      "\"Nnngyaaaaaaa—\""    
+    ],
+    "ability": ""
+  },
+  "468": {
+    "name": [
+      "Peeping while Undressing I"
+    ],
+    "recallEventName": [
+      "This is strictly a health checkup for \\str[120], alright?! I"
+    ],
+    "subtitle": [
+      "Sneaking over quietly…………",
+      "If I'm gonna peep, I gotta open the door carefully ",
+      "so \\str[120] doesn't notice—"
     ],
     "ability": ""
   },

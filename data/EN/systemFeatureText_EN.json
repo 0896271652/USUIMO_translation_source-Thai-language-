@@ -28,13 +28,6 @@
   "numberDays": [
     "DAY"
   ],
-  "tipSave": [
-    "Do you want to transfer save data from an older version?",
-    "The current game is compatible with save files from version 0.22A and above."
-  ],
-  "tipSave2": [
-    "Please select the old version’s “save” folder (or the game’s root directory), then click “Select Folder”."
-  ],
   "tipSaveMobile": [
     "The Android version doesn’t support quick access to the save directory for now",
     "due to sensitive permission issues.",
