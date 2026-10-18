@@ -3338,7 +3338,7 @@
         ],
         "unlockCondition": [
             "Yêu cầu tối thiểu \\px[10]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]",
-            "\\str[120] đang có tâm trạng khá tốt.",
+            "\\str[120] đang có tâm trạng khá tốt",
             "Kích hoạt chuỗi ba câu hỏi tân hôn của \\str[120] tại lối vào khi về nhà lúc hoàng hôn",
             "Đã tắm cùng \\str[120] ít nhất một lần",
             "Đã ân ái với \\str[120] ít nhất một lần",
@@ -3357,6 +3357,14 @@
         ],
         "recallEventName": [
             "Ba Lựa Chọn Tân Hôn: Ăn \\str[120] trước~?"
+        ],
+        "unlockCondition": [
+            "Yêu cầu tối thiểu \\px[10]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]\\dimg[15]",
+            "\\str[120] đang có tâm trạng khá tốt",
+            "Kích hoạt chuỗi ba câu hỏi tân hôn của \\str[120] tại lối vào khi về nhà lúc hoàng hôn",
+            "\\dMPFCstart[Koufun] của \\str[121] đạt ít nhất 40",
+            "Đã ân ái với \\str[120] ít nhất một lần",
+            "Yêu cầu \\dMPFCstart[Receptiveness] tối thiểu là 10"
         ],
         "subtitle": [
             "\"Anh muốn đi tắm trước?",
@@ -3581,7 +3589,8 @@
         "unlockCondition": [
             "Yêu cầu tối thiểu \\px[10]\\dimg[15]\\dimg[15]",
             "Mời \\str[120] tắm cùng nhau thành công",
-            "Yêu cầu \\dMPFCstart[Receptiveness] tối thiểu là 8"
+            "Yêu cầu \\dMPFCstart[Receptiveness] tối thiểu là 8",
+            "Chọn giúp \\str[120] tắm"
         ],
         "subtitle": [
             "Công việc chăm sóc cho con gái đúng là phức tạp thật...",
@@ -3705,6 +3714,130 @@
             "Trước khi tôi kịp phản ứng,",
             "\\str[120] đã ăn sạch toàn bộ thịt trên đĩa",
             "với vẻ vô cùng ngon miệng..."
+        ],
+        "ability": ""
+    },
+    "461": {
+        "name": [
+            "Ngủ Thiếp Đi"
+        ],
+        "recallEventName": [
+            "\\str[120] buồn ngủ"
+        ],
+        "unlockCondition": [
+            "Nếu người chơi không có thao tác trong một khoảng thời gian nhất định, \\str[120] sẽ dần buồn ngủ khi đang ngồi"
+        ],
+        "subtitle": [
+            "Huh?",
+            "Làm đến thế rồi mà em ấy vẫn chưa tỉnh sao...?",
+            "Mình có nên... làm lại lần nữa không nhỉ...?"
+        ],
+        "ability": ""
+    },
+    "462": {
+        "name": [
+            "Ăn Dưa Hấu"
+        ],
+        "recallEventName": [
+            "\"Ooh~! Là dưa hấu mát lạnh!!\""
+        ],
+        "unlockCondition": [
+            "Ăn dưa hấu cùng với \\str[120] vào một ngày nắng nóng"
+        ],
+        "subtitle": [
+            "...Em ấy ăn nhanh quá!?",
+            "Mình còn chưa kịp ăn miếng nào nữa..."
+        ],
+        "ability": ""
+    },
+    "463": {
+        "name": [
+            "Chữa Trị?"
+        ],
+        "unlockCondition": [
+            "Thực hiện phản ứng Hồng Hóa lên \\ii[20] đặc biệt bên trong Cửa Thiên Tinh để nhận được \\ii[197],",
+            "sau đó pha vào sữa và cho \\str[120] uống."
+        ],
+        "subtitle": [
+            "Sau cùng, ",
+            "dường như chẳng có gì thay đổi sau khi em ấy uống \\ii[197].",
+            "Chẳng lẽ nó thực sự không có tác dụng gì sao?"
+        ],
+        "ability": ""
+    },
+    "464": {
+        "name": [
+            "Chơi Game"
+        ],
+        "recallEventName": [
+            "Trong phòng của \\str[120], sử dụng máy tính của em gái để làm những hành động khiếm nhã với em ấy"
+        ],
+        "unlockCondition": [
+            "Đã nhận được \\ii[15]",
+            "Khi \\str[120] đang chơi game, để em ấy ngồi lên đùi bạn, sau đó chọn \"Quan sát thật kỹ\"."
+        ],
+        "subtitle": [
+            "Tôi không kìm được mà siết chặt vòng tay ôm \\str[120], ",
+            "vùi mặt vào mái tóc của em ấy và dụi nhẹ vào đó,",
+            "chìm đắm trong cảm giác thỏa mãn thuần túy này."
+        ],
+        "ability": ""
+    },
+    "465": {
+        "name": [
+            "Lén Lút Sử Dụng Đồ Chơi Tình Dục"
+        ],
+        "recallEventName": [
+            "Phát hiện \\str[120] đang lén làm những chuyện dâm dục..."
+        ],
+        "subtitle": [
+            "\"\\str[121]...!? Sao anh lại ở đây...",
+            "K-Khoan đã, chẳng lẽ anh vừa... nhìn thấy hết rồi sao...!?\""
+        ],
+        "ability": ""
+    },
+    "466": {
+        "name": [
+            "Bị Bắt Nhìn"
+        ],
+        "recallEventName": [
+            "Khiến \\str[120] xem \\str[121] làm những chuyện dâm dục"
+        ],
+        "unlockCondition": [
+            "Yêu cầu tối thiểu \\px[10]\\dimg[15]\\dimg[15]",
+            "Mời \\str[120] tắm cùng nhau thành công",
+            "Yêu cầu \\dMPFCstart[Receptiveness] đạt ít nhất là 8",
+            "Chọn giúp \\str[120] tắm"
+        ],
+        "subtitle": [
+            "\"Eh...!?",
+            "A-Anh chỉ muốn em nhìn xem thôi sao...?",
+            "\\str[121]... lúc nào cũng nghĩ ra mấy cái yêu cầu kỳ quặc như vậy...\""
+        ],
+        "ability": ""
+    },
+    "467": {
+        "name": [
+            "Xuất Lên Mặt"
+        ],
+        "recallEventName": [
+            "Cái đó của \\str[121] đã bùng nổ?!"
+        ],
+        "subtitle": [
+            "\"Nnngyaaaaaaa—\""
+        ],
+        "ability": ""
+    },
+    "468": {
+        "name": [
+            "Nhìn Trộm Khi Thay Đồ I"
+        ],
+        "recallEventName": [
+            "Đây hoàn toàn chỉ là kiểm tra sức khỏe cho \\str[120] thôi mà?! I"
+        ],
+        "subtitle": [
+            "Lén lút tiến lại gần…………",
+            "Nếu đã định nhìn trộm, mình phải cẩn thận mở cửa để \\str[120] không phát hiện mới được—"
         ],
         "ability": ""
     },
