@@ -314,6 +314,10 @@
             "Làm thì phải tự gánh hậu quả!"
         ]
     },
+    "minecartTutorial": [
+        "Nếu xe mỏ không chạy, ",
+        "hãy thử đập vào nó vài lần."
+    ],
     "nekoTruck": {
         "0": [
             "Muốn mua \\v[84] không?",
@@ -326,8 +330,8 @@
         ],
         "10": "Không có làn đường đủ rộng!",
         "11": "Có chướng ngại vật trên làn đường!",
-        "12": "Cỗ Xe đã được triệu hồi thành công!",
-        "13": "Không thể triệu hồi Cỗ Xe ở khu vực này!"
+        "12": "Xe Van đã được triệu hồi thành công!",
+        "13": "Không thể triệu hồi Xe Van ở khu vực này!"
     },
     "sela": {
         "1": [

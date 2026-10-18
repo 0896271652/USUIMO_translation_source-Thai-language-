@@ -1427,6 +1427,11 @@
             "Giờ thì ra nốt phần còn lại cho em đi...",
             "Em sẽ hứng hết từng chút một...♥\""
         ],
+        "44.1": [
+            "Dù vẫn chưa hoàn hồn sau cơn ngạt thở vừa rồi, ",
+            "\\str[120] dường như vẫn không chịu bỏ cuộc,",
+            "đưa tay vuốt ve dương vật vẫn còn đang co giật vì hưng phấn."
+        ],
         "45": [
             "\"Ugh...! Em... em nhiệt tình quá đấy...! ",
             "Cứ thế này thì anh sắp—\""
@@ -2536,7 +2541,7 @@
             "\\nl< >\"'—Ăn tối trước á? Tại sao không phải là em trước chứ!?",
             "Tại sao tại sao~!? Trước đây lần nào anh cũng chọn em mà!?",
             "Chẳng lẽ anh đang ngoại tình đấy hả!?",
-            "Chắc chắn là anh đang lén lút với con nhỏ nào khác rồi đúng không!?'\"\\w[360]" 
+            "Chắc chắn là anh đang lén lút với con nhỏ nào khác rồi đúng không!?'\"\\w[360]"
         ],
         "26": [
             "Ánh mắt của \\str[120] đang dần mơ hồ, ",
