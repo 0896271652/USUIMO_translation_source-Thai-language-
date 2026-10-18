@@ -3704,6 +3704,19 @@
     ],
     "ability": ""
   },
+  "460": {
+    "name": [
+      "Lecture"
+    ],
+    "recallEventName": [
+      "Lecturing \\str[121]"
+    ],
+    "subtitle": [
+      "\"All you ever think about are horny things, day in and day out...!",
+      "From now on, I'm officially imposing a 'No Horny' rule on \\str[121]!\""
+    ],
+    "ability": ""
+  },
   "461": {
     "name": [
       "Dozing Off"
@@ -3811,7 +3824,7 @@
       "\\str[121]'s cock actually exploded?!"
     ],
     "subtitle": [
-      "\"Nnngyaaaaaaa—\""    
+      "\"Nnngyaaaaaaa—\""
     ],
     "ability": ""
   },
@@ -3826,6 +3839,46 @@
       "Sneaking over quietly…………",
       "If I'm gonna peep, I gotta open the door carefully ",
       "so \\str[120] doesn't notice—"
+    ],
+    "ability": ""
+  },
+  "469": {
+    "name": [
+      "The Toilet"
+    ],
+    "recallEventName": [
+      "Accidentally Walking in on \\str[120] Using the Toilet"
+    ],
+    "subtitle": [
+      ""
+    ],
+    "ability": ""
+  },
+  "470": {
+    "name": [
+      "Watching an Adult Video"
+    ],
+    "recallEventName": [
+      "Watching an Adult Video with \\str[120]"
+    ],
+    "subtitle": [
+      "\"I-I'm fine! You're always... playing with my body anyway... ",
+      "Something like this... I-I've been prepared for it for a long time!!\""
+    ],
+    "ability": ""
+  },
+  "471": {
+    "name": [
+      "Anal Exploration"
+    ],
+    "recallEventName": [
+      "Can my butt... really fit something this big inside...?"
+    ],
+    "subtitle": [
+      "\"Eh...!? Um... \\str[121]... not there... ",
+      "Isn't that place just for... when I have to go...?",
+      "I feel like... it would be so messy and gross.",
+      "Why... would you want to touch a place like that...?\""
     ],
     "ability": ""
   },

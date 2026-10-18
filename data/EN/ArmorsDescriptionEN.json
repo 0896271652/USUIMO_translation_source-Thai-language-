@@ -1126,6 +1126,23 @@
       "Enlarges all servants and enhances their special attributes"
     ]
   },
+  "81": {
+    "name": [
+      "Mistilteinn's Assistance"
+    ],
+    "subtitle": "",
+    "description": [
+      "A sword of light wreathed in crimson waves, seemingly possessing a will of its own",
+      "It has become much more docile after being beaten into submission,",
+      "but if you don't feed it, it'll throw a tantrum and refuse to work..."
+    ],
+    "ability": [
+      "Automatically attacks nearby enemies as a servant",
+      "Consume one \\ii[20] to awaken Mistilteinn, activating it for 10 minutes",
+      "While active, Mistilteinn becomes more aggressive and gains access to additional attacks",
+      "When the active state ends, Mistilteinn will automatically perform a spinning slash before returning to its normal state"
+    ]
+  },
   "82": {
     "name": [
       "Viperheart"
