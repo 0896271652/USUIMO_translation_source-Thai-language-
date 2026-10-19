@@ -502,7 +502,8 @@
     "ability": [
       "Consume one \\ii[20] to awaken Mistilteinn, activating it for 10 minutes",
       "While active, Mistilteinn gains the Full Power state",
-      "While active, Mistilteinn's attacks have a chance to unleash a sword wave",
+      "While awakened, all attacks unleash sword waves",
+      "While awakened, other equipped but unawakened \\ia[81] will resonate",
       "When the active state ends, Mistilteinn will automatically perform a spinning slash before falling back into slumber"
     ]
   },

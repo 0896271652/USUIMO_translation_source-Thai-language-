@@ -28,6 +28,18 @@
       "\\w[120]"
     ]
   },
+  "changelogScene": {
+    "Announcements": "遊戲公告",
+    "Changelog": "更新履歷",
+    "ReleaseDate": "發佈時間",
+    "LastModified": "修改時間",
+    "UpgradableFrom": "可由以下版本進行升級",
+    "NotRecorded": "未記錄",
+    "MajorUpdate": "主要版本更新",
+    "PatchUpdate": "補丁版本更新",
+    "ReadControls": "拖拽 / 滾輪閱讀 · 懸停或按住箭頭滾動",
+    "NotProvided": "未提供"
+  },
   "rpgMapButtonDescription": {
     "starDoor": "回家",
     "option": "設置",
@@ -264,24 +276,6 @@
     ],
     "1": [
       " 出現在了深淵裡！ "
-    ]
-  },
-  "vendingMachine": {
-    "1": [
-      "一臺奇怪的自動販售機……",
-      "一瓶飲料……\\c[6]\\v[86]\\c[0]元。"
-    ],
-    "2": [
-      "買一瓶",
-      "算了吧"
-    ],
-    "3": [
-      "不行……",
-      "身上的錢不夠……"
-    ],
-    "4": [
-      "由於機器遭到不明人士損壞、臨時追加維修罰金……",
-      "罰金繳清前……一瓶飲料……\\c[6]\\v[86]\\c[0]元！？"
     ]
   },
   "maidBunnyBoss": {
