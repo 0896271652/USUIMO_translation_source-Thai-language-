@@ -1416,7 +1416,8 @@
       "against instant-death mechanics"
     ],
     "ability": [
-      "Restores 100% HP per second when equipped"
+      "Restores 100% HP per second when equipped",
+      "Automatically contracts with \\dMPFCstart[TraumaRescueTeam] and allows rescue to trigger every time you are downed"
     ]
   },
   "298": {

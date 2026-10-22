@@ -24,5 +24,15 @@
       "Ejaculation immediately clears all Arousal and enters Sage Mode.",
       "All stats are increased while in Sage Mode."
     ]
+  },
+  "TraumaRescueTeam": {
+    "name": "Trauma Rescue Team",
+    "description": [
+      "\"Since you've sincerely called for our aid!\"",
+      "\"We'll graciously answer your plea!\"",
+      "Twin nurses who roam between worlds. Sign a contract with them to receive their rescue services.",
+      "When your HP reaches zero and the death sequence begins, the Trauma Rescue Team will automatically appear and attempt emergency resuscitation.",
+      "Rumor has it they don't even have medical licenses."
+    ]
   }
 }
